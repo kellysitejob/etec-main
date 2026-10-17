@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Universo das Células — Missão ETEC</title>
+<link rel="stylesheet" href="css/app.css">
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"
+  }
+}
+</script>
+</head>
+<body>
+<div id="space"></div>
+<div id="top"><h1>🧬 Universo das Células</h1><div id="subtitle">Uma aventura científica para a Missão ETEC</div></div>
+<div id="hud"><span class="pill" id="crumb">Toque no núcleo · BNCC</span><span class="pill" id="score">⭐ Descobertas: 0</span><span class="pill hidden" id="etecLegend">Cinza = falta · Brilho = feito</span><button type="button" class="pill pill-btn hidden" id="navBack">⬅ Voltar camada</button></div>
+<div id="help">🖱️ Arraste para girar o universo<br>🔍 Role para aproximar ou afastar<br>🧬 Núcleo: camadas BNCC · voltar<br>📝 Missão ETEC → prova → 50 questões em quiz<br>🔗 Na prova, toque numa matéria para ligar as questões<br>📘 BNCC: ano → matéria → habilidade</div>
+<div id="status">Experiência 3D requer conexão com a internet.</div>
+<aside id="panel" class="hidden">
+<button id="close" aria-label="Fechar painel" type="button">×</button>
+<div class="eyebrow" id="category">Descoberta científica</div>
+<h2 id="title">Título</h2>
+<p id="summary"></p>
+<div id="bnccProgress" class="bncc-progress hidden"><div class="bar-label">Progresso BNCC</div><div class="bar-track"><div class="bar-fill"></div></div></div>
+<div class="task" id="factsTask"><b>🧠 O que descobrir</b><div id="facts"></div></div>
+<div class="task hidden" id="noteTask"><label for="questionNote"><b>🗒️ Meu bloco de anotações</b></label><textarea id="questionNote" rows="8" placeholder="Anote seu raciocínio, dúvidas ou lembretes..."></textarea><small id="noteSaved">Salvo automaticamente neste dispositivo.</small></div>
+<div class="task" id="quizTask"><b>🎯 Desafio rápido</b><div id="question"></div><div id="answers"></div><div id="quizResult"></div></div>
+<div id="codesTask"><b>🏷️ Códigos BNCC para revisar</b><div id="codes"></div><p style="font-size:.75rem;color:#a9bddf">Os códigos são sugestões de estudo, não previsão oficial da ETEC. Confirme a descrição na BNCC.</p></div>
+<button class="primary hidden" id="openProvaQuiz" type="button">📋 Abrir questão Vestibulinho</button>
+<button class="primary" id="learned" type="button">✨ Marcar como descoberto</button>
+</aside>
+<div id="quizModal" class="quiz-modal hidden" aria-hidden="true" role="dialog" aria-labelledby="quizMeta">
+<div class="quiz-modal-box">
+<button type="button" id="quizModalClose" class="quiz-modal-close" aria-label="Fechar">×</button>
+<p class="quiz-progress hidden" id="quizProgress"></p>
+<p class="quiz-meta" id="quizMeta">Questão</p>
+<p class="quiz-theme" id="quizTheme"></p>
+<div class="quiz-reading hidden" id="quizReading"></div>
+<div class="quiz-enunciado-wrap"><h3>Enunciado</h3><div class="quiz-enunciado" id="quizEnunciado"></div></div>
+<div class="quiz-image-scroll hidden" id="quizImageScroll">
+<img class="quiz-question-image" id="quizQuestionImage" alt="Figura original da questão, recortada do caderno da prova." />
+</div>
+<p class="quiz-links" id="quizLinks"></p>
+<p class="quiz-pick-label">Escolha uma alternativa:</p>
+<div class="quiz-answers" id="quizAnswers"></div>
+<div class="quiz-result" id="quizResult"></div>
+</div>
+</div>
+<div id="start"><div class="startbox"><div class="emoji">🌌</div><h1>Entre no Universo das Células</h1><p>Explore um pequeno universo 3D, visite mundos de Ciências e complete desafios para sua preparação para a ETEC.</p><button id="begin" type="button">COMEÇAR A EXPLORAR 🚀</button><p style="font-size:.8rem">Funciona no navegador. Precisa de internet para carregar o motor gráfico 3D.</p></div></div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,2128 @@
+{
+  "prova 2026 1 sem": {
+    "prova": "prova 2026 1 sem",
+    "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+    "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+    "questions": {
+      "1": {
+        "bnccCodes": [
+          "EF69LP03"
+        ],
+        "tema": "Interpretação de texto: domesticação de animais e evolução humana",
+        "reading": "A convivência com os animais mudou os seres humanos. Talvez o exemplo mais popular seja o consumo de leite: antes da domesticação animal, as pessoas naturalmente desenvolviam intolerância a lactose à medida que cresciam e não precisavam mais do leite materno. Quando os seres humanos começaram a criar gado, começaram a beber mais leite, havendo uma adaptação do sistema digestivo para o consumo do leite durante toda a vida. A domesticação é parte da conexão humana com os animais, que percorre toda a história e conecta grandes saltos evolutivos, como o desenvolvimento de ferramentas e até da linguagem. Adaptado.",
+        "enunciado": "Segundo o texto, a domesticação de animais",
+        "stem": "Segundo o texto, a domesticação de animais",
+        "answers": [
+          "ocorreu recentemente, no período medieval, e foi possível devido à invenção da linguagem e das ferramentas de pedra.",
+          "causou danos à saúde humana, que não estava preparada para o consumo de leite na vida adulta, diminuindo a expectativa média de vida do homem contemporâneo.",
+          "aumentou os níveis naturais de intolerância a lactose no homem pré-histórico devido às diferenças entre o leite materno e o leite de vaca.",
+          "contribuiu para o desenvolvimento de aspectos culturais que favoreceram a evolução humana, como a criação de ferramentas e da linguagem.",
+          "provocou saltos evolutivos que atrasaram o desenvolvimento da linguagem e da tecnologia."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "2": {
+        "bnccCodes": [
+          "EF07MA09"
+        ],
+        "tema": "Razão e proporcionalidade: cães-guia e pessoas com deficiência visual",
+        "reading": "Cães-guia são treinados para facilitar a locomoção e conduzir a pessoa cega ou com baixa visão em segurança. Estima-se que, atualmente, 207 cães-guia estão em atividade no Brasil. Em uma perspectiva de distribuição quanto às raças, predominam Labradores (153) e Golden Retriever (16).",
+        "enunciado": "De acordo com o texto e considerando que existem atualmente, no Brasil, cerca de 6,5 milhões de pessoas com deficiência visual, assinale a alternativa que apresenta a melhor aproximação da razão entre o número de cães-guia em atividade e o número de pessoas com deficiência visual em nosso país, respectivamente.",
+        "stem": "De acordo com o texto e considerando que existem atualmente, no Brasil, cerca de 6,5 milhões de pessoas com deficiência visual, assinale a alternativa que apresenta a melhor aproximação da razão entre o número de cães-guia em atividade e o número de pessoas com deficiência visual em nosso país, respectivamente.",
+        "answers": [
+          "1 para cada 29 000",
+          "1 para cada 30500",
+          "1 para cada 31400",
+          "1 para cada 31800",
+          "1 para cada 32 700"
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "3": {
+        "bnccCodes": [
+          "EF07MA37"
+        ],
+        "tema": "Gráfico de setores e proporções",
+        "reading": "Cães-guia são treinados para facilitar a locomoção e conduzir a pessoa cega ou com baixa visão em segurança. Estima-se que, atualmente, 207 cães-guia estão em atividade no Brasil. Em uma perspectiva de distribuição quanto às raças, predominam Labradores (153) e Golden Retriever (16).",
+        "enunciado": "Com base nos dados sobre as raças, assinale a alternativa que apresenta o gráfico de setor que melhor representa a distribuição de cães-guia.",
+        "stem": "Com base nos dados sobre as raças, assinale a alternativa que apresenta o gráfico de setor que melhor representa a distribuição de cães-guia.",
+        "answers": [
+          "(Alternativa A ? gr?fico no caderno)",
+          "(Alternativa B ? gr?fico no caderno)",
+          "(Alternativa C ? gr?fico no caderno)",
+          "(Alternativa D ? gr?fico no caderno)",
+          "(Alternativa E ? gr?fico no caderno)"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-1sem-q03-graficos.png"
+      },
+      "4": {
+        "bnccCodes": [
+          "EF69LP47"
+        ],
+        "tema": "Interpretação de texto literário: Clarice Lispector",
+        "reading": "Meu cão me revigora toda. Sem falar que dorme às vezes aos meus pés enchendo o quarto da cálida vida úmida. O meu cão me ensina a viver. Ele só fica “sendo”. “Ser” é a sua atividade. LISPECTOR, Clarice. Um sopro de vida. Org. Olga Borelli. Rio de Janeiro: Rocco, 1999, p. 43.",
+        "enunciado": "Na passagem apresentada, o cão é usado como modelo a ser seguido por",
+        "stem": "Na passagem apresentada, o cão é usado como modelo a ser seguido por",
+        "answers": [
+          "realizar com simplicidade ações complexas, como acalentar as dores alheias e submeter-se constantemente às vontades dos outros.",
+          "sentir-se acolhido ao ser inferiorizado diante de seus superiores hierárquicos, evidenciando a aceitação de sua posição social.",
+          "manter uma atitude de inquietação constante diante da existência, levando-o a revigorar a sociedade em que se encontra.",
+          "regozijar-se diante da possibilidade de tornar um outro indivíduo tenso pela simples companhia que pode oferecer.",
+          "viver com plenitude sua existência, sem se deixar levar por infrutíferas angústias durante esse processo."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "5": {
+        "bnccCodes": [],
+        "tema": "",
+        "reading": "Uma das primeiras domesticações de gatos aconteceu no antigo Egito. Os gatos, felinos menores, viviam entre os humanos, sendo essenciais para a sociedade egípcia na proteção contra pragas de casas e de celeiros. Já os felinos maiores, principalmente leões e leopardos, eram admirados por suas qualidades, sendo, muitas vezes, símbolos da realeza e de alguns deuses do panteão egípcio. Por meio da observação, os egípcios vieram a admirar os felinos pela sua natureza complexa e dual. Para eles, esses animais combinavam graça, fertilidade e cuidado suave com agressão, rapidez e perigo. Os deuses relacionados a essas qualidades eram frequentemente representados com características felinas. Adaptado.",
+        "enunciado": "A partir da leitura do texto, é correto concluir que",
+        "stem": "A partir da leitura do texto, é correto concluir que",
+        "answers": [
+          "os egípcios observavam nos felinos algumas características que consideravam admiráveis, como graça, fertilidade, cuidado e rapidez, e as projetavam em seus deuses.",
+          "os felinos eram importantes para a sociedade egípcia apenas por suas funções práticas, como o controle de pragas em casas e em celeiros.",
+          "a admiração dos egípcios se restringia aos felinos menores, que viviam entre os humanos e eram considerados símbolos de realeza.",
+          "a observação atenta levou os egípcios a considerar os felinos uma espécie contraditória cujas características de personalidade deveriam ser evitadas.",
+          "as divindades egípcias representavam ideais nobres e estavam relacionadas à crença de que os seres humanos são superiores aos animais."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "6": {
+        "bnccCodes": [
+          "EF07CI07"
+        ],
+        "tema": "Benefícios da convivência com animais para o bem-estar",
+        "reading": "A convivência com pets pode ajudar no desenvolvimento afetivo e psicológico, aumentando a produção de endorfina no organismo, minimizando os efeitos da depressão, da dor e da ansiedade. Pesquisas revelam que 80% das pessoas se sentem menos solitárias ao conviver com um animal de estimação e que o ato de fazer carinho em um animal é capaz de diminuir a frequência cardíaca e a pressão sanguínea de uma pessoa. Entre os efeitos positivos de intervenções assistidas realizadas com animais e destinadas a crianças, estão melhora na convivência social, na capacidade de concentração e nas habilidades de comunicação. Adaptado.",
+        "enunciado": "De acordo com o texto, a convivência entre crianças e animais acarreta",
+        "stem": "De acordo com o texto, a convivência entre crianças e animais acarreta",
+        "answers": [
+          "aumento da produção de endorfina no organismo, tornando dispensável qualquer tipo de acompanhamento emocional.",
+          "dependência emocional tão intensa que a criança rejeita completamente o convívio social, isolando-se do mundo.",
+          "redução da necessidade de tomar medicamentos, de fazer exercícios físicos e de se preocupar com alimentação saudável.",
+          "desfavorecimento do desenvolvimento da capacidade de organização, uma vez que ajuda a criança a criar uma rotina.",
+          "melhora habilidades de convivência social e de comunicação, contribuindo para o desenvolvimento afetivo e psicológico."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "7": {
+        "bnccCodes": [
+          "EF09HI28"
+        ],
+        "tema": "Guerra Fria e corrida espacial",
+        "reading": "A cachorrinha Laika, lançada no satélite russo Sputnik 2, em 1957, não retornou. Entre 1948 e 1961, União Soviética (URSS) e Estados Unidos (EUA) enviaram 65 animais ao espaço, sendo 48 cães, 15 macacos e 2 coelhos. Vinte e sete deles morreram em acidentes devido a circunstâncias imprevistas durante a empreitada. O envio de animais não humanos ao espaço começou a cessar com o lançamento de pessoas. Yuri Gagarin, que ficou uma hora e meia no espaço em 1961, brincou uma vez dizendo que foi, ao mesmo tempo, a “primeira pessoa e o último cachorro no espaço”. Adaptado.",
+        "enunciado": "O processo histórico referido no texto é característico do período conhecido como",
+        "stem": "O processo histórico referido no texto é característico do período conhecido como",
+        "answers": [
+          "Primeira Revolução Industrial.",
+          "Segunda Guerra Mundial.",
+          "Reconstrução Europeia.",
+          "Grandes Navegações.",
+          "Guerra Fria."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "8": {
+        "bnccCodes": [
+          "EF69LP03"
+        ],
+        "tema": "Interpretação de texto sobre povos indígenas e animais",
+        "reading": "Certa manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto. Moradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas. Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava com as meninas porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane. Nos territórios indígenas, não há pets do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos. Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. Nas aldeias, faz parte da cultura cuidar de tudo o que tem vida na floresta.",
+        "enunciado": "Segundo o texto, é correto afirmar que",
+        "stem": "Segundo o texto, é correto afirmar que",
+        "answers": [
+          "o vocábulo “xerimbabos”, cujo sentido equivale a “entes muito amados”, é usado para se referir às crianças que desenvolvem afeto pelos animais silvestres.",
+          "o movimento repentino de ataque do bicho-preguiça traumatizou as irmãs Yzuahy e Ywàna, desacostumadas ao convívio com a natureza local.",
+          "a relação afetiva desenvolvida entre os animais silvestres e os domésticos acarretou desequilíbrio ecológico para a comunidade indígena.",
+          "a relação com a fauna e a flora é essencial para uma vivência harmônica na sociedade em que as irmãs residem.",
+          "o cuidado com a fauna local realizado pelos indígenas introduziu o conceito de “animais domésticos” à comunidade."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "9": {
+        "bnccCodes": [
+          "EF07CI07"
+        ],
+        "tema": "Classificação dos animais e cadeia alimentar",
+        "reading": "Certa manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto. Moradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas. Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava com as meninas porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane. Nos territórios indígenas, não há pets do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos. Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. Nas aldeias, faz parte da cultura cuidar de tudo o que tem vida na floresta.",
+        "enunciado": "Além dos animais citados no texto, muitos grupos indígenas ainda consideram águias, corujas, sabiás, raposas, cobras e tartarugas como animais sagrados, sendo a onça um símbolo cultural e espiritual, vista como a guardiã da floresta. Sobre os animais citados, é correto afirmar que",
+        "stem": "Além dos animais citados no texto, muitos grupos indígenas ainda consideram águias, corujas, sabiás, raposas, cobras e tartarugas como animais sagrados, sendo a onça um símbolo cultural e espiritual, vista como a guardiã da floresta. Sobre os animais citados, é correto afirmar que",
+        "answers": [
+          "as aves se caracterizam por serem animais carnívoros, dotados de bico forte e curvo, com garras afiadas, com pelos e escamas no corpo e nas patas.",
+          "a relação dos indígenas com os xerimbabos tem o objetivo de garantir a criação desses animais em cativeiro para o abate diário e a alimentação da comunidade.",
+          "os xerimbabos são muito queridos pelos indígenas e, apesar de estarem em cativeiro, são cuidados com muito respeito e soltos na floresta quando em perigo de extinção.",
+          "a onça é considerada a guardiã da floresta, ocupa o topo da cadeia alimentar por se alimentar de herbívoros maiores e de predadores menores, mantendo dessa forma o equilíbrio ambiental.",
+          "os animais considerados sagrados pelos indígenas se caracterizam por serem carnívoros e por conseguirem manter a temperatura corporal constante, independentemente da temperatura do ambiente."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "10": {
+        "bnccCodes": [
+          "EF09LP08"
+        ],
+        "tema": "Relações de sentido expressas por preposições",
+        "reading": "Certa manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto. Moradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas. Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava com as meninas porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane. Nos territórios indígenas, não há pets do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos. Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. Nas aldeias, faz parte da cultura cuidar de tudo o que tem vida na floresta.",
+        "enunciado": "As expressões em negrito no texto denotam, respectivamente,",
+        "stem": "As expressões em negrito no texto denotam, respectivamente,",
+        "answers": [
+          "tempo, origem, causa e lugar.",
+          "condição, destino, instrumento e causa.",
+          "consequência, origem, companhia e tempo.",
+          "condição, destino, ferramenta e causa.",
+          "tempo, lugar, companhia e lugar."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "11": {
+        "bnccCodes": [
+          "EF09LP08"
+        ],
+        "tema": "Sentido de expressões verbais no contexto",
+        "reading": "Certa manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto. Moradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas. Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava com as meninas porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane. Nos territórios indígenas, não há pets do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos. Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. Nas aldeias, faz parte da cultura cuidar de tudo o que tem vida na floresta.",
+        "enunciado": "Na passagem “quando cresceu, ficou livre e acabou indo com o seu bando”, a expressão “acabou indo” aponta",
+        "stem": "Na passagem “quando cresceu, ficou livre e acabou indo com o seu bando”, a expressão “acabou indo” aponta",
+        "answers": [
+          "uma ação inacabada que é realizada recorrentemente.",
+          "uma ação inacabada que se prolonga infinitamente.",
+          "uma ação finalizada que é enfatizada ao terminar.",
+          "o início de uma ação que se realiza rapidamente.",
+          "o desenvolvimento de uma ação que não se concretiza."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "12": {
+        "bnccCodes": [
+          "EF07LP12"
+        ],
+        "tema": "Referenciação pronominal: identificação do referente",
+        "reading": "Certa manhã, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto. Moradoras da terra indígena do Alto Rio Guamá, no Pará, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas. Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava com as meninas porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane. Nos territórios indígenas, não há pets do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos. Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. Nas aldeias, faz parte da cultura cuidar de tudo o que tem vida na floresta.",
+        "enunciado": "O pronome eles, sublinhado no quarto parágrafo do texto, refere-se aos termos",
+        "stem": "O pronome eles, sublinhado no quarto parágrafo do texto, refere-se aos termos",
+        "answers": [
+          "“territórios” e “pets”.",
+          "“pets” e “adultos”.",
+          "“indígenas” e “animais”.",
+          "“pets” e “animais”.",
+          "“territórios” e “adultos”."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "13": {
+        "bnccCodes": [
+          "EF08MA04"
+        ],
+        "tema": "Regra de três e cálculo de capacidade de atendimento",
+        "reading": "Um município deseja implementar um projeto de equoterapia que terá uma equipe multidisciplinar (psicólogos, fisioterapeutas, pedagogos, fonoaudiólogos, entre outros) e 12 cavalos preparados especialmente para as atividades. Os atendimentos acontecerão de terça a sexta-feira, e cada pessoa assistida pelo projeto deverá realizar duas sessões por semana, tendo cada uma das sessões duração de 30 minutos.",
+        "enunciado": "Sabendo que cada cavalo não pode trabalhar mais do que 3 horas por dia, o número máximo de pessoas que poderão ser atendidas, por semana, pelo projeto é",
+        "stem": "Sabendo que cada cavalo não pode trabalhar mais do que 3 horas por dia, o número máximo de pessoas que poderão ser atendidas, por semana, pelo projeto é",
+        "answers": [
+          "144.",
+          "180.",
+          "288.",
+          "360.",
+          "576."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "14": {
+        "bnccCodes": [
+          "EF06CI06"
+        ],
+        "tema": "Reprodução dos dinossauros e desenvolvimento em ovos",
+        "reading": "",
+        "enunciado": "Criado por Maurício de Sousa na década de 1960, Horácio é um adorável filhote de Tiranossauro Rex. Embora o personagem faça um grande sucesso desde sua criação, há um erro científico na tirinha, uma vez que",
+        "stem": "Criado por Maurício de Sousa na década de 1960, Horácio é um adorável filhote de Tiranossauro Rex. Embora o personagem faça um grande sucesso desde sua criação, há um erro científico na tirinha, uma vez que",
+        "answers": [
+          "filhotes de répteis carnívoros, como o Tiranossauro Rex, não se desenvolviam em ovos, mas no útero das fêmeas, como ocorre com os mamíferos.",
+          "os dinossauros, embora convivessem harmonicamente com os seres humanos, não eram capazes de manter relações de afeto com as pessoas.",
+          "o Tiranossauro Rex, assim como as aves, tinha o hábito instintivo de enterrar inteiramente seus ovos para protegê-los dos predadores.",
+          "os dinossauros foram extintos há milhões de anos, muito antes da aparição dos primeiros hominídeos na Terra.",
+          "as evidências paleontológicas indicam que as fêmeas de Tiranossauros Rex não se afastavam de seus ovos, já que eram animais domésticos."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "15": {
+        "bnccCodes": [
+          "EF09CI02"
+        ],
+        "tema": "Respiração aeróbica e formação de dióxido de carbono",
+        "reading": "O oxigênio (O2) é essencial para a respiração aeróbica. Durante esse processo, o oxigênio reage com a glicose (C6H12O6) liberando energia.",
+        "enunciado": "O principal produto gasoso formado no processo mencionado é",
+        "stem": "O principal produto gasoso formado no processo mencionado é",
+        "answers": [
+          "dióxido de carbono (CO2).",
+          "monóxido de carbono (CO).",
+          "nitrogênio (N2).",
+          "hidrogênio (H2).",
+          "ozônio (O3)."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "16": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Respiração celular e classificação de substâncias envolvidas",
+        "reading": "O oxigênio (O2) é essencial para a respiração aeróbica. Durante esse processo, o oxigênio reage com a glicose (C6H12O6) liberando energia.",
+        "enunciado": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "stem": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "answers": [
+          "substância composta e substância simples.",
+          "substância simples e substância composta.",
+          "substância composta e substância composta.",
+          "substância composta e mistura.",
+          "substância simples e mistura."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "17": {
+        "bnccCodes": [
+          "EF09CI14"
+        ],
+        "tema": "Deriva continental e evidências paleontológicas — interdisciplinar",
+        "reading": "Alfred Wegener foi um climatologista alemão que desenvolveu a teoria da Deriva Continental, apresentada numa palestra proferida em 1912. Em 1915, publicou o seu livro A origem dos Continentes e dos Oceanos, em que a ideia fundamental consistia no fato de que os continentes estiveram todos unidos no passado, constituindo um continente único, o supercontinente Pangeia, rodeado pelo oceano Pantalassa. Posteriormente, o continente Pangeia sofreu fragmentações sucessivas, o que originou diferentes continentes que se deslocaram até às posições atuais. Este conjunto de ideias ficou conhecido como a teoria da Deriva Continental. Adaptado.",
+        "enunciado": "Um dos argumentos de Wegener que fundamenta sua teoria é de base paleontológica e se respalda na existência de",
+        "stem": "Um dos argumentos de Wegener que fundamenta sua teoria é de base paleontológica e se respalda na existência de",
+        "answers": [
+          "água doce presente em todos os continentes.",
+          "formações geomorfológicas similares em continentes diferentes.",
+          "fósseis idênticos encontrados em continentes hoje afastados.",
+          "destroços de navios localizados ao longo das costas oceânicas.",
+          "justaposição entre as linhas de costa da Ásia e da América do Sul."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "18": {
+        "bnccCodes": [
+          "EF08CI06"
+        ],
+        "tema": "Magnetorrecepção e orientação de aves migratórias",
+        "reading": "A Terra pode ser considerada um grande ímã, em que o polo Norte magnético está próximo ao polo Sul geográfico e, por sua vez, o polo Sul magnético está próximo ao polo Norte geográfico. Diversos animais, como as aves, possuem uma característica denominada magnetorrecepção, que é a capacidade de perceber o campo geomagnético. Isso permite ao animal orientar-se durante o voo em relação à sua localização (altitude, direção e sentido de deslocamento). Essa percepção do campo geomagnético pode ocorrer por diferentes mecanismos, como glândulas, células e/ou proteínas.",
+        "enunciado": "Suponha que uma ave com essa capacidade migre diretamente do Canadá até o Brasil. Nessas condições, é correto afirmar que a ave",
+        "stem": "Suponha que uma ave com essa capacidade migre diretamente do Canadá até o Brasil. Nessas condições, é correto afirmar que a ave",
+        "answers": [
+          "se desloca de uma posição próxima ao polo Sul magnético no sentido do polo Sul geográfico.",
+          "se desloca em trajetória retilínea traçada pelas linhas de campo geográfico.",
+          "se desloca em uma trajetória paralela às linhas latitudinais.",
+          "usa glândulas, células ou proteínas como bússolas elétricas.",
+          "usam o sistema de geoposicionamento denominado GPS."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "19": {
+        "bnccCodes": [
+          "EF09CI04"
+        ],
+        "tema": "Notação científica e conversão de unidades de campo magnético",
+        "reading": "As aves conhecidas como pisco-de-peito-ruivo, ao migrarem, sempre conseguem retornar ao exato ponto de onde partiram, pois conseguem perceber o campo magnético da Terra que, próximo a sua superfície, tem densidade média de fluxo magnético estimada de 50 µT — cerca de um centésimo da força de um ímã de geladeira. Adaptado.",
+        "enunciado": "Sabendo que 1 = 1 × 10 T, assinale a alternativa que apresenta corretamente, em notação científica, a densidade média de fluxo magnético de um imã de geladeira, em T.",
+        "stem": "Sabendo que 1 = 1 × 10 T, assinale a alternativa que apresenta corretamente, em notação científica, a densidade média de fluxo magnético de um imã de geladeira, em T.",
+        "answers": [
+          "5,0 × 10 – 6",
+          "0,5 × 10 – 6",
+          "5,0 × 10 – 3",
+          "0,5 × 10 – 3",
+          "5,0 × 10"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "20": {
+        "bnccCodes": [
+          "EF07MA01",
+          "EF08GE09",
+          "EF07GE09"
+        ],
+        "tema": "Orientação espacial e interpretação de mapas · Localização e orientação geográfica em mapas · Direções cardeais e deslocamento entre regiões brasileiras",
+        "reading": "O domínio morfoclimático do Cerrado abriga diversas espécies da fauna. Somente de aves, são estimadas quase 900 espécies. Porém, apenas cerca de 40 espécies são endêmicas, ou seja, ocorrem apenas em seu domínio. Isso se deve ao fato de o Cerrado abrigar diversas aves migratórias. O beija-flor-preto é uma ave característica da Mata Atlântica, mas que migra para o interior do país, visitando as flores do Cerrado. Adaptado.",
+        "enunciado": "Com base no mapa, se, por ventura, um beija-flor-preto migrar de uma área de Mata Atlântica, localizada no estado de Sergipe, para uma área de Cerrado, localizada no estado de Goiás, ele voará no sentido",
+        "stem": "Com base no mapa, se, por ventura, um beija-flor-preto migrar de uma área de Mata Atlântica, localizada no estado de Sergipe, para uma área de Cerrado, localizada no estado de Goiás, ele voará no sentido",
+        "answers": [
+          "Noroeste.",
+          "Nordeste.",
+          "Sudoeste.",
+          "Sudeste.",
+          "Leste."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-1sem-q20-mapa.png"
+      },
+      "21": {
+        "bnccCodes": [
+          "EF69LP44"
+        ],
+        "tema": "Interpretação da canção Passaredo",
+        "reading": "1 Ei, quero-quero Oi, tico-tico Anum, pardal, chapim Xô, cotovia Xô, ave-fria 6 Xô, pescador-martim Some, rolinha Anda, andorinha Te esconde, bem-te-vi Voa, bicudo 11 Voa, sanhaço Vai, juriti Bico calado Muito cuidado Que o homem vem aí 16 O homem vem aí O homem vem aí.",
+        "enunciado": "A letra da canção nos remete à",
+        "stem": "A letra da canção nos remete à",
+        "answers": [
+          "ameaça que os pássaros representam aos seres humanos.",
+          "relação harmoniosa entre os seres humanos e a natureza.",
+          "preocupação com as doenças transmitidas por pássaros.",
+          "destruição da natureza causada pelos seres humanos.",
+          "necessidade de construção de viveiros nas florestas."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "22": {
+        "bnccCodes": [
+          "EF69LP48"
+        ],
+        "tema": "Efeitos de sentido e justificativa do título",
+        "reading": "1 Ei, quero-quero Oi, tico-tico Anum, pardal, chapim Xô, cotovia Xô, ave-fria 6 Xô, pescador-martim Some, rolinha Anda, andorinha Te esconde, bem-te-vi Voa, bicudo 11 Voa, sanhaço Vai, juriti Bico calado Muito cuidado Que o homem vem aí 16 O homem vem aí O homem vem aí.",
+        "enunciado": "O título da canção apresentada se justifica pela",
+        "stem": "O título da canção apresentada se justifica pela",
+        "answers": [
+          "ação de expulsão dos seres humanos do meio ambiente.",
+          "dimensão dos versos, ressaltando a velocidade do desmatamento.",
+          "sonoridade das vogais fechadas que remetem à melancolia da canção.",
+          "repetição inicial de termos, expressando a posição dos animais nas árvores.",
+          "enumeração de substantivos, indicando a diversidade de aves existentes."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "23": {
+        "bnccCodes": [
+          "EF69LP47"
+        ],
+        "tema": "Sinonímia e sentido de palavras em uma canção",
+        "reading": "1 Ei, quero-quero Oi, tico-tico Anum, pardal, chapim Xô, cotovia Xô, ave-fria 6 Xô, pescador-martim Some, rolinha Anda, andorinha Te esconde, bem-te-vi Voa, bicudo 11 Voa, sanhaço Vai, juriti Bico calado Muito cuidado Que o homem vem aí 16 O homem vem aí O homem vem aí.",
+        "enunciado": "Assinale a alternativa que apresenta um sinônimo para o termo destacado em negrito na canção.",
+        "stem": "Assinale a alternativa que apresenta um sinônimo para o termo destacado em negrito na canção.",
+        "answers": [
+          "porque",
+          "ainda que",
+          "desde que",
+          "contanto que",
+          "à medida que"
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "24": {
+        "bnccCodes": [
+          "EF69LP48"
+        ],
+        "tema": "Verbos no imperativo, vocativos e intenção comunicativa",
+        "reading": "1 Ei, quero-quero Oi, tico-tico Anum, pardal, chapim Xô, cotovia Xô, ave-fria 6 Xô, pescador-martim Some, rolinha Anda, andorinha Te esconde, bem-te-vi Voa, bicudo 11 Voa, sanhaço Vai, juriti Bico calado Muito cuidado Que o homem vem aí 16 O homem vem aí O homem vem aí.",
+        "enunciado": "A canção apresentada se utiliza tanto de imperativos, como em “some”, “anda” e “te esconde”, quanto de vocativos, como em “rolinha”, “andorinha” e “ bem-te-vi”, com o objetivo de",
+        "stem": "A canção apresentada se utiliza tanto de imperativos, como em “some”, “anda” e “te esconde”, quanto de vocativos, como em “rolinha”, “andorinha” e “ bem-te-vi”, com o objetivo de",
+        "answers": [
+          "expressar as emoções vivenciadas pelo eu lírico diante do canto dos pássaros.",
+          "manter um diálogo necessário com a natureza para a preservação da humanidade.",
+          "persuadir os interlocutores a realizarem ações para protegê-los de uma iminente ameaça.",
+          "evidenciar o domínio de estruturas poéticas que valorizam a sonoridade dos versos.",
+          "ensinar os leitores sobre a diversidade de espécies existentes na flora brasileira."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "25": {
+        "bnccCodes": [
+          "EF06CI06"
+        ],
+        "tema": "Visão das aves, cones e percepção das cores",
+        "reading": "",
+        "enunciado": "A águia-de-asa-redonda é uma ave de rapina com uma das visões mais poderosas do reino animal. A sua capacidade visual é ampla, tanto em acuidade, quanto em distinção cromática, características essenciais para a eficiência de um predador. Estima-se que essa ave consiga reconhecer um roedor a 5 000 m de altitude. Isso é possível, em parte, devido à altíssima densidade de cones, na fóvea do olho. Cones são células fotorreceptoras estimuladas pela percepção das cores primárias ópticas. Na águia-de-asa-redonda, os cones de tipos azul, verde, vermelho e duplos totalizam cerca de 1 milhão/mm2; enquanto o ser humano possui, aproximadamente, 200 000/mm2. Além da visão tetracromática, a águia possui uma fotossensibilidade ao espectro UV e apresenta filtros naturais para luz polarizada, o que lhe permite localizar peixes rapidamente. Baseando-se no texto apresentado, sobre essa águia é correto afirmar que",
+        "stem": "A águia-de-asa-redonda é uma ave de rapina com uma das visões mais poderosas do reino animal. A sua capacidade visual é ampla, tanto em acuidade, quanto em distinção cromática, características essenciais para a eficiência de um predador. Estima-se que essa ave consiga reconhecer um roedor a 5 000 m de altitude. Isso é possível, em parte, devido à altíssima densidade de cones, na fóvea do olho. Cones são células fotorreceptoras estimuladas pela percepção das cores primárias ópticas. Na águia-de-asa-redonda, os cones de tipos azul, verde, vermelho e duplos totalizam cerca de 1 milhão/mm2; enquanto o ser humano possui, aproximadamente, 200 000/mm2. Além da visão tetracromática, a águia possui uma fotossensibilidade ao espectro UV e apresenta filtros naturais para luz polarizada, o que lhe permite localizar peixes rapidamente. Baseando-se no texto apresentado, sobre essa águia é correto afirmar que",
+        "answers": [
+          "enxerga, em período diurno, todas as presas na mesma cor acinzentada.",
+          "o fato de possuir cones duplos a impede de visualizar quaisquer cores.",
+          "o ser humano leva vantagem ao perceber também o espectro infravermelho.",
+          "a acuidade visual dela é, aproximadamente, cinco vezes inferior a de um ser humano com visão normal.",
+          "a capacidade de ela enxergar mais cores com melhor definição é superior à do ser humano."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "26": {
+        "bnccCodes": [
+          "EF08GE15"
+        ],
+        "tema": "Correntes marítimas, ressurgência e pesca no litoral do Chile",
+        "reading": "O guano é um fertilizante orgânico natural, rico em nitrogênio, fósforo e potássio, que provém das fezes de aves migratórias atraídas pela grande quantidade de peixes existentes no litoral norte do Chile, fazendo dessa região da América do Sul voltada para o Oceano Pacífico um grande depósito desse material. Essa profusão de peixes está relacionada ao fenômeno da Ressurgência, que é consequência da ação de uma determinada corrente marítima fria. A ausência de chuvas naquela região, também resultado dessa corrente marítima, contribui decisivamente para que o material fecal não perca suas propriedades químicas.",
+        "enunciado": "De acordo com o texto, a corrente marítima citada no texto é a",
+        "stem": "De acordo com o texto, a corrente marítima citada no texto é a",
+        "answers": [
+          "da Califórnia.",
+          "da Antártica.",
+          "de Benguela.",
+          "do Brasil.",
+          "do Peru."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "27": {
+        "bnccCodes": [
+          "EF09MA19"
+        ],
+        "tema": "Volume de cilindro: aplicação da fórmula",
+        "reading": "Em algumas espécies de aves, o design das penas permite alterar a trajetória da luz devido à presença de conjuntos de nanoestruturas semelhantes a cristais. Esse fenômeno é chamado iridescência ou coloração estrutural e está ligado a estruturas denominadas melanossomos. Adaptado. Considere que as penas de um tipo de ave possui melanossomos cilíndricos cujo diâmetro mede 300 nm e altura 500 nm.",
+        "enunciado": "Assinale a alternativa que apresenta a expressão matemática que deve ser multiplicada pelo número irracional π para calcular o volume desse melanossomo, em nm3.",
+        "stem": "Assinale a alternativa que apresenta a expressão matemática que deve ser multiplicada pelo número irracional π para calcular o volume desse melanossomo, em nm3.",
+        "answers": [
+          "150 2 × 500",
+          "250 2 × 300",
+          "300 2 × 500",
+          "500 2 × 300",
+          "600 2 × 500"
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "28": {
+        "bnccCodes": [
+          "EF07CI07",
+          "EF09CI01"
+        ],
+        "tema": "Nutrientes, vitaminas, minerais e saúde humana · Água, moléculas e composição química",
+        "reading": "",
+        "enunciado": "A água (H2O) é indispensável para a sobrevivência dos animais. Ela atua como solvente no corpo, transporta nutrientes e regula a temperatura corporal. Sobre a água, é correto afirmar que é",
+        "stem": "A água (H2O) é indispensável para a sobrevivência dos animais. Ela atua como solvente no corpo, transporta nutrientes e regula a temperatura corporal. Sobre a água, é correto afirmar que é",
+        "answers": [
+          "uma mistura de átomos de hidrogênio e oxigênio.",
+          "uma mistura dos gases hidrogênio e oxigênio.",
+          "um composto formado por 3 elementos químicos.",
+          "um composto formado por 1 molécula de hidrogênio e 1 de oxigênio.",
+          "um composto formado pela união de 2 átomos de hidrogênio com 1 átomo de oxigênio."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "29": {
+        "bnccCodes": [
+          "EF07CI08"
+        ],
+        "tema": "Espécies invasoras e equilíbrio dos ecossistemas",
+        "reading": "",
+        "enunciado": "Os ratões-do-banhado (Myocastor coypus) são animais nativos da América do Sul, onde vivem nas margens de lagos e rios. Possuem pelos, longa cauda cilíndrica e patas palmeadas. Além disso, são mais ágeis na água do que em terra. Uma característica distintiva importante são seus grandes dentes frontais cor de laranja devido à presença de ferro no esmalte dos dentes. Esses animais podem ser utilizados na produção de carne e de peles para consumo humano. Quando retirados de suas regiões de origem, podem se tornar espécies invasoras, porque se adaptam rapidamente aos locais onde são introduzidos, reproduzindo-se com eficiência na ausência de predadores e causando desequilíbrios nos ecossistemas. Sobre os animais citados no texto, é correto afirmar que",
+        "stem": "Os ratões-do-banhado (Myocastor coypus) são animais nativos da América do Sul, onde vivem nas margens de lagos e rios. Possuem pelos, longa cauda cilíndrica e patas palmeadas. Além disso, são mais ágeis na água do que em terra. Uma característica distintiva importante são seus grandes dentes frontais cor de laranja devido à presença de ferro no esmalte dos dentes. Esses animais podem ser utilizados na produção de carne e de peles para consumo humano. Quando retirados de suas regiões de origem, podem se tornar espécies invasoras, porque se adaptam rapidamente aos locais onde são introduzidos, reproduzindo-se com eficiência na ausência de predadores e causando desequilíbrios nos ecossistemas. Sobre os animais citados no texto, é correto afirmar que",
+        "answers": [
+          "se adaptam ao meio ambiente em que são introduzidos, pois são mamíferos primatas facilmente domesticáveis, o que acarreta um grande equilíbrio do ecossistema local.",
+          "podem ser utilizados como fonte de proteína animal e possuem adaptações que permitem a movimentação na água, apesar de serem mamíferos terrestres.",
+          "dilaceram a carne das presas, pois são mamíferos carnívoros com dentes caninos pontiagudos e muito resistentes devido à presença de ferro.",
+          "pertencem ao grupo dos mamíferos ruminantes, pois possuem a capacidade de engolir e de mastigar o mesmo alimento mais de uma vez.",
+          "atuam no equilíbrio ecológico da fauna e da flora das matas e das florestas independentemente das regiões onde foram introduzidos."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "30": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Escala de pH, acidez e indicadores ácido-base",
+        "reading": "",
+        "enunciado": "O pH é uma escala de acidez para identificar o caráter ácido ou básico de uma solução. Esse caráter também pode ser identificado com o auxílio de um indicador ácido-base, que muda de cor em função da acidez da solução em análise. A figura representa a escala de pH e a coloração de um determinado indicador ácido-base. O suco gástrico, presente no estômago de humanos e de muitos animais, é uma solução que auxilia na digestão dos alimentos e apresenta pH = 2. Podemos afirmar corretamente que, em presença de suco gástrico, o indicador apresentará cor",
+        "stem": "O pH é uma escala de acidez para identificar o caráter ácido ou básico de uma solução. Esse caráter também pode ser identificado com o auxílio de um indicador ácido-base, que muda de cor em função da acidez da solução em análise. A figura representa a escala de pH e a coloração de um determinado indicador ácido-base. O suco gástrico, presente no estômago de humanos e de muitos animais, é uma solução que auxilia na digestão dos alimentos e apresenta pH = 2. Podemos afirmar corretamente que, em presença de suco gástrico, o indicador apresentará cor",
+        "answers": [
+          "azul, pois se trata de uma solução de caráter básico.",
+          "azul, pois se trata de uma solução de caráter ácido.",
+          "verde, pois se trata de uma solução neutra.",
+          "vermelha, pois se trata de uma solução de caráter ácido.",
+          "vermelha, pois se trata de uma solução de caráter básico."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-1sem-q30-escala-ph.png"
+      },
+      "31": {
+        "bnccCodes": [
+          "EF07MA02"
+        ],
+        "tema": "Velocidade média e comparação entre distâncias e tempos",
+        "reading": "Para se adaptarem às mudanças sazonais, alguns povos nômades das savanas africanas seguem, tradicionalmente, a trilha de grandes manadas de gnus e zebras durante suas migrações em busca de água. Considere que uma dessas manadas percorreu uma distância de 240 km em 4 dias. O grupo humano que seguiu a trilha fez o mesmo percurso, mas levou 6 dias.",
+        "enunciado": "Com base nesses dados, podemos afirmar corretamente que",
+        "stem": "Com base nesses dados, podemos afirmar corretamente que",
+        "answers": [
+          "a manada foi 20 km/dia mais rápida que os humanos.",
+          "a manada foi 40 km/dia mais lenta que os humanos.",
+          "a manada foi 20 km/dia mais lenta que os humanos.",
+          "os humanos foram 40 km/dia mais lentos que a manada.",
+          "os humanos foram 20 km/dia mais rápidos que a manada."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "32": {
+        "bnccCodes": [
+          "EF08CI01"
+        ],
+        "tema": "Ciclo da água e fenômenos físicos relacionados à evaporação",
+        "reading": "Para se adaptarem às mudanças sazonais, alguns povos nômades das savanas africanas seguem, tradicionalmente, a trilha de grandes manadas de gnus e zebras durante suas migrações em busca de água. Considere que uma dessas manadas percorreu uma distância de 240 km em 4 dias. O grupo humano que seguiu a trilha fez o mesmo percurso, mas levou 6 dias.",
+        "enunciado": "A migração citada ocorre em função do ciclo da água. É correto afirmar que o princípio físico relacionado a esse ciclo está associado",
+        "stem": "A migração citada ocorre em função do ciclo da água. É correto afirmar que o princípio físico relacionado a esse ciclo está associado",
+        "answers": [
+          "à aceleração centrípeta dos ventos tropicais.",
+          "à diminuição da pressão atmosférica no solo.",
+          "ao aquecimento constante de rochas vulcânicas.",
+          "ao vasto aumento da umidade relativa nos desertos.",
+          "à evaporação e à condensação provocadas pela energia solar."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "33": {
+        "bnccCodes": [
+          "EF69LP03"
+        ],
+        "tema": "Interpretação de texto informativo",
+        "reading": "O Brasil é o quarto maior produtor mundial de tilápia. Essa espécie representa 63,5 % da produção de peixes do país. Na Região Nordeste, o cultivo comercial de tilápias começou a ser expressivo em meados da década de 1990. O Ceará é o estado com maior tradição no consumo de tilápia em virtude da produção desses peixes em seus reservatórios de água doce. Esse povoamento é fruto dos peixamentos realizados pelo Departamento Nacional de Obras Contra as Secas (DNOCS). A primeira tilápia que chegou ao Ceará veio da região Sudeste do Brasil. Por ser um alimento rico em proteínas, esse peixe é um forte aliado para quem deseja ganhar massa magra e perder peso, especialmente, por possuir uma quantidade muito baixa de carboidratos. A tilápia também contém vitaminas A, B e D, bem como minerais, incluindo cálcio, ferro e zinco. Além disso, em 2015, médicos e pesquisadores do Ceará iniciaram uma pesquisa e descobriram que a pele desse peixe, quando usada como curativo para queimaduras de 2° e 3° graus, auxilia na cicatrização da pele humana.",
+        "enunciado": "Com base no texto, é correto afirmar que a tilápia é",
+        "stem": "Com base no texto, é correto afirmar que a tilápia é",
+        "answers": [
+          "nativa da região Nordeste do Brasil, especificamente do Ceará.",
+          "rica em vitaminas e minerais, podendo ser utilizada na medicina.",
+          "cultivada em tanques de água salgada no interior da região Sudeste.",
+          "o principal produto de exportação do Brasil desde a década de 1990.",
+          "produzida e comercializada pelo Departamento de Obras Contra as Secas."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "34": {
+        "bnccCodes": [
+          "EF69LP03"
+        ],
+        "tema": "Identificação de informações e inferências em texto",
+        "reading": "O Brasil é o quarto maior produtor mundial de tilápia. Essa espécie representa 63,5 % da produção de peixes do país. Na Região Nordeste, o cultivo comercial de tilápias começou a ser expressivo em meados da década de 1990. O Ceará é o estado com maior tradição no consumo de tilápia em virtude da produção desses peixes em seus reservatórios de água doce. Esse povoamento é fruto dos peixamentos realizados pelo Departamento Nacional de Obras Contra as Secas (DNOCS). A primeira tilápia que chegou ao Ceará veio da região Sudeste do Brasil. Por ser um alimento rico em proteínas, esse peixe é um forte aliado para quem deseja ganhar massa magra e perder peso, especialmente, por possuir uma quantidade muito baixa de carboidratos. A tilápia também contém vitaminas A, B e D, bem como minerais, incluindo cálcio, ferro e zinco. Além disso, em 2015, médicos e pesquisadores do Ceará iniciaram uma pesquisa e descobriram que a pele desse peixe, quando usada como curativo para queimaduras de 2° e 3° graus, auxilia na cicatrização da pele humana.",
+        "enunciado": "Sobre o peixe citado no texto, assinale a alternativa correta.",
+        "stem": "Sobre o peixe citado no texto, assinale a alternativa correta.",
+        "answers": [
+          "Ao ser consumido, a presença de ferro nesses peixes, favorece a formação dos glóbulos vermelhos no sangue humano.",
+          "A pele desses peixes, ao ser utilizada em queimaduras de 2° e 3° graus, impede a cicatrização da área lesada no corpo humano.",
+          "Ao ser consumido, a vitamina D presente nesses peixes é importante para prevenir doenças em crianças, tais como o escorbuto e o sarampo.",
+          "Ao ser consumido, a quantidade baixa de proteínas nesses peixes favorece o ganho de massa magra e fortalece o tecido muscular, principalmente em praticantes de atividades físicas.",
+          "Ao ser consumido, a presença de minerais como cálcio e zinco, nesses peixes, ajuda a prevenir o aparecimento de tromboses, a febre amarela e a prisão de ventre nas pessoas idosas."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "35": {
+        "bnccCodes": [
+          "EF09CI03"
+        ],
+        "tema": "Número atômico, número de massa, prótons e nêutrons",
+        "reading": "",
+        "enunciado": "A hemoglobina é uma proteína presente no sangue de animais vertebrados. Ela contém ferro, que é responsável pelo transporte de oxigênio e é representado por: 56 . Fe Sobre esse elemento, é correto afirmar que apresenta",
+        "stem": "A hemoglobina é uma proteína presente no sangue de animais vertebrados. Ela contém ferro, que é responsável pelo transporte de oxigênio e é representado por: 56 . Fe Sobre esse elemento, é correto afirmar que apresenta",
+        "answers": [
+          "número de massa 56.",
+          "número atômico 30.",
+          "30 prótons.",
+          "56 elétrons.",
+          "26 nêutrons."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-1sem-q35-notacao-ferro.png"
+      },
+      "36": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Fórmula molecular e estrutura de feromônios",
+        "reading": "Os feromônios são substâncias químicas usadas por muitos animais para se comunicarem. Essas moléculas podem transmitir informações sobre reprodução, perigo ou trilhas de alimentos. Portanto, as moléculas dos feromônios podem ser usadas em perfumes, em armadilhas e até no controle de pragas. Entre mulheres que convivem juntas por muito tempo, os feromônios são responsáveis por regularem o ciclo menstrual entre elas. Na agricultura brasileira, uma das maiores pragas do milho é o inseto percevejo escuro. Para livrar as plantações dessa praga, o homem sintetiza, em laboratório, seu feromônio sexual para ser usado em armadilhas como isca para atrair esses insetos e dificultar sua proliferação. Fórmula estrutural do feromônio do percevejo escuro: CH3 – CH2 – CH – CH – C – CH2 – CH3 OH CH3",
+        "enunciado": "Baseando-se no texto, é correto afirmar que",
+        "stem": "Baseando-se no texto, é correto afirmar que",
+        "answers": [
+          "os feromônios são compostos produzidos por alguns animais, não sendo encontrados nos seres humanos.",
+          "não é possível produzir feromônios em laboratório para usos específicos.",
+          "utiliza-se, na agricultura, o feromônio de trilha do percevejo escuro para atrair predadores desse inseto.",
+          "o feromônio sintetizado para controlar pragas no milho apresenta fórmula molecular C8H16O2.",
+          "o feromônio representado tem, em sua estrutura, 15 átomos de hidrogênio e um átomo de oxigênio."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-1sem-q36-37-feromonio.png"
+      },
+      "37": {
+        "bnccCodes": [
+          "EF09CI13"
+        ],
+        "tema": "Uso de feromônios no controle sustentável de pragas",
+        "reading": "Os feromônios são substâncias químicas usadas por muitos animais para se comunicarem. Essas moléculas podem transmitir informações sobre reprodução, perigo ou trilhas de alimentos. Portanto, as moléculas dos feromônios podem ser usadas em perfumes, em armadilhas e até no controle de pragas. Entre mulheres que convivem juntas por muito tempo, os feromônios são responsáveis por regularem o ciclo menstrual entre elas. Na agricultura brasileira, uma das maiores pragas do milho é o inseto percevejo escuro. Para livrar as plantações dessa praga, o homem sintetiza, em laboratório, seu feromônio sexual para ser usado em armadilhas como isca para atrair esses insetos e dificultar sua proliferação. Fórmula estrutural do feromônio do percevejo escuro: CH3 – CH2 – CH – CH – C – CH2 – CH3 OH CH3",
+        "enunciado": "O uso desses compostos, na agricultura, está associado",
+        "stem": "O uso desses compostos, na agricultura, está associado",
+        "answers": [
+          "à contaminação do solo e dos lençóis freáticos, causando danos irreversíveis ao meio ambiente.",
+          "à exterminação de todos os insetos da área agrícola, incluindo polinizadores como abelhas.",
+          "às alternativas sustentáveis, porque são específicos para o alvo-praga.",
+          "à sua toxidade para humanos e animais, representando um risco à saúde pública.",
+          "à produção de grande quantidade de produtos químicos industriais, contribuindo para a poluição do ar."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-1sem-q36-37-feromonio.png"
+      },
+      "38": {
+        "bnccCodes": [
+          "EF07CI08"
+        ],
+        "tema": "Polinização, abelhas e biodiversidade",
+        "reading": "",
+        "enunciado": "Em 2019, o Earthwatch Institute declarou que as abelhas são os seres vivos mais importantes do planeta, durante uma reunião da Royal Geographical Society de Londres. Essa declaração está associada ao fato de as abelhas serem os principais seres vivos responsáveis por polinizar cerca de 75% das culturas alimentares do mundo. No entanto, vários estudos demonstram que as abelhas enfrentam risco de extinção, em várias partes do mundo, devido a fatores como o desmatamento, o uso de agrotóxicos, a exposição a diferentes parasitas e as mudanças climáticas, que afetam a disponibilidade de flores e de alimentos. Baseando-se no texto, é correto afirmar que",
+        "stem": "Em 2019, o Earthwatch Institute declarou que as abelhas são os seres vivos mais importantes do planeta, durante uma reunião da Royal Geographical Society de Londres. Essa declaração está associada ao fato de as abelhas serem os principais seres vivos responsáveis por polinizar cerca de 75% das culturas alimentares do mundo. No entanto, vários estudos demonstram que as abelhas enfrentam risco de extinção, em várias partes do mundo, devido a fatores como o desmatamento, o uso de agrotóxicos, a exposição a diferentes parasitas e as mudanças climáticas, que afetam a disponibilidade de flores e de alimentos. Baseando-se no texto, é correto afirmar que",
+        "answers": [
+          "a pulverização de agrotóxicos e o uso de inseticidas alteram o material genético das abelhas, deixando-as lentas, sem asas, com maior capacidade de polinização e de produção de mel.",
+          "o desmatamento beneficia a formação de enxames e a construção de novos ninhos de abelhas devido ao aumento da disponibilidade de alimento, como flores silvestres.",
+          "o aumento do número de flores encurta o tempo de vida das abelhas, causando a redução da reprodução das plantas e prejudicando a biodiversidade terrestre.",
+          "a ocorrência de doenças prejudiciais à visão e à memória de navegação das abelhas aumenta a capacidade de elas retornarem às colmeias.",
+          "o uso de agrotóxicos na agricultura para o controle de pragas acarreta a diminuição da população de abelhas, interferindo na polinização natural."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "39": {
+        "bnccCodes": [
+          "EF07CI03"
+        ],
+        "tema": "Isolamento térmico e transferência de calor",
+        "reading": "Os povos inuítes, que habitam a região do Círculo Polar Ártico aprenderam a importância do uso de certos tipos de peles para o isolamento térmico por meio da observação dos animais locais. Uma aplicação desse aprendizado é a confecção de roupas feitas com pele de caribu (rena) que ajuda a manter a temperatura corporal aproximadamente constante.",
+        "enunciado": "Assinale a alternativa que justifica corretamente o equilíbrio térmico estabelecido.",
+        "stem": "Assinale a alternativa que justifica corretamente o equilíbrio térmico estabelecido.",
+        "answers": [
+          "A alta capacidade de absorção de moléculas de água pela pele é a responsável por evitar a sudorese.",
+          "A perda de calor da pele do corpo para o ambiente é a responsável por manter o corpo aquecido.",
+          "A pele auxilia no equilíbrio térmico devido à convecção, mantendo o corpo aquecido.",
+          "A reflexão total da radiação solar recebida pelo corpo aumenta a temperatura corporal.",
+          "A presença de proteínas vivas isolantes na pele é a responsável por facilitar a transferência térmica."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "40": {
+        "bnccCodes": [
+          "EF07CI02"
+        ],
+        "tema": "Pressão superficial e distribuição do peso",
+        "reading": "",
+        "enunciado": "Alguns povos nômades do deserto do Saara utilizam camelos como meio de transporte. Esses animais têm a capacidade de caminhar longas distâncias sobre areia fofa sem afundar. Podemos afirmar corretamente que essa capacidade está relacionada ao princípio físico da",
+        "stem": "Alguns povos nômades do deserto do Saara utilizam camelos como meio de transporte. Esses animais têm a capacidade de caminhar longas distâncias sobre areia fofa sem afundar. Podemos afirmar corretamente que essa capacidade está relacionada ao princípio físico da",
+        "answers": [
+          "radiação solar, pois a areia úmida auxilia na sustentação do animal.",
+          "gravidade, pois os desertos apresentam uma diminuição da gravidade local.",
+          "condutividade térmica, pois os cascos são constituídos de uma resina isolante.",
+          "resistividade elétrica, pois a areia apresenta sílica, um bom condutor de eletricidade.",
+          "pressão superficial, pois os cascos amplos distribuem o peso do animal e da sua carga."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "41": {
+        "bnccCodes": [
+          "EF06HI18"
+        ],
+        "tema": "Mapas medievais e visão de mundo na Idade Média",
+        "reading": "Durante a Idade Média, os mapas eram frequentemente adornados com representações de monstros marinhos. Essas criaturas refletiam tanto o medo quanto a fascinação pelo desconhecido. Além disso, eram utilizadas para ilustrar os perigos do mar e das terras inexploradas. Com o avanço da ciência e da exploração marítima, as representações de monstros marinhos nos mapas começaram a desaparecer. Estudos mais precisos e relatos confiáveis substituíram as lendas e as superstições. Além disso, a biologia marinha ajudou a desmistificar muitas dessas criaturas. Mapas posteriores focaram-se mais em precisão e detalhes geográficos. Adaptado.",
+        "enunciado": "A partir da leitura do texto, é correto afirmar que",
+        "stem": "A partir da leitura do texto, é correto afirmar que",
+        "answers": [
+          "os mapas da Idade Média retratavam as características monstruosas dos animais marinhos, demonstrando uma visão científica precisa em relação a esses seres e alertando para os perigos que representavam.",
+          "a visão medieval sobre os animais marinhos era determinada por medo e superstição, e foi substituída pelo olhar científico na medida em que avançaram as expedições marítimas e os conhecimentos sobre biologia marinha.",
+          "a fascinação pelo desconhecido evitou que os europeus da Idade Média se dedicassem ao estudo sistemático dos animais marinhos e impediu que essas criaturas fossem estudadas até a contemporaneidade.",
+          "a cartografia medieval se baseou em relatos confiáveis para produzir mapas precisos em que as representações de monstros marinhos desmistificavam essas criaturas.",
+          "o objetivo da cartografia é alertar os navegantes para os perigos do desconhecido, evitando os deslocamentos por mar, habitat ocupado por monstros marinhos."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "42": {
+        "bnccCodes": [],
+        "tema": "",
+        "reading": "Uma das formas de participar ativamente da sociedade como cidadão responsável é impedir a propagação de desinformação causada por fake news. Certa vez, uma jovem recebeu, por uma de suas mídias sociais, uma mensagem, reproduzida exatamente como foi divulgada, que afirmava: Fenômeno do equinócio nos atingirá nos próximos 5 dias e trará calor ao Brasil. Vamos ficar atentos! O fenômeno do Equinócio nos afetará nos próximos 5 dias. Permaneça com os animais dentro de casa, especialmente a partir das 11h. Às 16h, todos os dias, a temperatura irá flutuar e pode atingir 40 graus Celsius. Isso pode causar desidratação e insolação facilmente. Este fenômeno é devido ao fato de que o Sol está diretamente acima do equador. Para reconhecer a mensagem como fake news, a jovem recorreu aos conhecimentos de Ciências da Natureza vistos na escola.",
+        "enunciado": "Assinale a alternativa que identifica corretamente o conceito científico que evidencia o erro da fake news.",
+        "stem": "Assinale a alternativa que identifica corretamente o conceito científico que evidencia o erro da fake news.",
+        "answers": [
+          "O equinócio provoca ondas de calor intenso em países localizados ao Sul da linha do Equador, sendo necessário se abrigar para evitar queimaduras solares.",
+          "O fato de o Sol estar sobre o Equador faz com que a radiação solar se concentre em todo o Brasil, justificando a previsão de 40 °C às 16 h.",
+          "O equinócio está relacionado à inclinação do eixo da Terra e se caracteriza pelo fato de o dia e a noite terem o mesmo período com duração de 12 horas, portanto, não é responsável direto por ondas de calor.",
+          "As temperaturas de 40 °C são previsíveis durante o equinócio porque ocorre aumento da atividade solar sobre o hemisfério sul nessa época.",
+          "A recomendação de ficar em casa durante o equinócio é cientificamente válida, pois a energia solar atinge níveis perigosos entre 11 h e 17 h nesses dias."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "43": {
+        "bnccCodes": [
+          "EF08MA06"
+        ],
+        "tema": "Taxa de lotação, unidades animais e cálculo proporcional",
+        "reading": "Para garantir o equilíbrio entre o número de animais e o alimento disponível, os pecuaristas podem utilizar um indicador chamado taxa de lotação que auxilia na análise do número de unidades animais (UA) que uma área, em hectares (ha), pode sustentar com o alimento disponível. Sabe-se que 1 UA equivale a 450 kg de massa animal. Essa medida é utilizada, pois os animais podem apresentar massas e consumos diferentes, sobretudo devido às diversas fases da vida que os animais no pasto têm. Para determinar a quantidade de UAs que uma propriedade possui, deve-se dividir a massa total dos animais que irão ocupar a área por 450 kg. Além disso, a fórmula para calcular o total de UA em uma área é dada por: TOTAL DE UA = (ÁREA) × (TAXA DE LOTAÇÃO)",
+        "enunciado": "Suponha que, em uma fazenda, sejam criados 900 animais com massa média de 250 kg, em uma área de 100 ha. Com base nas informações apresentadas, determine a taxa de lotação dessa área em UA/ha.",
+        "stem": "Suponha que, em uma fazenda, sejam criados 900 animais com massa média de 250 kg, em uma área de 100 ha. Com base nas informações apresentadas, determine a taxa de lotação dessa área em UA/ha.",
+        "answers": [
+          "2,5",
+          "5,0",
+          "7,5",
+          "12,5",
+          "18,0"
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "44": {
+        "bnccCodes": [
+          "EF09GE13"
+        ],
+        "tema": "Pecuária, desmatamento na Amazônia e mudanças climáticas",
+        "reading": "O Brasil é o maior exportador de carne bovina do mundo, responsável por quase um quinto do total das exportações globais desse produto. Com mais de 230 milhões de cabeças de gado, o Brasil possui o segundo maior rebanho bovino do mundo cuja criação é, em grande parte, feita no pasto. Juntos, os nove estados que formam a Amazônia brasileira possuem quase 40% do rebanho nacional de bovinos. Inúmeros estudos sobre a dinâmica do desmatamento documentam que grande parte das áreas de floresta desmatadas na Amazônia é transformada em pastagem. Adaptado.",
+        "enunciado": "A partir do texto, é correto afirmar que",
+        "stem": "A partir do texto, é correto afirmar que",
+        "answers": [
+          "o Brasil ainda precisa importar grande parte da carne consumida pelo mercado interno, mesmo possuindo o maior rebanho bovino de corte do mundo, pois o alto valor do dólar inibe as exportações desse produto.",
+          "a expansão da fronteira agrícola para o cultivo de feijão, de trigo e de arroz, cereais utilizados como fonte de alimentação para o gado de corte, é a maior responsável pelo desmatamento verificado na Amazônia brasileira.",
+          "a criação de gado é uma das principais causas do desmatamento no Brasil, principalmente na Amazônia, contribuindo para as mudanças climáticas, pois as florestas são importantes no sequestro de carbono.",
+          "o Brasil ainda não conseguiu estancar o processo de desmatamento causado pela criação de gado de corte, principalmente na Amazônia brasileira, embora seja responsável por 50% das exportações mundiais de carne bovina.",
+          "o estado do Amazonas, dentre as unidades da Federação localizadas na Amazônia Legal, concentra pouco mais de 40% do rebanho nacional de bovinos, tornando esse estado, em termos percentuais, o campeão brasileiro em áreas florestais desmatadas."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "45": {
+        "bnccCodes": [
+          "EF07CI09"
+        ],
+        "tema": "Doenças parasitárias: teníase e cisticercos",
+        "reading": "",
+        "enunciado": "Ao consumir a carne suína ou bovina contaminada com cisticercos – quando não ocorre o cozimento adequado – o ser humano pode adquirir uma doença denominada _______________ I causada pelo parasita conhecido como _______________. II Assinale a alternativa que preenche correta e respectivamente os espaços numerados I e II.",
+        "stem": "Ao consumir a carne suína ou bovina contaminada com cisticercos – quando não ocorre o cozimento adequado – o ser humano pode adquirir uma doença denominada _______________ I causada pelo parasita conhecido como _______________. II Assinale a alternativa que preenche correta e respectivamente os espaços numerados I e II.",
+        "answers": [
+          "ascaridíase lombriga",
+          "teníase solitária",
+          "mal de Chagas barbeiro",
+          "amebíase ameba",
+          "toxoplasmose salmonella"
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "46": {
+        "bnccCodes": [
+          "EF08HI23"
+        ],
+        "tema": "Imperialismo europeu, neocolonialismo e origem dos zoológicos modernos",
+        "reading": "A origem dos zoológicos, como os conhecemos hoje, está diretamente ligada ao Imperialismo dos séculos XVIII e XIX, quando grandes impérios levavam animais exóticos de suas colônias para exibição na Europa, simbolizando não apenas a dominação de territórios, mas também o controle sobre a natureza. Milhões de pessoas visitavam zoológicos para ver criaturas exóticas que despertavam curiosidade e entretenimento. Essa exibição era tanto uma forma de lazer, quanto uma expressão de poder, em que a fauna de terras distantes estava à mercê dos colonizadores. Posteriormente, muitos zoológicos foram criados com intenções conservacionistas, especialmente no que tange à preservação de espécies nativas, ressaltando o papel que essas instituições têm desempenhado em termos de conservação e educação. Adaptado.",
+        "enunciado": "O processo histórico referido no texto, que explica o contexto de surgimento dos zoológicos modernos, é caracterizado por",
+        "stem": "O processo histórico referido no texto, que explica o contexto de surgimento dos zoológicos modernos, é caracterizado por",
+        "answers": [
+          "uma revolução cultural ocorrida nos países da Europa, que levou os governos a adotar políticas educacionais rígidas e universalizantes, com o objetivo de preparar a juventude para as transformações que ocorreriam no século XX.",
+          "uma política de entretenimento, também conhecida como “política de pão e circo”, voltada ao aprimoramento do repertório cultural dos colonos, para que superassem os males que os afligiam.",
+          "uma política de expansão territorial, econômica, política e cultural de países europeus sobre outros continentes, também conhecida como neocolonialismo.",
+          "uma forma de governo absolutista, em que todo o poder se concentrava nas mãos do rei e que desconsiderava as necessidades materiais imediatas de seus súditos.",
+          "uma forma de governo democrática, que pressupunha a divisão do poder em Executivo, Legislativo e Judiciário e dava grande ênfase ao desenvolvimento científico e cultural da população europeia."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "47": {
+        "bnccCodes": [
+          "EF09CI13"
+        ],
+        "tema": "Conservação da fauna e recuperação de áreas degradadas",
+        "reading": "O único santuário de elefantes da América Latina fica no Brasil, no município de Chapada dos Guimarães, no Mato Grosso. É mantido pela Associação Santuário de Elefantes Brasil (SEB), uma organização da sociedade civil, sem fins lucrativos, que resgata elefantes cativos em situação de risco, sejam eles mantidos em circos, zoológicos ou propriedades privadas, oferecendo-lhes o espaço, as condições e os cuidados necessários para que possam se recuperar física e emocionalmente dos anos passados em cativeiro. Em razão da criação do Santuário, as áreas, que antes eram utilizadas para pastagem, estão em plena regeneração e recomposição. Esse processo acaba atraindo outros animais que estavam sumindo do local em razão da degradação ambiental. Adaptado.",
+        "enunciado": "Para os seres humanos, a existência do santuário é importante, pois ajuda a",
+        "stem": "Para os seres humanos, a existência do santuário é importante, pois ajuda a",
+        "answers": [
+          "reconectar as pessoas com a atividade circense, que não existe mais no território nacional em função de uma lei federal que impede a utilização de animais em seus espetáculos.",
+          "inspirar novas ações voltadas para incrementar o aumento do número de elefantes para suprir a ausência desses animais nos zoológicos privados brasileiros.",
+          "compreender que os elefantes são dignos de respeito, mesmo sendo responsáveis pelo desmatamento de amplos espaços naturais do Santuário.",
+          "promover a empatia e o respeito pelos elefantes, incentivando as pessoas a se preocuparem com o bem-estar desses e de outros animais.",
+          "motivar as pessoas a se engajarem em ações que permitam a utilização de elefantes em eventos públicos e privados."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "48": {
+        "bnccCodes": [
+          "EF07CI08"
+        ],
+        "tema": "Preservação das tartarugas marinhas e participação comunitária",
+        "reading": "O Projeto Tartarugas Marinhas (TAMAR), que se dedica à proteção das tartarugas marinhas no Brasil, nasceu em 1980. Desde o início, os pesquisadores do projeto perceberam que, para proteger as tartarugas, era preciso envolver e cuidar das pessoas. Pescadores, que antes da chegada do Projeto consumiam tartarugas marinhas e ovos como recurso alimentar ou os vendiam, foram convidados a trabalhar formalmente na proteção, pois sabiam como encontrar a desova da tartaruga sem estragar os ovos ou qual a melhor época para vê-las na praia, dentre outras informações fundamentais para as atividades de conservação. As atividades de proteção e manejo trazidas pelo TAMAR buscam dialogar com as práticas e o conhecimento tradicionais. Espaços eficientes de aprendizagem e capacitação foram abertos naturalmente, subvertendo uma realidade anterior marcada pela falta de informação sobre as tartarugas marinhas. O compromisso em manter a própria comunidade engajada na ação educadora mais ampla envolve gerações de famílias e o meio ambiente para além das tartarugas, incluindo questões de cidadania e a preocupação constante com a qualidade ambiental do lugar onde vivem. A relação de trabalho estabelecida, as mudanças culturais gerais, a capacitação e os resultados positivos para a conservação colaboraram e continuam a colaborar com as mudanças de comportamento em relação à proteção necessária às tartarugas e ao seu habitat.",
+        "enunciado": "A partir da leitura do texto, é correto afirmar que",
+        "stem": "A partir da leitura do texto, é correto afirmar que",
+        "answers": [
+          "a necessidade de preservação ambiental inviabiliza a manutenção das culturas e os modos de vida das comunidades pescadoras.",
+          "o projeto TAMAR capacita os membros das comunidades tradicionais para a pesca, o comércio e o consumo das tartarugas como recurso alimentar.",
+          "é necessário convidar os pescadores a se retirarem de seus territórios, impedindo o contato entre humanos e animais para proteger as tartarugas marinhas do Brasil.",
+          "o trabalho do TAMAR é bem-sucedido porque engaja as comunidades em ações de cidadania, respeitando as práticas e os conhecimentos locais.",
+          "a capacitação e os resultados positivos para a conservação foram ineficazes na promoção das mudanças de comportamento necessárias à proteção das tartarugas e de seu habitat."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "49": {
+        "bnccCodes": [
+          "EF07CI08"
+        ],
+        "tema": "Reprodução das tartarugas marinhas e impactos da iluminação artificial",
+        "reading": "",
+        "enunciado": "Entre os principais fatores que ameaçam a sobrevivência das tartarugas marinhas do litoral do Brasil, destacam-se a captura acidental em redes de pesca e anzóis, a degradação de áreas de desova, a fotopoluição, a poluição dos oceanos e as mudanças climáticas. Essas ameaças ocorrem quando",
+        "stem": "Entre os principais fatores que ameaçam a sobrevivência das tartarugas marinhas do litoral do Brasil, destacam-se a captura acidental em redes de pesca e anzóis, a degradação de áreas de desova, a fotopoluição, a poluição dos oceanos e as mudanças climáticas. Essas ameaças ocorrem quando",
+        "answers": [
+          "as tartarugas marinhas vivem a maior parte de suas vidas nas praias prioritárias de reprodução, sem a presença de predadores.",
+          "as tartarugas capturadas acidentalmente em redes de malha ou arrastos permanecem submersas, sem subir à superfície, pois realizam respiração branquial.",
+          "os filhotes das tartarugas, em vez de seguirem para o mar guiados pela luminosidade natural do horizonte, deslocam-se para o continente, atraídos pela iluminação artificial nas praias.",
+          "as mudanças climáticas ocasionam o aumento do nível do mar, cobrindo totalmente a areia das praias, o que favorece a formação de novos ninhos e aumenta a quantidade de filhotes.",
+          "a ausência de predadores e o cuidado parental realizado nas praias prioritárias de reprodução diminuem a possibilidade de ocorrer alta taxa de mortalidade dos filhotes das tartarugas."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      },
+      "50": {
+        "bnccCodes": [
+          "EF07CI08"
+        ],
+        "tema": "Proteção dos animais e responsabilidade socioambiental",
+        "reading": "",
+        "enunciado": "Os animais têm uma grande importância para a vida humana e o equilíbrio ecológico do meio ambiente. No entanto, a relação entre humanos e animais nem sempre é harmoniosa, pois os animais são, por vezes, expostos a práticas cruéis e antiéticas, que colocam em risco as suas vidas. Desenvolver valores, como responsabilidade no cuidado do meio ambiente e de outro ser vivo, é importante para ampliar a consciência social. Para isso, faz-se necessário",
+        "stem": "Os animais têm uma grande importância para a vida humana e o equilíbrio ecológico do meio ambiente. No entanto, a relação entre humanos e animais nem sempre é harmoniosa, pois os animais são, por vezes, expostos a práticas cruéis e antiéticas, que colocam em risco as suas vidas. Desenvolver valores, como responsabilidade no cuidado do meio ambiente e de outro ser vivo, é importante para ampliar a consciência social. Para isso, faz-se necessário",
+        "answers": [
+          "incentivar a introdução de espécies invasoras em habitats naturais de outras espécies, a fim de permitir a transmissão de doenças aos animais nativos.",
+          "comprar produtos feitos de animais ameaçados ou em perigo de extinção, a fim de inibir o tráfico ilegal desses animais e a propagação de zoonoses.",
+          "combater ações de reflorestamento, a fim de impedir a migração de animais para ambientes ou habitats onde tenham espaço para se reproduzir.",
+          "estimular a comercialização de animais silvestres vítimas do tráfico ilegal para serem usados como cobaias em testes de laboratórios.",
+          "denunciar o cativeiro ou os maus-tratos de animais, os desmatamentos e as queimadas ilegais às autoridades competentes."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+        "curated": true
+      }
+    }
+  },
+  "prova 2026 2 sem": {
+    "prova": "prova 2026 2 sem",
+    "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+    "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+    "questions": {
+      "1": {
+        "bnccCodes": [
+          "EF06HI07"
+        ],
+        "tema": "Egito Antigo: Rio Nilo, transporte e comércio",
+        "reading": "",
+        "enunciado": "Além de garantir a fertilidade do solo para a agricultura, o Rio Nilo funcionou como a principal “estrada” do Egito antigo, conectando o Alto Egito (sul) ao Baixo Egito (norte). Considerando as características geográficas da região e a importância do rio para o deslocamento de pessoas e de mercadorias, os meios de transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "stem": "Além de garantir a fertilidade do solo para a agricultura, o Rio Nilo funcionou como a principal “estrada” do Egito antigo, conectando o Alto Egito (sul) ao Baixo Egito (norte). Considerando as características geográficas da região e a importância do rio para o deslocamento de pessoas e de mercadorias, os meios de transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "answers": [
+          "as carroças, puxadas por cavalos, utilizadas em estradas asfaltadas nas margens de toda a extensão do rio Nilo.",
+          "os camelos, conhecidos como “navios do deserto”, usados em caravanas que cruzavam o Saara para transportar mercadorias para o Soweto, na África do Sul.",
+          "as embarcações a vela ou a remo, construídas para navegar pelo Nilo, cujas águas facilitavam o transporte de cargas de cereais e de pedras.",
+          "os trenós, arrastados por bois sobre a areia, utilizados no transporte de blocos de pedra para a construção das pirâmides.",
+          "as carruagens puxadas por éguas, ideais para o deslocamento rápido de exércitos e de mensageiros entre as cidades-Estado."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "2": {
+        "bnccCodes": [
+          "EF06HI18"
+        ],
+        "tema": "Idade Média: peregrinações, rotas e comércio",
+        "reading": "",
+        "enunciado": "As peregrinações contribuíram para o desenvolvimento das vias de comunicação medievais. As estradas, até então precárias e perigosas, tornaram-se mais movimentadas, exigindo a construção de pontes e de hospedarias, além da atuação de ordens religiosas para proteger os viajantes. Esse fluxo constante de pessoas disseminou informações e práticas culturais e dinamizou a economia local. A principal motivação desse fluxo e a sua consequência eram, respectivamente,",
+        "stem": "As peregrinações contribuíram para o desenvolvimento das vias de comunicação medievais. As estradas, até então precárias e perigosas, tornaram-se mais movimentadas, exigindo a construção de pontes e de hospedarias, além da atuação de ordens religiosas para proteger os viajantes. Esse fluxo constante de pessoas disseminou informações e práticas culturais e dinamizou a economia local. A principal motivação desse fluxo e a sua consequência eram, respectivamente,",
+        "answers": [
+          "comercial, ligada às feiras de Champagne, cujo desenvolvimento permitiu a formação de uma rede bancária internacional.",
+          "religiosa, com a visita a locais sagrados como Santiago de Compostela e Roma, o que resultou na dinamização do comércio e na revitalização das cidades e das rotas.",
+          "política, visando à centralização do poder nas mãos dos reis, o que ocasionou o fim do sistema de suserania e vassalagem.",
+          "militar, com a participação de diferentes exércitos nas Cruzadas, o que permitiu a expansão do Império Bizantino sobre a Europa Oriental.",
+          "acadêmica, e estava relacionada às primeiras universidades, cujas fundações favoreceram a padronização do latim como língua universal."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "3": {
+        "bnccCodes": [
+          "EF07HI06"
+        ],
+        "tema": "Grandes Navegações e centralização das monarquias",
+        "reading": "",
+        "enunciado": "A construção de embarcações mais resistentes e velozes foi uma inovação tecnológica decisiva para as Grandes Navegações. Países como Portugal e Espanha investiram em tecnologia e na formação de navegadores. No contexto europeu do século XV, o desenvolvimento de tecnologias náuticas e a organização de expedições marítimas de longa distância estavam diretamente associados à",
+        "stem": "A construção de embarcações mais resistentes e velozes foi uma inovação tecnológica decisiva para as Grandes Navegações. Países como Portugal e Espanha investiram em tecnologia e na formação de navegadores. No contexto europeu do século XV, o desenvolvimento de tecnologias náuticas e a organização de expedições marítimas de longa distância estavam diretamente associados à",
+        "answers": [
+          "ascensão do poder político dos senhores feudais, que financiavam a busca por novas terras para expandir seus feudos.",
+          "aliança entre a Igreja Católica e as cidades italianas, que desejavam contornar a crise do Mar Mediterrâneo.",
+          "organização dos trabalhadores urbanos nas corporações de ofício, que viam na navegação uma forma de fugir da servidão.",
+          "expansão do Império Mongol, que dominava as rotas terrestres e forçava os europeus a buscar caminhos alternativos pelo mar.",
+          "centralização política nas monarquias, que buscavam ampliar o comércio, acumular riquezas e fortalecer o poder do Estado."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "4": {
+        "bnccCodes": [
+          "EF07HI13"
+        ],
+        "tema": "Tráfico atlântico de africanos escravizados e comércio triangular",
+        "reading": "",
+        "enunciado": "O tráfico atlântico de africanos escravizados envolveu uma operação logística que ligava três continentes. As embarcações partiam da Europa com mercadorias (como armas, cachaça e tecidos) para a África. Na África, essas mercadorias eram trocadas por pessoas escravizadas, que eram então transportadas através do Atlântico até a América. Essas relações comerciais ocorreram entre os séculos XVI e XIX e, entre os historiadores, o nome atribuído a elas é",
+        "stem": "O tráfico atlântico de africanos escravizados envolveu uma operação logística que ligava três continentes. As embarcações partiam da Europa com mercadorias (como armas, cachaça e tecidos) para a África. Na África, essas mercadorias eram trocadas por pessoas escravizadas, que eram então transportadas através do Atlântico até a América. Essas relações comerciais ocorreram entre os séculos XVI e XIX e, entre os historiadores, o nome atribuído a elas é",
+        "answers": [
+          "Rota Transpacífica.",
+          "Rota das Especiarias.",
+          "Rota da Seda.",
+          "Comércio Triangular.",
+          "Comércio Intercolonial."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "5": {
+        "bnccCodes": [
+          "Competências gerais 6 e 10"
+        ],
+        "tema": "Transformações tecnológicas, transporte e escolhas profissionais",
+        "reading": "",
+        "enunciado": "Cada época histórica criou soluções de transporte (a estrada romana, a navegação à vela, a ferrovia, o avião) que moldaram as relações entre os homens e a economia. Ao analisar criticamente a evolução dos meios de transporte e sua influência na sociedade, um jovem que está refletindo sobre o seu futuro profissional conclui corretamente que",
+        "stem": "Cada época histórica criou soluções de transporte (a estrada romana, a navegação à vela, a ferrovia, o avião) que moldaram as relações entre os homens e a economia. Ao analisar criticamente a evolução dos meios de transporte e sua influência na sociedade, um jovem que está refletindo sobre o seu futuro profissional conclui corretamente que",
+        "answers": [
+          "a tecnologia determina os rumos da vida profissional, sendo impossível planejar uma carreira sem dominar as ferramentas de transporte mais modernas.",
+          "inovações nos transportes geram oportunidades de trabalho restritas aos físicos e aos engenheiros.",
+          "a mobilidade espacial é fator secundário na vida moderna, pois, com a adoção do trabalho remoto, as necessidades de deslocamento cessaram.",
+          "transformações nos transportes geram profissões e oportunidades, logo, o desenvolvimento pessoal e profissional vincula-se a mudanças históricas e tecnológicas.",
+          "a escolha profissional deve ignorar o contexto histórico e tecnológico, focando nas aptidões individuais, que são imutáveis."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "6": {
+        "bnccCodes": [
+          "EF08HI19"
+        ],
+        "tema": "Brasil Imperial: escravidão e sociedade no século XIX",
+        "reading": "",
+        "enunciado": "A tela do artista Jean-Baptiste Debret retrata uma cena do cotidiano urbano no Brasil do século XIX. O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "stem": "A tela do artista Jean-Baptiste Debret retrata uma cena do cotidiano urbano no Brasil do século XIX. O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "answers": [
+          "disseminação do trabalho livre, no qual os carregadores atuavam como prestadores de serviço com privilégios garantidos por leis imperiais.",
+          "exploração do trabalho escravizado, em que a força física de pessoas negras era apropriada para garantir o conforto e a distinção da aristocracia.",
+          "convivência pacífica entre os grupos sociais, evidenciada pela proximidade física nos espaços públicos e pelo compartilhamento dos meios de locomoção.",
+          "mecanização dos transportes urbanos, por meio da importação de equipamentos europeus e a contratação de trabalhadores com treinamento técnico especializado.",
+          "autossuficiência técnica dos grupos dominantes, que utilizavam os saberes tradicionais africanos para o desenvolvimento de meios de transporte inovadores."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-2sem-q06-imagem-debret.png"
+      },
+      "7": {
+        "bnccCodes": [
+          "EF09HI18"
+        ],
+        "tema": "Governo JK, construção de Brasília e indústria automobilística",
+        "reading": "Às cinco e meia da manhã, nesta cidade de Anápolis, Estado de Goiás, em 18 de abril de 1956, o presidente da República, Juscelino Kubitschek, assinou a mensagem dirigida ao Congresso Nacional, em que pede que seja decretada a mudança da capital da República para a região do Planalto Central, na área que constituirá o futuro Distrito Federal. Adaptado.",
+        "enunciado": "A partir das informações presentes no texto, é correto afirmar que",
+        "stem": "A partir das informações presentes no texto, é correto afirmar que",
+        "answers": [
+          "a nova capital localizava-se na Bahia e utilizou mão de obra recém-libertada da escravidão, transportada do Sudeste para o Nordeste por estradas de ferro.",
+          "o governo evitou o endividamento externo, financiando a construção da nova capital, Belo Horizonte, com recursos provenientes da venda de café e da exportação de minério de ferro.",
+          "a mudança da capital para São Paulo foi uma decisão impopular que gerou grandes protestos, sendo necessária a utilização de aviões da FAB para transportar os operários à força.",
+          "a mensagem se refere à construção de Brasília, cidade cujo projeto priorizava o transporte individual, refletindo a crença no progresso e o incentivo à indústria automobilística.",
+          "as obras de infraestrutura para as reformas da cidade do Rio de Janeiro, a nova capital, paralisaram os investimentos em transportes nas demais regiões do país."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "8": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Composição percentual, massa e interpretação de dados químicos",
+        "reading": "O transporte de produtos químicos é controlado e cercado de muitos cuidados para evitar acidentes, como o ocorrido com uma carreta na BR–354. A carreta se chocou com um caminhão, causando vazamento de Tanalith, um fungicida e inseticida de alta toxidade. Composição química do Tanalith: MASSA INGREDIENTE PERCENTUAL Trióxido de Cromo 28,70% (CrO3) Óxido de Cobre II 11,17% (CuO) Pentóxido de Arsênico 20,54% (As2O5) Outros ingredientes 40,00%",
+        "enunciado": "Sobre a tabela, assinale a alternativa correta.",
+        "stem": "Sobre a tabela, assinale a alternativa correta.",
+        "answers": [
+          "Entre os ingredientes identificados por seus nomes e fórmulas na tabela, o CrO3 é o que está presente em maior porcentagem em massa.",
+          "A porcentagem em massa de CuO excede à de CrO3.",
+          "Metade da composição do Tanalith, em massa, corresponde à presença de compostos de cobre.",
+          "O Tanalith apresenta 70%, em massa, correspondente a compostos oxigenados.",
+          "A soma das porcentagens em massa fornecidas na tabela leva a um valor inferior a 100%."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-2sem-q08-09-tabela.png"
+      },
+      "9": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Óxidos metálicos e não metálicos: classificação de compostos",
+        "reading": "O transporte de produtos químicos é controlado e cercado de muitos cuidados para evitar acidentes, como o ocorrido com uma carreta na BR–354. A carreta se chocou com um caminhão, causando vazamento de Tanalith, um fungicida e inseticida de alta toxidade. Composição química do Tanalith: MASSA INGREDIENTE PERCENTUAL Trióxido de Cromo 28,70% (CrO3) Óxido de Cobre II 11,17% (CuO) Pentóxido de Arsênico 20,54% (As2O5) Outros ingredientes 40,00%",
+        "enunciado": "Analisando as fórmulas dos compostos apresentados na tabela, pode-se concluir que são",
+        "stem": "Analisando as fórmulas dos compostos apresentados na tabela, pode-se concluir que são",
+        "answers": [
+          "ácidos oxigenados.",
+          "bases metálicas.",
+          "sais metálicos.",
+          "óxidos metálicos.",
+          "óxidos de não metais."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-2sem-q08-09-tabela.png"
+      },
+      "10": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Número atômico, número de massa e representação dos elementos",
+        "reading": "",
+        "enunciado": "O elemento cromo apresenta número atômico (Z) 24 e número de massa (A) 52. Portanto, ele é representado corretamente por",
+        "stem": "O elemento cromo apresenta número atômico (Z) 24 e número de massa (A) 52. Portanto, ele é representado corretamente por",
+        "answers": [
+          "24 Cr .",
+          "52 Cr .",
+          "76 Cr .",
+          "52 Cu .",
+          "24 Cu ."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "11": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Substâncias simples e compostas: O₂ e CO₂",
+        "reading": "",
+        "enunciado": "O transporte do gás oxigênio, O2, no corpo, ocorre para a realização da respiração celular, processo em que se dá também a produção de gás carbônico, CO2. Esses gases são classificados, respectivamente, como",
+        "stem": "O transporte do gás oxigênio, O2, no corpo, ocorre para a realização da respiração celular, processo em que se dá também a produção de gás carbônico, CO2. Esses gases são classificados, respectivamente, como",
+        "answers": [
+          "substância pura simples e mistura.",
+          "substância pura simples e substância pura composta.",
+          "substância pura composta e substância pura simples.",
+          "substância pura composta e mistura.",
+          "mistura e substância pura composta."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "12": {
+        "bnccCodes": [
+          "EF09CI02"
+        ],
+        "tema": "Reação de neutralização entre ácido e base",
+        "reading": "",
+        "enunciado": "O transporte de substâncias em laboratório exige rigorosa segurança para evitar acidentes e contaminações. Produtos químicos devem ser movidos em carrinhos, bandejas ou cestas adequadas, com recipientes bem fechados e rotulados. Inadvertidamente, foi usado um frasco de capacidade de 200 mL, sem rótulo e com resíduo de solução de ácido clorídrico, HCl, para transportar 100 mL de solução de hidróxido de sódio, NaOH. Ambos de mesma concentração. Esses compostos, quando apresentam a mesma concentração, reagem na proporção em volume de 1:1, levando à formação do sal cloreto de sódio, NaCl, conforme a equação química representada. Reação de neutralização: HCl + NaOH → NaCl + H2O Sabendo-se que a quantidade de HCl era de apenas 5 mL, sobre o ocorrido, é correto afirmar que",
+        "stem": "O transporte de substâncias em laboratório exige rigorosa segurança para evitar acidentes e contaminações. Produtos químicos devem ser movidos em carrinhos, bandejas ou cestas adequadas, com recipientes bem fechados e rotulados. Inadvertidamente, foi usado um frasco de capacidade de 200 mL, sem rótulo e com resíduo de solução de ácido clorídrico, HCl, para transportar 100 mL de solução de hidróxido de sódio, NaOH. Ambos de mesma concentração. Esses compostos, quando apresentam a mesma concentração, reagem na proporção em volume de 1:1, levando à formação do sal cloreto de sódio, NaCl, conforme a equação química representada. Reação de neutralização: HCl + NaOH → NaCl + H2O Sabendo-se que a quantidade de HCl era de apenas 5 mL, sobre o ocorrido, é correto afirmar que",
+        "answers": [
+          "o ácido foi totalmente neutralizado, mas a solução de NaOH está contaminada com pequena quantidade de NaCl.",
+          "a base foi totalmente neutralizada, mas a solução de HCl está contaminada com pequena quantidade de NaCl.",
+          "a solução transportada era apenas de NaCl devido à neutralização total do HCl pelo NaOH.",
+          "a solução transportada era uma mistura de HCl e NaOH devido à neutralização parcial do HCl.",
+          "a solução transportada, devido à reação, apresentava as três substâncias: HCl, NaOH e NaCl."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "13": {
+        "bnccCodes": [
+          "EF09CI01"
+        ],
+        "tema": "Isomeria: glicose e frutose",
+        "reading": "O consumo excessivo de sacarose (açúcar de mesa) pode sobrecarregar a capacidade metabólica do fígado, influenciando a produção de gordura intra-hepática, levando a esteatose hepática. O transporte e processamento da sacarose no organismo humano envolve a sua quebra, no intestino delgado, em glicose e frutose. A glicose e a frutose são levadas diretamente para o fígado. A frutose é metabolizada principalmente no fígado. Já a glicose é distribuída para o sangue e a sua quantidade é regulada pela ação da insulina. A glicose e a frutose apresentam as respectivas fórmulas estruturais: H O C C H2OH H C OH C O HO C H HO C H H C OH H C OH H C OH H C OH C H2 OH C H2 OH Glicose Frutose (C6H12O6) (C6H12O6)",
+        "enunciado": "Sabendo que isômeros são compostos que apresentam a mesma fórmula molecular e diferentes fórmulas estruturais, pode-se afirmar, corretamente, que",
+        "stem": "Sabendo que isômeros são compostos que apresentam a mesma fórmula molecular e diferentes fórmulas estruturais, pode-se afirmar, corretamente, que",
+        "answers": [
+          "glicose e frutose são isômeros, pois apresentam fórmulas moleculares iguais e estruturais diferentes.",
+          "glicose e frutose são isômeros, pois apresentam fórmulas moleculares e estruturais diferentes.",
+          "glicose e frutose são isômeros, pois apresentam fórmulas moleculares e estruturais iguais.",
+          "glicose e frutose não podem ser isômeros, pois apresentam fórmulas moleculares e estruturais diferentes.",
+          "glicose e frutose não podem ser isômeros, pois apresentam fórmulas moleculares diferentes e estruturais iguais."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "14": {
+        "bnccCodes": [
+          "EF07CI09"
+        ],
+        "tema": "Açúcar, metabolismo e saúde do fígado",
+        "reading": "O consumo excessivo de sacarose (açúcar de mesa) pode sobrecarregar a capacidade metabólica do fígado, influenciando a produção de gordura intra-hepática, levando a esteatose hepática. O transporte e processamento da sacarose no organismo humano envolve a sua quebra, no intestino delgado, em glicose e frutose. A glicose e a frutose são levadas diretamente para o fígado. A frutose é metabolizada principalmente no fígado. Já a glicose é distribuída para o sangue e a sua quantidade é regulada pela ação da insulina. A glicose e a frutose apresentam as respectivas fórmulas estruturais: H O C C H2OH H C OH C O HO C H HO C H H C OH H C OH H C OH H C OH C H2 OH C H2 OH Glicose Frutose (C6H12O6) (C6H12O6)",
+        "enunciado": "Baseando-se no texto, para se ter boa qualidade de vida, uma meta é procurar ingerir",
+        "stem": "Baseando-se no texto, para se ter boa qualidade de vida, uma meta é procurar ingerir",
+        "answers": [
+          "grande quantidade de sacarose, pois sobrecarrega o fígado.",
+          "grande quantidade de sacarose, pois será usada como fonte de insulina.",
+          "grande quantidade de sacarose, pois é benéfica para o funcionamento do fígado.",
+          "pequena quantidade de sacarose, pois a glicose é metabolizada no fígado.",
+          "pequena quantidade de sacarose, pois seu excesso leva à esteatose hepática."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "15": {
+        "bnccCodes": [
+          "EF08GE08"
+        ],
+        "tema": "Estreito de Ormuz e rotas marítimas do petróleo",
+        "reading": "O Estreito de Ormuz é uma das principais artérias marítimas da economia global. Por ele, navegam petroleiros que transportam cerca de um quinto da produção mundial diária de petróleo. Essa rota marítima é considerada um ponto de estrangulamento crucial para o transporte global desse mineral. Adaptado.",
+        "enunciado": "Esse Estreito conecta o",
+        "stem": "Esse Estreito conecta o",
+        "answers": [
+          "Mar Morto ao Mar Cáspio, na Ásia.",
+          "Golfo Pérsico ao Golfo de Omã, na Ásia.",
+          "Mar Vermelho ao Mar Mediterrâneo, na África.",
+          "Mar Cáspio ao Golfo da Califórnia, na América.",
+          "Golfo do México ao Mar do Caribe, na América."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "16": {
+        "bnccCodes": [
+          "EF09GE07"
+        ],
+        "tema": "Ferrovia Qinghai-Tibete, altitude e condições climáticas",
+        "reading": "A linha ferroviária mais alta do mundo, apelidada “Trem do Céu”, estende-se por quase dois mil quilômetros entre Xining, a capital da província de Qinghai, na China, passando pelos planaltos tibetanos até alcançar Lhasa, capital da Região Autônoma do Tibete, também na China, que está situada a cerca de cinco mil metros acima do nível do mar. O ar na região da ferrovia Qinghai-Tibete pode ser até 40% mais rarefeito do que o normal, e as temperaturas podem chegar a marcar – 40 °C. O ponto mais alto do percurso está a 5 072 metros de altitude e situa-se em Passo Tanggula, no condado de Amdo, onde tem uma estação que foi inaugurada em 2006, porém ninguém trabalha lá. Adaptado.",
+        "enunciado": "De acordo com o texto, é correto afirmar que essa ferrovia",
+        "stem": "De acordo com o texto, é correto afirmar que essa ferrovia",
+        "answers": [
+          "liga duas regiões chinesas e, durante seu trajeto, é possível encontrar situações climáticas bastante rigorosas aos seres humanos, principalmente no condado de Amdo.",
+          "liga a China ao Tibete, país este que tornou-se independente da Índia em 2006, com o apoio da China, que construiu a ferrovia para auxiliar o país recém-independente.",
+          "termina na estação de Amdo, que foi concluída uma década após a China se tornar um país socialista, pelas mãos de Mao Tsé-Tung, e serviu como forma de propaganda da superioridade do socialismo chinês.",
+          "foi inaugurada no século XIX e, por ser a mais alta do mundo, transita por áreas de dobramentos modernos, ligando-os às planícies de Qinghai, no continente europeu.",
+          "foi planejada para atravessar a Cordilheira dos Andes, a fim de atender a cidade de Passo Tanggula, considerada a mais alta do mundo."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "17": {
+        "bnccCodes": [
+          "EF08GE08"
+        ],
+        "tema": "Rotas aéreas internacionais e localização geográfica",
+        "reading": "",
+        "enunciado": "Algumas rotas aéreas que conectam a Ásia à América do Norte sobrevoam áreas próximas ao Polo Norte. Essas rotas aéreas são escolhidas para",
+        "stem": "Algumas rotas aéreas que conectam a Ásia à América do Norte sobrevoam áreas próximas ao Polo Norte. Essas rotas aéreas são escolhidas para",
+        "answers": [
+          "evitar as tempestades tropicais que ocorrem nas regiões polares.",
+          "economizar tempo, combustível e garantir segurança operacional.",
+          "fugir do tráfego aéreo intenso de satélites que ocorre na linha do Equador.",
+          "aproveitar a ausência de gravidade nos polos para economizar combustível.",
+          "garantir que o avião esteja sempre em contato visual com o solo congelado para facilitar a navegação."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "18": {
+        "bnccCodes": [
+          "EF08GE07"
+        ],
+        "tema": "Ferrovia transcontinental, exportações e comércio internacional",
+        "reading": "Brasil e China assinaram, em julho de 2025, um acordo de cooperação para desenvolver estudos técnicos sobre a construção de uma ferrovia que ligaria o porto de Ilhéus, na Bahia, ao porto de Chancay, no litoral do Peru, cruzando o continente sul-americano do Atlântico ao Pacífico. Adaptado.",
+        "enunciado": "O principal objetivo geoeconômico dessa infraestrutura é",
+        "stem": "O principal objetivo geoeconômico dessa infraestrutura é",
+        "answers": [
+          "facilitar a migração pendular de trabalhadores entre as capitais sul-americanas e asiáticas.",
+          "reduzir os custos e o tempo de exportação de commodities para o mercado asiático.",
+          "proteger as fronteiras agrícolas sul-americanas contra o avanço da mecanização.",
+          "unificar o fuso horário dos países da América do Sul com os países da Ásia.",
+          "substituir a atual rota ferroviária que liga a Ásia e a América do Sul."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "19": {
+        "bnccCodes": [
+          "EF09GE05"
+        ],
+        "tema": "Rodoanel e circulação de veículos na região metropolitana",
+        "reading": "O Rodoanel Mário Covas, também conhecido como Rodoanel Metropolitano de São Paulo, é um anel rodoviário com aproximadamente 180 quilômetros de extensão, duas pistas e seis faixas de rodagem. Ele está sendo construído em torno do centro da Grande São Paulo. Adaptado.",
+        "enunciado": "A construção desse anel viário tem como objetivo",
+        "stem": "A construção desse anel viário tem como objetivo",
+        "answers": [
+          "interligar as cidades da região metropolitana por meio de um moderno sistema ferroviário.",
+          "incentivar a ocupação populacional na área lindeira ao Rodoanel, estimulando a construção de moradias populares.",
+          "eliminar a necessidade do transporte público que liga a cidade de São Paulo às outras cidades da região metropolitana.",
+          "desviar o fluxo de veículos pesados que atravessam a cidade de São Paulo, reduzindo o congestionamento urbano.",
+          "transformar as avenidas centrais das cidades da região metropolitana de São Paulo em pistas de alta velocidade para caminhões."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "20": {
+        "bnccCodes": [
+          "EF09GE05"
+        ],
+        "tema": "Rodovia Presidente Dutra e industrialização do Vale do Paraíba",
+        "reading": "",
+        "enunciado": "A Rodovia Presidente Dutra, inaugurada em 1951, atravessa o Vale do Paraíba, conectando as duas maiores metrópoles do país, São Paulo e Rio de Janeiro. Essa rodovia foi o principal indutor",
+        "stem": "A Rodovia Presidente Dutra, inaugurada em 1951, atravessa o Vale do Paraíba, conectando as duas maiores metrópoles do país, São Paulo e Rio de Janeiro. Essa rodovia foi o principal indutor",
+        "answers": [
+          "da industrialização do Vale do Paraíba, baseada na extração de madeira nativa da Serra da Mantiqueira.",
+          "da construção de portos secos destinados ao comércio de matérias-primas com países do Mercosul.",
+          "do surgimento de um microclima árido causado pela circulação intensa de caminhões de carga.",
+          "da transformação do Vale do Paraíba na principal área agrícola e pastoril do Brasil.",
+          "da consolidação do Vale do Paraíba como um importante eixo industrial e tecnológico."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "21": {
+        "bnccCodes": [
+          "EF09CI16"
+        ],
+        "tema": "Competências socioemocionais e adaptação às mudanças — questão interdisciplinar",
+        "reading": "",
+        "enunciado": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país. Desenvolver a adaptabilidade como uma competência socioemocional é necessário para",
+        "stem": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país. Desenvolver a adaptabilidade como uma competência socioemocional é necessário para",
+        "answers": [
+          "impedir que o indivíduo sinta saudades de seu local de origem.",
+          "dificultar o aprendizado de novos conhecimentos em uma nova fase.",
+          "lidar com os novos ritmos, fluxos e dinâmicas espaciais do local de destino.",
+          "limitar a criação de novas necessidades ou de trajetórias frente a um obstáculo.",
+          "inviabilizar o amadurecimento individual decorrente de processos de mudança."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "22": {
+        "bnccCodes": [
+          "EF09CI14"
+        ],
+        "tema": "Velocidade média e conversão de unidades",
+        "reading": "Como estratégia de implantação, a Linha 17–Ouro do Monotrilho foi dividida em 3 trechos de implementação. Estima-se que o trecho 1 deve ter 6,3 km e gerar uma economia de 34 minutos no tempo de viagem do trajeto entre suas estações terminais. Este trajeto, atualmente, leva 48 minutos utilizando-se o sistema de ônibus. A previsão é de que o trecho 2 tenha aproximadamente 6,4 km, enquanto o trecho 3 deve ter perto de 5 km. PROCHNO, (J) (A) (F) C et al. Linha 17–Ouro: estágio atual e perspectivas. Revista Brasil Engenharia. Engenho Editora Técnica. Brasil/São Paulo, n.º1, Ano 1, p. 138-143, JAN-FEV-MAR. 2020. Adaptado.",
+        "enunciado": "Supondo que a velocidade média entre duas estações consecutivas quaisquer da linha 17–Ouro seja sempre a mesma, então o tempo t, em minutos, que demoraria para percorrer todos os 3 trechos dessa linha, desconsiderando o tempo de parada em cada uma das estações, é tal que",
+        "stem": "Supondo que a velocidade média entre duas estações consecutivas quaisquer da linha 17–Ouro seja sempre a mesma, então o tempo t, em minutos, que demoraria para percorrer todos os 3 trechos dessa linha, desconsiderando o tempo de parada em cada uma das estações, é tal que",
+        "answers": [
+          "10 ≤ t < 20.",
+          "20 ≤ t < 30.",
+          "30 ≤ t < 40.",
+          "40 ≤ t < 50.",
+          "50 ≤ t < 60."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "23": {
+        "bnccCodes": [
+          "EF09CI14"
+        ],
+        "tema": "Distância, tempo e velocidade média",
+        "reading": "Como estratégia de implantação, a Linha 17–Ouro do Monotrilho foi dividida em 3 trechos de implementação. Estima-se que o trecho 1 deve ter 6,3 km e gerar uma economia de 34 minutos no tempo de viagem do trajeto entre suas estações terminais. Este trajeto, atualmente, leva 48 minutos utilizando-se o sistema de ônibus. A previsão é de que o trecho 2 tenha aproximadamente 6,4 km, enquanto o trecho 3 deve ter perto de 5 km. PROCHNO, (J) (A) (F) C et al. Linha 17–Ouro: estágio atual e perspectivas. Revista Brasil Engenharia. Engenho Editora Técnica. Brasil/São Paulo, n.º1, Ano 1, p. 138-143, JAN-FEV-MAR. 2020. Adaptado.",
+        "enunciado": "Algumas razões são utilizadas em nosso cotidiano. Um exemplo é a velocidade escalar média que é obtida pela divisão entre a distância percorrida e o tempo gasto para percorrê-la. Com base nessa definição, assinale a alternativa que apresenta a velocidade média estimada do monotrilho no trecho 1 da Linha 17–Ouro.",
+        "stem": "Algumas razões são utilizadas em nosso cotidiano. Um exemplo é a velocidade escalar média que é obtida pela divisão entre a distância percorrida e o tempo gasto para percorrê-la. Com base nessa definição, assinale a alternativa que apresenta a velocidade média estimada do monotrilho no trecho 1 da Linha 17–Ouro.",
+        "answers": [
+          "2,2 m/s",
+          "3,1 m/s",
+          "4,3 m/s",
+          "5,6 m/s",
+          "7,5 m/s"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "24": {
+        "bnccCodes": [
+          "EF09MA05"
+        ],
+        "tema": "Porcentagens, razão e proporção aplicadas a dados estatísticos",
+        "reading": "Segundo o Censo de 2022, o meio de transporte mais utilizado, em nosso país, no deslocamento para o trabalho é o automóvel (32%), seguido por ônibus (21%), a pé (18%) e por motocicleta (16%). Adaptado.",
+        "enunciado": "Imagine que essas porcentagens sejam válidas para um grupo de amigos reunidos em um congresso. Se entre eles há 22 pessoas a mais que utilizam automóvel do que ônibus para ir trabalhar, então o número de amigos reunidos é",
+        "stem": "Imagine que essas porcentagens sejam válidas para um grupo de amigos reunidos em um congresso. Se entre eles há 22 pessoas a mais que utilizam automóvel do que ônibus para ir trabalhar, então o número de amigos reunidos é",
+        "answers": [
+          "22.",
+          "53.",
+          "87.",
+          "110.",
+          "200."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "25": {
+        "bnccCodes": [
+          "EF09MA19"
+        ],
+        "tema": "Volume do cilindro: fórmula e aplicação prática",
+        "reading": "As passagens de fauna são estruturas projetadas para permitir que animais silvestres cruzem com segurança rodovias e ferrovias. Elas podem variar em forma e tamanho, incluindo pontes, túneis e corredores verdes. Em 2022, ambientalistas reivindicaram a construção de uma passagem subterrânea de fauna em Campinas. O projeto previa a construção de uma passagem com formato de cilindro com 82 metros de extensão e 2 metros de diâmetro. Adaptado.",
+        "enunciado": "Lembre que o volume de um cilindro é calculado utilizando a fórmula V = AB h, em que V é o volume; AB é área da base e h é a altura do cilindro. Se desprezarmos a espessura das paredes da passagem subterrânea e adotarmos π = 3, então é correto afirmar que o volume interno da passagem subterrânea é igual a",
+        "stem": "Lembre que o volume de um cilindro é calculado utilizando a fórmula V = AB h, em que V é o volume; AB é área da base e h é a altura do cilindro. Se desprezarmos a espessura das paredes da passagem subterrânea e adotarmos π = 3, então é correto afirmar que o volume interno da passagem subterrânea é igual a",
+        "answers": [
+          "123 m3.",
+          "246 m3.",
+          "492 m3.",
+          "738 m3.",
+          "984 m3."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "26": {
+        "bnccCodes": [],
+        "tema": "",
+        "reading": "Além das passagens de fauna, existem outras medidas que visam à redução de colisões veiculares com a fauna silvestre, como, por exemplo, as cercas. Elas são estruturas instaladas entre a rodovia e o ambiente para impedir o acesso dos animais à pista de rodagem e conduzi-los às passagens de fauna. No caso de cercamentos associados a passagens de fauna, recomenda-se o mínimo de 500 m de cercamento para cada lado da passagem de fauna. Observe o esquema de como cada trecho de cerca deve ser construído: Solo Solo Adaptado.",
+        "enunciado": "Assinale a alternativa que apresenta a área total aproximada de cercamento a ser construído para cada lado da passagem de fauna.",
+        "stem": "Assinale a alternativa que apresenta a área total aproximada de cercamento a ser construído para cada lado da passagem de fauna.",
+        "answers": [
+          "1 700 m2",
+          "1 400 m2",
+          "850 m2",
+          "750 m2",
+          "650 m2"
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "27": {
+        "bnccCodes": [
+          "EF07CI07",
+          "EF09MA22"
+        ],
+        "tema": "EPO, sangue e produção de glóbulos vermelhos · Média aritmética de valores apresentados em um gráfico",
+        "reading": "A eritropoietina (EPO), produzida principalmente pelos rins, é um hormônio que induz naturalmente a produção de glóbulos vermelhos, responsáveis pelo transporte de oxigênio para os tecidos e os órgãos. Existe uma forma sintética de EPO para tratar anemias, por exemplo. Mas também há o uso indevido de EPO para melhora do desempenho de um atleta. Seu uso deve ser cuidadosamente monitorado devido ao risco de efeitos colaterais, como aumento da viscosidade sanguínea e trombose. Estima-se que o mercado de EPO deverá apresentar um crescimento acelerado nos próximos anos, conforme mostrado no gráfico. 2025 19 2026 21 2027 24 2028 27 2029 30 2030 35 Traduzido e adaptado.",
+        "enunciado": "Assinale a alternativa que contém o valor médio do tamanho do mercado de EPO durante o período de 2025 a 2030, em bilhões de dólares americanos.",
+        "stem": "Assinale a alternativa que contém o valor médio do tamanho do mercado de EPO durante o período de 2025 a 2030, em bilhões de dólares americanos.",
+        "answers": [
+          "16",
+          "18",
+          "24",
+          "26",
+          "27"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "28": {
+        "bnccCodes": [
+          "Competências gerais 9 e 10"
+        ],
+        "tema": "Humanitarismo, solidariedade e atuação em benefício da sociedade",
+        "reading": "Alfred Nobel, em seu último testamento, especificou que a maior parte de sua fortuna deveria ser destinada a prêmios concedidos àqueles que, durante o ano anterior, tiverem conferido o maior benefício à humanidade. Um exemplo foi o Prêmio Nobel de Fisiologia ou de Medicina de 2013, concedido aos doutores James Rothman, Randy Schekman e Thomas Südhof por suas descobertas sobre os mecanismos que regulam o tráfego vesicular, um importante sistema de transporte em nossas células. Adaptado.",
+        "enunciado": "Cada alternativa expõe um resumo biográfico. Assinale a alternativa que apresenta o resumo marcado por ações diretamente voltadas ao cuidado, à assistência ou à melhoria das condições de vida de outras pessoas e que transcenda as fronteiras entre nações.",
+        "stem": "Cada alternativa expõe um resumo biográfico. Assinale a alternativa que apresenta o resumo marcado por ações diretamente voltadas ao cuidado, à assistência ou à melhoria das condições de vida de outras pessoas e que transcenda as fronteiras entre nações.",
+        "answers": [
+          "Henry Dunant, empresário e humanitário suíço, co-fundador da Cruz Vermelha e idealizador das Convenções de Genebra, dedicou-se à assistência de feridos em conflitos e à promoção de ações humanitárias.",
+          "William Shakespeare, dramaturgo e poeta inglês, autor de obras que exploram a complexidade das emoções humanas e das relações sociais, e que influenciaram profundamente a literatura, o teatro e a cultura ocidental.",
+          "Drauzio Varella, médico e escritor brasileiro, tornou-se conhecido por sua atuação na comunicação sobre temas de saúde por meio de livros, programas de televisão e campanhas educativas em nosso país.",
+          "Alberto Santos Dumont, aeronauta e inventor brasileiro, destacou-se por desenvolver o avião 14-Bis, contribuindo para o avanço dos transportes e possibilitando maior integração entre diferentes regiões do mundo.",
+          "Neymar Jr., jogador de futebol brasileiro, ganhou notoriedade devido a sua habilidade e desempenho em clubes e na seleção nacional, conquistando títulos importantes e reconhecimento internacional no esporte."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "29": {
+        "bnccCodes": [
+          "EF69LP03"
+        ],
+        "tema": "Argumentação e opinião em texto sobre sustentabilidade",
+        "reading": "",
+        "enunciado": "O argumento utilizado para justificar que “ser sustentável é ser coletivo” é",
+        "stem": "O argumento utilizado para justificar que “ser sustentável é ser coletivo” é",
+        "answers": [
+          "a ideia de carros de aplicativos e de ônibus emitirem menos poluentes.",
+          "o uso de bicicletas e carros ser mais eficiente que o de transporte público.",
+          "a necessidade de deixar a poluição em casa para utilizar o transporte coletivo.",
+          "o fato de carros particulares poluírem muito transportando poucas pessoas.",
+          "a comparação entre a quantidade de poluentes emitidos por bicicletas e ônibus."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "30": {
+        "bnccCodes": [
+          "EF69LP05"
+        ],
+        "tema": "Sentido das palavras e conectivos no contexto",
+        "reading": "",
+        "enunciado": "Os termos “apenas apenas” e “e”, no texto, podem ser substituídos por",
+        "stem": "Os termos “apenas apenas” e “e”, no texto, podem ser substituídos por",
+        "answers": [
+          "“mal” e “além disso”.",
+          "“somente” e “porém”.",
+          "“logo que” e “portanto”.",
+          "“dificilmente” e “embora”.",
+          "“principalmente” e “porque”."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "31": {
+        "bnccCodes": [
+          "EF69LP03"
+        ],
+        "tema": "Identificação da ideia principal e do objetivo do texto",
+        "reading": "",
+        "enunciado": "O texto tem por objetivo",
+        "stem": "O texto tem por objetivo",
+        "answers": [
+          "apresentar dados sobre a poluição nos grandes centros urbanos de forma imparcial.",
+          "comover o leitor por meio da exposição emotiva da opinião do autor sobre um fato recente.",
+          "informar regras de conduta para espaços compartilhados e as consequências de uma infração.",
+          "posicionar-se diante de um tema relevante, representando a opinião de uma empresa jornalística.",
+          "mobilizar o leitor a realizar determinadas ações em prol de um tema relevante para a sociedade."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "32": {
+        "bnccCodes": [
+          "EF69LP44"
+        ],
+        "tema": "Interpretação de texto de Santos Dumont e sua visão sobre o futuro",
+        "reading": "Leia um excerto do texto O que eu vi, o que veremos, escrito por Santos Dumont em 1918, para responder às questões 32 e 33. Eu vos falei do comércio e da dificuldade do seu desenvolvimento, da facilidade de transporte e comunicações e do incremento das relações amistosas. Estou convencido de que os obstáculos de tempo e distância serão removidos. As cidades exiladas na América do Sul entrarão em contato direto com o mundo. Os países distantes se encontrarão, apesar das barreiras de montanhas, rios e florestas. Os Estados Unidos e os países sul-americanos se conhecerão tão bem como a Inglaterra e a França se conhecem. A distância de Nova York ao Rio de Janeiro, que é agora de mais de vinte dias de viagem por mar, será reduzida a 2 ou 3 dias. Anulados o tempo e a distância, as relações comerciais, por tanto tempo retardadas, se desenvolverão espontaneamente. Teremos facilidades para as comunicações rápidas. Chegaremos a um contato mais íntimo. Seremos mais fortes nos nossos laços de compreensão e amizade. Tudo isto, senhores, será realizado pelo aeroplano.",
+        "enunciado": "O autor do texto defende a ideia de que",
+        "stem": "O autor do texto defende a ideia de que",
+        "answers": [
+          "as relações de amizade entre os países se tornarão difíceis devido ao desenvolvimento comercial.",
+          "o desenvolvimento da tecnologia de comunicação ampliará o isolamento dos países da América do Sul.",
+          "o desenvolvimento de um meio de transporte será responsável pela aproximação cultural e comercial entre os países das Américas.",
+          "as relações comerciais, desenvolvidas espontaneamente entre países diferentes, serão anuladas pela ação do tempo e da distância.",
+          "os meios de comunicação, apesar de incapazes de romper barreiras físicas, serão responsáveis por conectar os países das Américas."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "33": {
+        "bnccCodes": [
+          "EF69LP47"
+        ],
+        "tema": "Sentido e interpretação de frases em texto literário",
+        "reading": "Leia um excerto do texto O que eu vi, o que veremos, escrito por Santos Dumont em 1918, para responder às questões 32 e 33. Eu vos falei do comércio e da dificuldade do seu desenvolvimento, da facilidade de transporte e comunicações e do incremento das relações amistosas. Estou convencido de que os obstáculos de tempo e distância serão removidos. As cidades exiladas na América do Sul entrarão em contato direto com o mundo. Os países distantes se encontrarão, apesar das barreiras de montanhas, rios e florestas. Os Estados Unidos e os países sul-americanos se conhecerão tão bem como a Inglaterra e a França se conhecem. A distância de Nova York ao Rio de Janeiro, que é agora de mais de vinte dias de viagem por mar, será reduzida a 2 ou 3 dias. Anulados o tempo e a distância, as relações comerciais, por tanto tempo retardadas, se desenvolverão espontaneamente. Teremos facilidades para as comunicações rápidas. Chegaremos a um contato mais íntimo. Seremos mais fortes nos nossos laços de compreensão e amizade. Tudo isto, senhores, será realizado pelo aeroplano.",
+        "enunciado": "A frase “Os países distantes se encontrarão, apesar das barreiras de montanhas, rios e florestas” tem seu sentido corretamente reproduzido em",
+        "stem": "A frase “Os países distantes se encontrarão, apesar das barreiras de montanhas, rios e florestas” tem seu sentido corretamente reproduzido em",
+        "answers": [
+          "“Embora haja barreiras de montanhas, rios e florestas, os países distantes se encontrarão.”",
+          "“As barreiras são de montanhas, rios e florestas, portanto os países distantes se encontram.”",
+          "“Como inexistem barreiras entre montanhas, rios e florestas, os países distantes se encontrarão.”",
+          "“Se os países distantes se encontrarem, as montanhas, rios e florestas construirão barreiras entre eles.”",
+          "“Ainda que existam países distanciados por barreiras de montanhas, rios e florestas, nos encontraremos.” Leia a letra da música O Trenzinho do Caipira, composta por Ferreira Gullar para a música de Heitor Villa-Lobos, e responda às questões 34 e 35."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "34": {
+        "bnccCodes": [
+          "EF69LP48"
+        ],
+        "tema": "Linguagem figurada e interpretação da canção O Trenzinho do Caipira",
+        "reading": "Lá vai o trem com o menino Lá vai a vida a rodar Lá vai ciranda e destino Cidade e noite a girar Lá vai o trem sem destino Pro dia novo encontrar Correndo vai pela terra Vai pela serra, vai pelo mar Cantando pela serra, o luar Correndo entre as estrelas, a voar No ar No ar",
+        "enunciado": "O uso dos termos destacados na canção",
+        "stem": "O uso dos termos destacados na canção",
+        "answers": [
+          "representa o percurso planejado do trem, refletindo o destino certo do personagem.",
+          "reforça o tédio dos passageiros ao ver a mesma paisagem em lugares diferentes.",
+          "sugere os diversos cenários percorridos pelo trem em sua trajetória sem destino certo.",
+          "expressa a mudança de personagens durante a trajetória percorrida pelo trem.",
+          "indica a alta velocidade do trem ao percorrer lugares diferentes em um único dia."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "35": {
+        "bnccCodes": [
+          "EF69LP48"
+        ],
+        "tema": "Imagens poéticas e efeitos de sentido em uma canção",
+        "reading": "",
+        "enunciado": "Sobre a canção, é correto afirmar que",
+        "stem": "Sobre a canção, é correto afirmar que",
+        "answers": [
+          "a imagem do luar “correndo entre as estrelas” evidencia a nostalgia do menino que sente falta de sua casa.",
+          "predomina a linguagem denotativa devido ao uso literal dos termos, como em “lá vai a vida a rodar”.",
+          "“pro dia novo encontrar” auxilia a construção de uma hipérbole que louva os meios de transporte.",
+          "os termos “rodar”, “ciranda” e “girar” reforçam a imagem do movimento do trem e da vida.",
+          "as informações estão organizadas em três parágrafos com quatro versos, e sem rimas."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "36": {
+        "bnccCodes": [
+          "EF08CI05"
+        ],
+        "tema": "Transporte sustentável, bicicletas e impactos ambientais — interdisciplinar",
+        "reading": "",
+        "enunciado": "A mobilidade dentro das cidades é um tema central para se pensar a qualidade de vida dos cidadãos e o futuro das sociedades. Diante dos impactos que o uso de combustíveis fósseis e de carros particulares pode trazer à sociedade, o quadrinho apresenta",
+        "stem": "A mobilidade dentro das cidades é um tema central para se pensar a qualidade de vida dos cidadãos e o futuro das sociedades. Diante dos impactos que o uso de combustíveis fósseis e de carros particulares pode trazer à sociedade, o quadrinho apresenta",
+        "answers": [
+          "uma alternativa de transporte que, além de possibilitar ao indivíduo a prática de um exercício físico, é economicamente mais vantajosa.",
+          "modalidades de transporte de mercadorias igualmente prejudiciais aos usuários devido à demanda de manutenção dos veículos.",
+          "uma visão sobre carros e bicicletas que associa o uso destes meios de transporte à capacidade de enfrentamento da crise ambiental.",
+          "meios de transportes inadequados a centros urbanos com alta densidade populacional devido ao seu uso limitado a poucos indivíduos.",
+          "meios de transportes coletivos de baixo custo cujo investimento público para ampliação de frotas pode melhorar a circulação das pessoas."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-2sem-q36-quadrinho.png"
+      },
+      "37": {
+        "bnccCodes": [
+          "EF09CI14"
+        ],
+        "tema": "Velocidade relativa de embarcações e correnteza",
+        "reading": "",
+        "enunciado": "O transporte no rio Ribeira de Iguape se concentra em pequenas embarcações turísticas, travessias locais e atividades de pesca, especialmente na região próxima à sua foz. Devido à correnteza do rio, o tempo de viagem pode variar dependendo do sentido do movimento da embarcação. A velocidade de uma embarcação, em relação às margens do rio,",
+        "stem": "O transporte no rio Ribeira de Iguape se concentra em pequenas embarcações turísticas, travessias locais e atividades de pesca, especialmente na região próxima à sua foz. Devido à correnteza do rio, o tempo de viagem pode variar dependendo do sentido do movimento da embarcação. A velocidade de uma embarcação, em relação às margens do rio,",
+        "answers": [
+          "não se altera quando a embarcação se desloca no mesmo sentido ou em sentido contrário à correnteza.",
+          "diminui quando a embarcação se desloca tanto no mesmo sentido quanto em sentido contrário à correnteza.",
+          "aumenta quando a embarcação se desloca tanto no mesmo sentido quanto em sentido contrário à correnteza.",
+          "diminui quando a embarcação se desloca no mesmo sentido da correnteza, e aumenta quando se desloca em sentido contrário.",
+          "aumenta quando a embarcação se desloca no mesmo sentido da correnteza, e diminui quando se desloca em sentido contrário."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "38": {
+        "bnccCodes": [
+          "EF08CI03"
+        ],
+        "tema": "Transformações de energia: mecânica, elétrica e luminosa",
+        "reading": "Para garantir sua segurança, ciclistas devem utilizar equipamentos luminosos, especialmente ao pedalar à noite. Uma das opções é o uso de uma luz alimentada por um pequeno gerador acoplado à roda da bicicleta. Alguns desses sistemas utilizam circuitos com várias lâmpadas conectadas em série, garantindo maior visibilidade durante o trajeto.",
+        "enunciado": "Tendo em mente o sistema descrito, identifique as transformações de energia, na sequência em que ocorrem, desde o movimento da roda até o funcionamento do sistema de iluminação.",
+        "stem": "Tendo em mente o sistema descrito, identifique as transformações de energia, na sequência em que ocorrem, desde o movimento da roda até o funcionamento do sistema de iluminação.",
+        "answers": [
+          "energia mecânica → energia luminosa → energia elétrica",
+          "energia elétrica → energia mecânica → energia luminosa",
+          "energia térmica → energia mecânica → energia luminosa",
+          "energia elétrica → energia luminosa → energia mecânica",
+          "energia mecânica → energia elétrica → energia luminosa"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "39": {
+        "bnccCodes": [
+          "EF08CI02"
+        ],
+        "tema": "Circuitos elétricos em série e funcionamento de lâmpadas",
+        "reading": "Para garantir sua segurança, ciclistas devem utilizar equipamentos luminosos, especialmente ao pedalar à noite. Uma das opções é o uso de uma luz alimentada por um pequeno gerador acoplado à roda da bicicleta. Alguns desses sistemas utilizam circuitos com várias lâmpadas conectadas em série, garantindo maior visibilidade durante o trajeto.",
+        "enunciado": "A imagem representa o modelo do circuito elétrico descrito no texto, que faz parte do sistema de iluminação da bicicleta. Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas L1 L2 L3",
+        "stem": "A imagem representa o modelo do circuito elétrico descrito no texto, que faz parte do sistema de iluminação da bicicleta. Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas L1 L2 L3",
+        "answers": [
+          "permanecem acesas com o mesmo brilho.",
+          "permanecem acesas, mas com brilho menor.",
+          "apagam, pois a corrente elétrica deixa de circular.",
+          "ficam mais brilhantes, pois a corrente se concentra nelas.",
+          "apagam-se, exceto a lâmpada mais próxima da fonte."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-2sem-q39-circuito.png"
+      },
+      "40": {
+        "bnccCodes": [
+          "EF09CI05"
+        ],
+        "tema": "Interferência sonora e poluição sonora nos oceanos",
+        "reading": "O aumento do transporte marítimo nas últimas décadas intensificou o fluxo de embarcações nos oceanos, elevando os níveis de ruído no ambiente marinho. Sons produzidos por navios e equipamentos, como sonares, se propagam pela água e contribuem para a poluição sonora. Nesse ambiente, a comunicação sonora é essencial para muitos animais. As baleias-jubarte, por exemplo, produzem cantos longos e complexos, formados por sequências organizadas de sons que se repetem. Em uma mesma região, os machos costumam emitir padrões muito semelhantes, como se estivessem “cantando a mesma música”. Assim como ocorre na linguagem humana, esses sons apresentam organização e padrões, sendo aprendidos e transmitidos entre os indivíduos. No entanto, o aumento do ruído causado por atividades humanas pode dificultar a comunicação entre as baleias, porque diferentes sons se combinam e alteram o sinal percebido.",
+        "enunciado": "A dificuldade na comunicação entre as baleias, causada por atividades humanas, se deve ao fenômeno físico chamado",
+        "stem": "A dificuldade na comunicação entre as baleias, causada por atividades humanas, se deve ao fenômeno físico chamado",
+        "answers": [
+          "evaporação.",
+          "absorção.",
+          "timbre.",
+          "difração.",
+          "interferência."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "41": {
+        "bnccCodes": [
+          "EF09CI05"
+        ],
+        "tema": "Ondas sonoras, propagação e meios materiais",
+        "reading": "",
+        "enunciado": "A comunicação sonora é amplamente utilizada por animais marinhos e também por tecnologias desenvolvidas pelo ser humano, pois as ondas sonoras",
+        "stem": "A comunicação sonora é amplamente utilizada por animais marinhos e também por tecnologias desenvolvidas pelo ser humano, pois as ondas sonoras",
+        "answers": [
+          "sofrem refração, alterando apenas sua direção de vibração, mas mantendo sua velocidade de propagação.",
+          "necessitam de um meio material e se propagam com maior velocidade na água do que no ar.",
+          "aumentam sua amplitude à medida que se propagam na água, facilitando sua detecção.",
+          "independem da presença de um meio material, podendo se propagar no vácuo sem limitações.",
+          "mantêm sua intensidade constante independentemente da distância percorrida no meio aquático."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "42": {
+        "bnccCodes": [
+          "EF09CI14"
+        ],
+        "tema": "Cálculo de tempo, distância e velocidade de uma embarcação",
+        "reading": "",
+        "enunciado": "O acesso à Ilha do Cardoso, no litoral sul do estado de São Paulo, é feito por embarcações que partem do município de Cananeia. Uma embarcação percorre aproximadamente 12 km até a ilha, mantendo velocidade média de 5 m/s. O tempo necessário para essa embarcação realizar o trajeto é de",
+        "stem": "O acesso à Ilha do Cardoso, no litoral sul do estado de São Paulo, é feito por embarcações que partem do município de Cananeia. Uma embarcação percorre aproximadamente 12 km até a ilha, mantendo velocidade média de 5 m/s. O tempo necessário para essa embarcação realizar o trajeto é de",
+        "answers": [
+          "20 minutos.",
+          "30 minutos.",
+          "40 minutos.",
+          "50 minutos.",
+          "60 minutos."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "43": {
+        "bnccCodes": [
+          "EF09MA21",
+          "EF09CI13"
+        ],
+        "tema": "Interpretação crítica de informações em quadrinhos — interdisciplinar · Impactos ambientais, consumo de plástico e responsabilidade individual",
+        "reading": "",
+        "enunciado": "A tirinha destaca o impacto ambiental causado pelo uso de canudos plásticos e levanta uma reflexão crítica sobre atitudes individuais em relação ao meio ambiente. A ironia presente no último quadrinho sugere que",
+        "stem": "A tirinha destaca o impacto ambiental causado pelo uso de canudos plásticos e levanta uma reflexão crítica sobre atitudes individuais em relação ao meio ambiente. A ironia presente no último quadrinho sugere que",
+        "answers": [
+          "os impactos ambientais apresentados na tirinha ocorrem de forma natural, sem ligação com atitudes humanas.",
+          "o uso de canudos plásticos representa o principal e mais grave problema de poluição ambiental da atualidade.",
+          "os problemas ambientais são causados exclusivamente por grandes indústrias, não tendo relação com hábitos individuais.",
+          "as pessoas valorizam atitudes ambientais simbólicas, mas ignoram outros hábitos que também geram impactos ambientais.",
+          "pequenas atitudes individuais, como evitar o uso de canudos, são suficientes para solucionar os problemas ambientais do planeta."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-2sem-q43-tirinha.png"
+      },
+      "44": {
+        "bnccCodes": [
+          "EF07CI10"
+        ],
+        "tema": "Doenças respiratórias, aerossóis e transmissão de microrganismos",
+        "reading": "",
+        "enunciado": "Os transportes públicos são ambientes propícios à disseminação de doenças infecciosas. Esses locais agem como depósitos de patógenos devido a vários fatores, como, por exemplo, a superlotação dos veículos, a renovação insuficiente do ar no interior desses espaços e as superfícies compartilhadas, tais como os corrimões e as catracas. Esses fatores favorecem a disseminação de doenças respiratórias nos transportes públicos porque",
+        "stem": "Os transportes públicos são ambientes propícios à disseminação de doenças infecciosas. Esses locais agem como depósitos de patógenos devido a vários fatores, como, por exemplo, a superlotação dos veículos, a renovação insuficiente do ar no interior desses espaços e as superfícies compartilhadas, tais como os corrimões e as catracas. Esses fatores favorecem a disseminação de doenças respiratórias nos transportes públicos porque",
+        "answers": [
+          "acarretam o acúmulo de aerossóis infectantes, que são partículas microscópicas capazes de permanecer suspensas no ar por algumas horas.",
+          "transformam os corrimãos e as catracas em verdadeiros reservatórios de anticorpos, que foram deixados pelas mãos dos passageiros.",
+          "estimulam as glândulas sudoríparas dos passageiros a produzirem enzimas, que atuam na multiplicação de bactérias.",
+          "facilitam a entrada de luz solar direta, o que acelera a reprodução dos vírus nas superfícies compartilhadas.",
+          "estimulam o aumento da temperatura corporal dos passageiros, que atua impedindo o aumento da sudorese."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "45": {
+        "bnccCodes": [
+          "EF06CI06"
+        ],
+        "tema": "Sistemas circulatórios e transporte de substâncias nos animais",
+        "reading": "",
+        "enunciado": "Os três organismos representados nas figuras possuem diferentes sistemas de transporte de substâncias, que estão relacionados com o metabolismo, o ambiente e o modo de vida de cada um deles. (1) (2) (3) No entanto, uma característica comum a esses três organismos, em relação ao transporte de substâncias, é",
+        "stem": "Os três organismos representados nas figuras possuem diferentes sistemas de transporte de substâncias, que estão relacionados com o metabolismo, o ambiente e o modo de vida de cada um deles. (1) (2) (3) No entanto, uma característica comum a esses três organismos, em relação ao transporte de substâncias, é",
+        "answers": [
+          "um sistema circulatório aberto, no qual o fluído corporal circula somente dentro de lacunas.",
+          "a presença de hemoglobina no sangue, que se desloca em um sistema circulatório fechado.",
+          "a existência de estruturas contráteis, que garantem a circulação do fluido corporal até os tecidos.",
+          "uma conexão direta do sistema circulatório com os rins, o que permite eficiência nas trocas gasosas.",
+          "um sistema circulatório fechado, no qual o fluído corporal sai dos vasos para o interior de lacunas, onde ocorrem as trocas de substâncias."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true,
+        "quizImage": "./data/images/prova-2026-2sem-q45-organismos.png"
+      },
+      "46": {
+        "bnccCodes": [
+          "EF06CI06"
+        ],
+        "tema": "Hematose e trocas gasosas nos alvéolos pulmonares",
+        "reading": "O gás oxigênio (O2) inspirado entra nos pulmões, chega aos alvéolos pulmonares de onde se difunde para os capilares sanguíneos. Esse gás penetra nas hemácias e se combina com a hemoglobina, formando oxi-hemoglobina, que é o principal composto responsável pelo transporte do gás oxigênio no corpo humano. Nos tecidos do corpo, a oxi-hemoglobina libera o gás oxigênio, que sai das hemácias e se difunde nas células, que precisam dele para realizar a respiração celular. Simultaneamente, o gás carbônico (CO2) produzido pelas células entra nos capilares, sendo transportado até os alvéolos pulmonares de onde é eliminado na expiração, completando o ciclo respiratório.",
+        "enunciado": "A partir da descrição dada no texto, o processo que ocorre nos alvéolos pulmonares é chamado de",
+        "stem": "A partir da descrição dada no texto, o processo que ocorre nos alvéolos pulmonares é chamado de",
+        "answers": [
+          "peristaltismo.",
+          "anabolismo.",
+          "fagocitose.",
+          "endocitose.",
+          "hematose."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "47": {
+        "bnccCodes": [
+          "EF06CI06"
+        ],
+        "tema": "Hemoglobina, difusão e liberação de oxigênio nos tecidos",
+        "reading": "O gás oxigênio (O2) inspirado entra nos pulmões, chega aos alvéolos pulmonares de onde se difunde para os capilares sanguíneos. Esse gás penetra nas hemácias e se combina com a hemoglobina, formando oxi-hemoglobina, que é o principal composto responsável pelo transporte do gás oxigênio no corpo humano. Nos tecidos do corpo, a oxi-hemoglobina libera o gás oxigênio, que sai das hemácias e se difunde nas células, que precisam dele para realizar a respiração celular. Simultaneamente, o gás carbônico (CO2) produzido pelas células entra nos capilares, sendo transportado até os alvéolos pulmonares de onde é eliminado na expiração, completando o ciclo respiratório.",
+        "enunciado": "A liberação do oxigênio da oxi-hemoglobina das hemácias para os tecidos do corpo é favorecida porque",
+        "stem": "A liberação do oxigênio da oxi-hemoglobina das hemácias para os tecidos do corpo é favorecida porque",
+        "answers": [
+          "a concentração do oxigênio nos tecidos do corpo é menor do que a concentração do oxigênio das hemácias do sangue.",
+          "a temperatura corporal diminui durante o processo de difusão do oxigênio das hemácias para os tecidos do corpo.",
+          "o oxigênio é atraído pelo nitrogênio, presente nas células, para neutralizar o gás carbônico dos tecidos do corpo.",
+          "as hemácias são destruídas ao chegar aos tecidos do corpo, liberando o oxigênio para o metabolismo celular.",
+          "o aumento da concentração de gás carbônico é maior nas hemácias do que nos tecidos do corpo."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "48": {
+        "bnccCodes": [
+          "EF06CI05"
+        ],
+        "tema": "Osmose, membrana plasmática e conservação de alimentos",
+        "reading": "",
+        "enunciado": "A conservação dos alimentos envolve vários métodos com o objetivo de inibir a proliferação de microrganismos, retardar a deterioração e manter o valor nutricional do produto estocado. Um desses métodos de conservação pode ser o uso de açúcar, que, ao ser adicionado, altera a concentração extracelular do alimento. Essa alteração promove o transporte passivo de substâncias através das membranas plasmáticas das células do produto, retardando a deterioração. Considerando a produção, por exemplo, de frutas cristalizadas, o xarope de açúcar, que é adicionado ao preparo do produto, atua como agente conservante porque",
+        "stem": "A conservação dos alimentos envolve vários métodos com o objetivo de inibir a proliferação de microrganismos, retardar a deterioração e manter o valor nutricional do produto estocado. Um desses métodos de conservação pode ser o uso de açúcar, que, ao ser adicionado, altera a concentração extracelular do alimento. Essa alteração promove o transporte passivo de substâncias através das membranas plasmáticas das células do produto, retardando a deterioração. Considerando a produção, por exemplo, de frutas cristalizadas, o xarope de açúcar, que é adicionado ao preparo do produto, atua como agente conservante porque",
+        "answers": [
+          "aumenta a umidade relativa do ar ao redor das frutas, facilitando a hidratação celular, o ganho de água e a cristalização.",
+          "aumenta o pH e a acidez dos tecidos vegetais das frutas, resultando em sabores mais azedos e acelerando a deterioração.",
+          "inibe a ação do lactato disponível dentro dos tecidos vegetais das frutas, facilitando a proliferação dos microrganismos aeróbicos.",
+          "cria uma alta pressão osmótica, que retira a água disponível do interior das células das frutas e dos microrganismos, facilitando a cristalização.",
+          "atua como um antibiótico natural que penetra nas células das frutas matando os fungos, impedindo a desidratação e a cristalização das frutas."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "49": {
+        "bnccCodes": [
+          "EF06CI05"
+        ],
+        "tema": "Organelas celulares: retículo endoplasmático rugoso e complexo golgiense",
+        "reading": "",
+        "enunciado": "As células dos seres eucariontes, incluindo as dos seres humanos, contêm várias organelas diferentes, separadas umas das outras e com funções específicas. Uma célula animal, por exemplo, com função secretora, possui organelas celulares que trabalham juntas para produzir e transportar substâncias essenciais à vida, especialmente proteínas. Nesse trabalho de parceria, as principais organelas celulares envolvidas na produção e no empacotamento de substâncias são, respectivamente,",
+        "stem": "As células dos seres eucariontes, incluindo as dos seres humanos, contêm várias organelas diferentes, separadas umas das outras e com funções específicas. Uma célula animal, por exemplo, com função secretora, possui organelas celulares que trabalham juntas para produzir e transportar substâncias essenciais à vida, especialmente proteínas. Nesse trabalho de parceria, as principais organelas celulares envolvidas na produção e no empacotamento de substâncias são, respectivamente,",
+        "answers": [
+          "ribossomos e cloroplastos.",
+          "cloroplastos e complexo golgiense.",
+          "complexo golgiense e lisossomos.",
+          "lisossomos e retículo endoplasmático rugoso.",
+          "retículo endoplasmático rugoso e complexo golgiense."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      },
+      "50": {
+        "bnccCodes": [
+          "EF07CI10"
+        ],
+        "tema": "Exercício físico, oxigenação e qualidade de vida",
+        "reading": "",
+        "enunciado": "A prática regular de exercícios físicos atua melhorando o transporte de oxigênio para os músculos e para o cérebro, assim aumentando a eficiência cardíaca e a oxigenação. Isso resulta em benefícios práticos que impactam nas metas pessoais, profissionais e cognitivas. A melhoria desses fatores biológicos contribuem, entre outras coisas, para a melhoria na qualidade de vida e na realização de atividades diárias do indivíduo porque",
+        "stem": "A prática regular de exercícios físicos atua melhorando o transporte de oxigênio para os músculos e para o cérebro, assim aumentando a eficiência cardíaca e a oxigenação. Isso resulta em benefícios práticos que impactam nas metas pessoais, profissionais e cognitivas. A melhoria desses fatores biológicos contribuem, entre outras coisas, para a melhoria na qualidade de vida e na realização de atividades diárias do indivíduo porque",
+        "answers": [
+          "altera sua estrutura genética.",
+          "proporciona maior vitalidade e energia.",
+          "provoca o estresse emocional e a irritabilidade.",
+          "dispensa a necessidade de uma hidratação regular.",
+          "diminui o metabolismo a ponto de dispensar o descanso."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+        "curated": true
+      }
+    }
+  }
+}

@@ -1,0 +1,1718 @@
+{
+  "prova 2026 1 sem": {
+    "prova": "prova 2026 1 sem",
+    "source": "vest-1sem2026.pdf",
+    "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+    "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf",
+    "questions": {
+      "1": {
+        "tema": "Interpretação de texto: domesticação de animais e evolução humana",
+        "reading": "A convivência com os animais mudou os seres humanos.",
+        "enunciado": "Segundo o texto, a domesticação de animais",
+        "stem": "Segundo o texto, a domesticação de animais",
+        "answers": [
+          "ocorreu recentemente, no período medieval, e foi possível devido à invenção da linguagem e das ferramentas de pedra.",
+          "causou danos à saúde humana, que não estava preparada para o consumo de leite na vida adulta, diminuindo a expectativa média de vida do homem contemporâneo.",
+          "aumentou os níveis naturais de intolerância a lactose no homem pré-histórico devido às diferenças entre o leite materno e o leite de vaca.",
+          "contribuiu para o desenvolvimento de aspectos culturais que favoreceram a evolução humana, como a criação de ferramentas e da linguagem.",
+          "provocou saltos evolutivos que atrasaram o desenvolvimento da linguagem e da tecnologia."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "2": {
+        "tema": "Razão e proporcionalidade: cães-guia e pessoas com deficiência visual",
+        "reading": "que percorre toda a história e conecta grandes saltos evolutivos, como o desenvolvimento de ferramentas e até da linguagem. <",
+        "enunciado": "Segundo o texto, a domesticação de animais",
+        "stem": "Segundo o texto, a domesticação de animais",
+        "answers": [
+          "ocorreu recentemente, no período medieval, e foi possível devido à invenção da linguagem e das ferramentas de pedra.",
+          "causou danos à saúde humana, que não estava preparada para o consumo de leite na vida adulta, diminuindo a expectativa média de vida do homem contemporâneo.",
+          "aumentou os níveis naturais de intolerância a lactose no homem pré-histórico devido às diferenças entre o leite materno e o leite de vaca.",
+          "contribuiu para o desenvolvimento de aspectos culturais que favoreceram a evolução humana, como a criação de ferramentas e da linguagem.",
+          "provocou saltos evolutivos que atrasaram o desenvolvimento da linguagem e da tecnologia."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "3": {
+        "tema": "Gráfico de setores e proporções",
+        "reading": "ctativa média de vida do homem contemporâneo. (C) aumentou os níveis naturais de intolerância a lactose no homem pré-histórico devido às diferenças entre o leite materno e o leite de vaca. (D) contribuiu para o desenvolvimento de aspectos culturais que favoreceram a evolução humana, como a criação de ferramentas e da linguagem. (E) provocou saltos evolutivos que atrasaram o desenvolvimento da linguagem e da tecnologia.",
+        "enunciado": "(A) 1 para cada 29 000 (B) 1 para cada 30500 (C) 1 para cada 31400 (D) 1 para cada 31 800 (E) 1 para cada 32 700",
+        "stem": "(A) 1 para cada 29 000 (B) 1 para cada 30500 (C) 1 para cada 31400 (D) 1 para cada 31 800 (E) 1 para cada 32 700",
+        "answers": [
+          "(B)",
+          "(C)",
+          "(D)",
+          "(E) Outras raças Outras raças Outras raças Outras raças Outras raças",
+          "Outras raças Outras raças Outras raças Outras raças Outras raças"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "4": {
+        "tema": "Interpretação de texto literário: Clarice Lispector",
+        "reading": "",
+        "enunciado": "ara cada 30500 (C) 1 para cada 31400 (D) 1 para cada 31 800 (E) 1 para cada 32 700",
+        "stem": "ara cada 30500 (C) 1 para cada 31400 (D) 1 para cada 31 800 (E) 1 para cada 32 700",
+        "answers": [
+          "(B)",
+          "(C)",
+          "(D)",
+          "(E) Outras raças Outras raças Outras raças Outras raças Outras raças",
+          "Outras raças Outras raças Outras raças Outras raças Outras raças"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "5": {
+        "tema": "Benefícios da convivência com animais para o bem-estar",
+        "reading": "e às vontades dos outros. (B) sentir-se acolhido ao ser inferiorizado diante de seus superiores hierárquicos, evidenciando a aceitação de sua posição social. (C) manter uma atitude de inquietação constante diante da existência, levando-o a revigorar a sociedade em que se encontra. (D) regozijar-se diante da possibilidade de tornar um outro indivíduo tenso pela simples companhia que pode oferecer. (E) viver com plenitude sua existência, sem se deixar levar por infrutíferas angústias durante esse processo.",
+        "enunciado": "A partir da leitura do texto, é correto concluir que",
+        "stem": "A partir da leitura do texto, é correto concluir que",
+        "answers": [
+          "os egípcios observavam nos felinos algumas características que consideravam admiráveis, como graça, fertilidade, cuidado e rapidez, e as projetavam em seus deuses.",
+          "os felinos eram importantes para a sociedade egípcia apenas por suas funções práticas, como o controle de pragas em casas e em celeiros.",
+          "a admiração dos egípcios se restringia aos felinos menores, que viviam entre os humanos e eram considerados símbolos de realeza.",
+          "a observação atenta levou os egípcios a considerar os felinos uma espécie contraditória cujas características de personalidade deveriam ser evitadas.",
+          "as divindades egípcias representavam ideais nobres e estavam relacionadas à crença de que os seres humanos são superiores aos animais."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "6": {
+        "tema": "Guerra Fria e corrida espacial",
+        "reading": "957, não retornou. Entre 1948 e 1961, União Soviética (URSS) e Estados Unidos (EUA) enviaram 65 animais ao espaço, sendo 48 cães, 15 macacos e 2 coelhos. Vinte e sete deles morreram em acidentes devido a circunstâncias imprevistas durante a empreitada. O envio de animais não humanos ao espaço começou a cessar com o lançamento de pessoas. Yuri Gagarin, que ficou uma hora e meia no espaço em 1961, brincou uma vez dizendo que foi, ao mesmo tempo, a “primeira pessoa e o último cachorro no espaço”. <",
+        "enunciado": "De acordo com o texto, a convivência entre crianças e animais acarreta",
+        "stem": "De acordo com o texto, a convivência entre crianças e animais acarreta",
+        "answers": [
+          "aumento da produção de endorfina no organismo, tornando dispensável qualquer tipo de acompanhamento emocional.",
+          "dependência emocional tão intensa que a criança rejeita completamente o convívio social, isolando-se do mundo.",
+          "redução da necessidade de tomar medicamentos, de fazer exercícios físicos e de se preocupar com alimentação saudável.",
+          "desfavorecimento do desenvolvimento da capacidade de organização, uma vez que ajuda a criança a criar uma rotina.",
+          "melhora habilidades de convivência social e de comunicação, contribuindo para o desenvolvimento afetivo e psicológico."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "7": {
+        "tema": "Interpretação de texto sobre povos indígenas e animais",
+        "reading": "vimento afetivo e psicológico.",
+        "enunciado": "O processo histórico referido no texto é característico do período conhecido como",
+        "stem": "O processo histórico referido no texto é característico do período conhecido como",
+        "answers": [
+          "Primeira Revolução Industrial.",
+          "Segunda Guerra Mundial.",
+          "Reconstrução Europeia.",
+          "Grandes Navegações.",
+          "Guerra Fria."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "8": {
+        "tema": "Relações de sentido expressas por preposições",
+        "reading": "s pelos indígenas se caracterizam por serem carnívoros e por conseguirem manter a temperatura corporal constante, independentemente da temperatura do ambiente.",
+        "enunciado": "Embora o personagem faça um grande sucesso desde sua criação, há um erro científico na tirinha, uma vez que",
+        "stem": "Embora o personagem faça um grande sucesso desde sua criação, há um erro científico na tirinha, uma vez que",
+        "answers": [
+          "filhotes de répteis carnívoros, como o Tiranossauro Rex, não se desenvolviam em ovos, mas no útero das fêmeas, como ocorre com os mamíferos.",
+          "os dinossauros, embora convivessem harmonicamente com os seres humanos, não eram capazes de manter relações de afeto com as pessoas.",
+          "o Tiranossauro Rex, assim como as aves, tinha o hábito instintivo de enterrar inteiramente seus ovos para protegê-los dos predadores.",
+          "os dinossauros foram extintos há milhões de anos, muito antes da aparição dos primeiros hominídeos na Terra.",
+          "as evidências paleontológicas indicam que as fêmeas de Tiranossauros Rex não se afastavam de seus ovos, já que eram animais domésticos."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "9": {
+        "tema": "Sentido de expressões verbais no contexto",
+        "reading": "incipalmente na Amazônia brasileira, embora seja responsável por 50% das exportações mundiais de carne bovina. (E) o estado do Amazonas, dentre as unidades da Federação localizadas na Amazônia Legal, concentra pouco mais de 40% do rebanho nacional de bovinos, tornando esse estado, em termos percentuais, o campeão brasileiro em áreas florestais desmatadas.",
+        "enunciado": "A partir do texto, é correto afirmar que",
+        "stem": "A partir do texto, é correto afirmar que",
+        "answers": [
+          "uma revolução cultural ocorrida nos países da Europa, que levou os governos a adotar políticas educacionais rígidas e universalizantes, com o objetivo de preparar a juventude para as transformações que ocorreriam no século XX.",
+          "uma política de entretenimento, também conhecida como “política de pão e circo”, voltada ao aprimoramento do repertório cultural dos colonos, para que superassem os males que os afligiam.",
+          "uma política de expansão territorial, econômica, política e cultural de países europeus sobre outros continentes, também conhecida como neocolonialismo.",
+          "uma forma de governo absolutista, em que todo o poder se concentrava nas mãos do rei e que desconsiderava as necessidades materiais imediatas de seus súditos.",
+          "uma forma de governo democrática, que pressupunha a divisão do poder em Executivo, Legislativo e Judiciário e dava grande ênfase ao desenvolvimento científico e cultural da população europeia."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "10": {
+        "tema": "Referenciação pronominal: identificação do referente",
+        "reading": "",
+        "enunciado": "Consulte a questão 10 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Referenciação pronominal: identificação do referente.",
+        "stem": "Consulte a questão 10 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Referenciação pronominal: identificação do referente.",
+        "answers": [
+          "(Alternativa A — ver caderno oficial)",
+          "(Alternativa B — ver caderno oficial)",
+          "(Alternativa C — ver caderno oficial)",
+          "(Alternativa D — ver caderno oficial)",
+          "(Alternativa E — ver caderno oficial)"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "11": {
+        "tema": "Classificação dos animais e cadeia alimentar",
+        "reading": "ar medicamentos, de fazer exercícios físicos e de se preocupar com alimentação saudável. (D) desfavorecimento do desenvolvimento da capacidade de organização, uma vez que ajuda a criança a criar uma rotina. (E) melhora habilidades de convivência social e de comunicação, contribuindo para o desenvolvimento afetivo e psicológico.",
+        "enunciado": "O processo histórico referido no texto é característico do período conhecido como",
+        "stem": "O processo histórico referido no texto é característico do período conhecido como",
+        "answers": [
+          "Primeira Revolução Industrial.",
+          "Segunda Guerra Mundial.",
+          "Reconstrução Europeia.",
+          "Grandes Navegações.",
+          "Guerra Fria."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "12": {
+        "tema": "Regra de três e cálculo de capacidade de atendimento",
+        "reading": "sagrados, sendo a onça um símbolo cultural e espiritual, vista como a guardiã da floresta.",
+        "enunciado": "Sobre os animais citados, é correto afirmar que",
+        "stem": "Sobre os animais citados, é correto afirmar que",
+        "answers": [
+          "as aves se caracterizam por serem animais carnívoros, dotados de bico forte e curvo, com garras afiadas, com pelos e escamas no corpo e nas patas.",
+          "a relação dos indígenas com os xerimbabos tem o objetivo de garantir a criação desses animais em cativeiro para o abate diário e a alimentação da comunidade.",
+          "os xerimbabos são muito queridos pelos indígenas e, apesar de estarem em cativeiro, são cuidados com muito respeito e soltos na floresta quando em perigo de extinção.",
+          "a onça é considerada a guardiã da floresta, ocupa o topo da cadeia alimentar por se alimentar de herbívoros maiores e de predadores menores, mantendo dessa forma o equilíbrio ambiental.",
+          "os animais considerados sagrados pelos indígenas se caracterizam por serem carnívoros e por conseguirem manter a temperatura corporal constante, independentemente da temperatura do ambiente."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "13": {
+        "tema": "Reprodução dos dinossauros e desenvolvimento em ovos",
+        "reading": "",
+        "enunciado": "Consulte a questão 13 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Reprodução dos dinossauros e desenvolvimento em ovos.",
+        "stem": "Consulte a questão 13 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Reprodução dos dinossauros e desenvolvimento em ovos.",
+        "answers": [
+          "o vocábulo “xerimbabos”, cujo sentido equivale a “entes muito amados”, é usado para se referir às crianças que desenvolvem afeto pelos animais silvestres.",
+          "o movimento repentino de ataque do bicho-preguiça traumatizou as irmãs Yzuahy e Ywàna, desacostumadas ao convívio com a natureza local.",
+          "a relação afetiva desenvolvida entre os animais silvestres e os domésticos acarretou desequilíbrio ecológico para a comunidade indígena.",
+          "a relação com a fauna e a flora é essencial para uma vivência harmônica na sociedade em que as irmãs residem.",
+          "o cuidado com a fauna local realizado pelos indígenas introduziu o conceito de “animais domésticos” à comunidade."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "14": {
+        "tema": "Deriva continental e evidências paleontológicas — interdisciplinar",
+        "reading": "s sessões por semana, tendo cada uma das sessões duração de 30 minutos.",
+        "enunciado": "Embora o personagem faça um grande sucesso desde sua criação, há um erro científico na tirinha, uma vez que",
+        "stem": "Embora o personagem faça um grande sucesso desde sua criação, há um erro científico na tirinha, uma vez que",
+        "answers": [
+          "filhotes de répteis carnívoros, como o Tiranossauro Rex, não se desenvolviam em ovos, mas no útero das fêmeas, como ocorre com os mamíferos.",
+          "os dinossauros, embora convivessem harmonicamente com os seres humanos, não eram capazes de manter relações de afeto com as pessoas.",
+          "o Tiranossauro Rex, assim como as aves, tinha o hábito instintivo de enterrar inteiramente seus ovos para protegê-los dos predadores.",
+          "os dinossauros foram extintos há milhões de anos, muito antes da aparição dos primeiros hominídeos na Terra.",
+          "as evidências paleontológicas indicam que as fêmeas de Tiranossauros Rex não se afastavam de seus ovos, já que eram animais domésticos."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "15": {
+        "tema": "Respiração celular e classificação de substâncias envolvidas",
+        "reading": "s unidos no passado, constituindo um continente único, o supercontinente Pangeia, rodeado pelo oceano Pantalassa.",
+        "enunciado": "Um dos argumentos de Wegener que fundamenta sua teoria é de base paleontológica e se respalda na existência de",
+        "stem": "Um dos argumentos de Wegener que fundamenta sua teoria é de base paleontológica e se respalda na existência de",
+        "answers": [
+          "água doce presente em todos os continentes.",
+          "formações geomorfológicas similares em continentes diferentes.",
+          "fósseis idênticos encontrados em continentes hoje afastados.",
+          "destroços de navios localizados ao longo das costas oceânicas.",
+          "justaposição entre as linhas de costa da Ásia e da América do Sul."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "16": {
+        "tema": "Respiração aeróbica e formação de dióxido de carbono",
+        "reading": "s unidos no passado, constituindo um continente único, o supercontinente Pangeia, rodeado pelo oceano Pantalassa.",
+        "enunciado": "Um dos argumentos de Wegener que fundamenta sua teoria é de base paleontológica e se respalda na existência de",
+        "stem": "Um dos argumentos de Wegener que fundamenta sua teoria é de base paleontológica e se respalda na existência de",
+        "answers": [
+          "água doce presente em todos os continentes.",
+          "formações geomorfológicas similares em continentes diferentes.",
+          "fósseis idênticos encontrados em continentes hoje afastados.",
+          "destroços de navios localizados ao longo das costas oceânicas.",
+          "justaposição entre as linhas de costa da Ásia e da América do Sul."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "17": {
+        "tema": "Magnetorrecepção e orientação de aves migratórias",
+        "reading": "",
+        "enunciado": "ta sua teoria é de base paleontológica e se respalda na existência de",
+        "stem": "ta sua teoria é de base paleontológica e se respalda na existência de",
+        "answers": [
+          "água doce presente em todos os continentes.",
+          "formações geomorfológicas similares em continentes diferentes.",
+          "fósseis idênticos encontrados em continentes hoje afastados.",
+          "destroços de navios localizados ao longo das costas oceânicas.",
+          "justaposição entre as linhas de costa da Ásia e da América do Sul."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "18": {
+        "tema": "Notação científica e conversão de unidades de campo magnético",
+        "reading": "",
+        "enunciado": "rmar corretamente que essa capacidade está relacionada ao princípio físico da",
+        "stem": "rmar corretamente que essa capacidade está relacionada ao princípio físico da",
+        "answers": [
+          "radiação solar, pois a areia úmida auxilia na sustentação do animal.",
+          "gravidade, pois os desertos apresentam uma diminuição da gravidade local.",
+          "condutividade térmica, pois os cascos são constituídos de uma resina isolante.",
+          "resistividade elétrica, pois a areia apresenta sílica, um bom condutor de eletricidade.",
+          "pressão superficial, pois os cascos amplos distribuem o peso do animal e da sua carga."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "19": {
+        "tema": "Localização e orientação geográfica em mapas",
+        "reading": "rfológicas similares em continentes diferentes. (C) fósseis idênticos encontrados em continentes hoje afastados. (D) destroços de navios localizados ao longo das costas oceânicas. (E) justaposição entre as linhas de costa da Ásia e da América do Sul.",
+        "enunciado": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "stem": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "answers": [
+          "substância composta e substância simples.",
+          "substância simples e substância composta.",
+          "substância composta e substância composta.",
+          "substância composta e mistura.",
+          "substância simples e mistura."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "20": {
+        "tema": "Direções cardeais e deslocamento entre regiões brasileiras",
+        "reading": "es. (C) fósseis idênticos encontrados em continentes hoje afastados. (D) destroços de navios localizados ao longo das costas oceânicas. (E) justaposição entre as linhas de costa da Ásia e da América do Sul.",
+        "enunciado": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "stem": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "answers": [
+          "substância composta e substância simples.",
+          "substância simples e substância composta.",
+          "substância composta e substância composta.",
+          "substância composta e mistura.",
+          "substância simples e mistura."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "21": {
+        "tema": "Sinonímia e sentido de palavras em uma canção",
+        "reading": "erfície, tem densidade média de fluxo magnético estimada de 50 µT — cerca de um centésimo da força de um ímã de geladeira. <",
+        "enunciado": "Sabendo que 1 µT = 1 × 10 – 6 T, assinale a alternativa que apresenta corretamente, em notação científica, a densidade média de fluxo magnético de um imã de geladeira, em T.",
+        "stem": "Sabendo que 1 µT = 1 × 10 – 6 T, assinale a alternativa que apresenta corretamente, em notação científica, a densidade média de fluxo magnético de um imã de geladeira, em T.",
+        "answers": [
+          "Noroeste.",
+          "Nordeste.",
+          "Sudoeste.",
+          "Sudeste.",
+          "Leste. km"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "22": {
+        "tema": "Interpretação da canção Passaredo",
+        "reading": "erfície, tem densidade média de fluxo magnético estimada de 50 µT — cerca de um centésimo da força de um ímã de geladeira. <",
+        "enunciado": "Sabendo que 1 µT = 1 × 10 – 6 T, assinale a alternativa que apresenta corretamente, em notação científica, a densidade média de fluxo magnético de um imã de geladeira, em T.",
+        "stem": "Sabendo que 1 µT = 1 × 10 – 6 T, assinale a alternativa que apresenta corretamente, em notação científica, a densidade média de fluxo magnético de um imã de geladeira, em T.",
+        "answers": [
+          "Noroeste.",
+          "Nordeste.",
+          "Sudoeste.",
+          "Sudeste.",
+          "Leste. km"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "23": {
+        "tema": "Efeitos de sentido e justificativa do título",
+        "reading": "sição social. (C) manter uma atitude de inquietação constante diante da existência, levando-o a revigorar a sociedade em que se encontra. (D) regozijar-se diante da possibilidade de tornar um outro indivíduo tenso pela simples companhia que pode oferecer. (E) viver com plenitude sua existência, sem se deixar levar por infrutíferas angústias durante esse processo.",
+        "enunciado": "A partir da leitura do texto, é correto concluir que",
+        "stem": "A partir da leitura do texto, é correto concluir que",
+        "answers": [
+          "os egípcios observavam nos felinos algumas características que consideravam admiráveis, como graça, fertilidade, cuidado e rapidez, e as projetavam em seus deuses.",
+          "os felinos eram importantes para a sociedade egípcia apenas por suas funções práticas, como o controle de pragas em casas e em celeiros.",
+          "a admiração dos egípcios se restringia aos felinos menores, que viviam entre os humanos e eram considerados símbolos de realeza.",
+          "a observação atenta levou os egípcios a considerar os felinos uma espécie contraditória cujas características de personalidade deveriam ser evitadas.",
+          "as divindades egípcias representavam ideais nobres e estavam relacionadas à crença de que os seres humanos são superiores aos animais."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "24": {
+        "tema": "Verbos no imperativo, vocativos e intenção comunicativa",
+        "reading": "",
+        "enunciado": "imo para o termo destacado em negrito na canção.",
+        "stem": "imo para o termo destacado em negrito na canção.",
+        "answers": [
+          "porque",
+          "ainda que",
+          "desde que",
+          "contanto que",
+          "à medida que A letra da canção nos remete à"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "25": {
+        "tema": "Visão das aves, cones e percepção das cores",
+        "reading": "ticos encontrados em continentes hoje afastados. (D) destroços de navios localizados ao longo das costas oceânicas. (E) justaposição entre as linhas de costa da Ásia e da América do Sul.",
+        "enunciado": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "stem": "O oxigênio e a glicose são classificados, respectivamente, como",
+        "answers": [
+          "substância composta e substância simples.",
+          "substância simples e substância composta.",
+          "substância composta e substância composta.",
+          "substância composta e mistura.",
+          "substância simples e mistura."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "26": {
+        "tema": "Correntes marítimas, ressurgência e pesca no litoral do Chile",
+        "reading": "e. Isso é possível, em parte, devido à altíssima densidade de cones, na fóvea do olho. Cones são células fotorreceptoras estimuladas pela percepção das cores primárias ópticas. Na águia-de-asa-redonda, os cones de tipos azul, verde, vermelho e duplos totalizam cerca de 1 milhão/mm2; enquanto o ser humano possui, aproximadamente, 200000/mm 2. Além da visão tetracromática, a águia possui uma fotossensibilidade ao espectro UV e apresenta filtros naturais para luz polarizada, o que lhe permite localizar peixes rapidamente.",
+        "enunciado": "Baseando-se no texto apresentado, sobre essa águia é correto afirmar que",
+        "stem": "Baseando-se no texto apresentado, sobre essa águia é correto afirmar que",
+        "answers": [
+          "enxerga, em período diurno, todas as presas na mesma cor acinzentada.",
+          "o fato de possuir cones duplos a impede de visualizar quaisquer cores.",
+          "o ser humano leva vantagem ao perceber também o espectro infravermelho.",
+          "a acuidade visual dela é, aproximadamente, cinco vezes inferior a de um ser humano com visão normal.",
+          "a capacidade de ela enxergar mais cores com melhor definição é superior à do ser humano."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "27": {
+        "tema": "Espécies invasoras e equilíbrio dos ecossistemas",
+        "reading": "s do meio ambiente. (B) dimensão dos versos, ressaltando a velocidade do desmatamento. (C) sonoridade das vogais fechadas que remetem à melancolia da canção. (D) repetição inicial de termos, expressando a posição dos animais nas árvores. (E) enumeração de substantivos, indicando a diversidade de aves existentes. 1 Ei, quero-quero Oi, tico-tico Anum, pardal, chapim Xô, cotovia Xô, ave-fria 6 Xô, pescador-martim Some, rolinha Anda, andorinha Te esconde, bem-te-vi Voa, bicudo 11 Voa, sanhaço Vai, juriti Bico calado Muito cuidado Que o homem vem aí 16 O homem vem aí O homem vem aí. <",
+        "enunciado": "Consulte a questão 27 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Espécies invasoras e equilíbrio dos ecossistemas.",
+        "stem": "Consulte a questão 27 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Espécies invasoras e equilíbrio dos ecossistemas.",
+        "answers": [
+          "expressar as emoções vivenciadas pelo eu lírico diante do canto dos pássaros.",
+          "manter um diálogo necessário com a natureza para a preservação da humanidade.",
+          "persuadir os interlocutores a realizarem ações para protegê-los de uma iminente ameaça.",
+          "evidenciar o domínio de estruturas poéticas que valorizam a sonoridade dos versos.",
+          "ensinar os leitores sobre a diversidade de espécies existentes na flora brasileira."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "28": {
+        "tema": "Volume de cilindro: aplicação da fórmula",
+        "reading": "polinizar cerca de 75% das culturas alimentares do mundo.",
+        "enunciado": "Baseando-se no texto, é correto afirmar que",
+        "stem": "Baseando-se no texto, é correto afirmar que",
+        "answers": [
+          "a pulverização de agrotóxicos e o uso de inseticidas alteram o material genético das abelhas, deixando-as lentas, sem asas, com maior capacidade de polinização e de produção de mel.",
+          "o desmatamento beneficia a formação de enxames e a construção de novos ninhos de abelhas devido ao aumento da disponibilidade de alimento, como flores silvestres.",
+          "o aumento do número de flores encurta o tempo de vida das abelhas, causando a redução da reprodução das plantas e prejudicando a biodiversidade terrestre.",
+          "a ocorrência de doenças prejudiciais à visão e à memória de navegação das abelhas aumenta a capacidade de elas retornarem às colmeias.",
+          "o uso de agrotóxicos na agricultura para o controle de pragas acarreta a diminuição da população de abelhas, interferindo na polinização natural."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "29": {
+        "tema": "Escala de pH, acidez e indicadores ácido-base",
+        "reading": "do ecossistema local. (B) podem ser utilizados como fonte de proteína animal e possuem adaptações que permitem a movimentação na água, apesar de serem mamíferos terrestres. (C) dilaceram a carne das presas, pois são mamíferos carnívoros com dentes caninos pontiagudos e muito resistentes devido à presença de ferro. (D) pertencem ao grupo dos mamíferos ruminantes, pois possuem a capacidade de engolir e de mastigar o mesmo alimento mais de uma vez. (E) atuam no equilíbrio ecológico da fauna e da flora das matas e das florestas independentemente das regiões onde foram introduzidos.",
+        "enunciado": "Podemos afirmar corretamente que, em presença de suco gástrico, o indicador apresentará cor",
+        "stem": "Podemos afirmar corretamente que, em presença de suco gástrico, o indicador apresentará cor",
+        "answers": [
+          "azul, pois se trata de uma solução de caráter básico.",
+          "azul, pois se trata de uma solução de caráter ácido.",
+          "verde, pois se trata de uma solução neutra.",
+          "vermelha, pois se trata de uma solução de caráter ácido.",
+          "vermelha, pois se trata de uma solução de caráter básico."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "30": {
+        "tema": "Velocidade média e comparação entre distâncias e tempos",
+        "reading": "nas em seu domínio. Isso se deve ao fato de o Cerrado abrigar diversas aves migratórias. O beija-flor-preto é uma ave característica da Mata Atlântica, mas que migra para o interior do país, visitando as flores do Cerrado. <",
+        "enunciado": "Com base no mapa, se, por ventura, um beija-flor-preto migrar de uma área de Mata Atlântica, localizada no estado de Sergipe, para uma área de Cerrado, localizada no estado de Goiás, ele voará no sentido",
+        "stem": "Com base no mapa, se, por ventura, um beija-flor-preto migrar de uma área de Mata Atlântica, localizada no estado de Sergipe, para uma área de Cerrado, localizada no estado de Goiás, ele voará no sentido",
+        "answers": [
+          "Noroeste.",
+          "Nordeste.",
+          "Sudoeste.",
+          "Sudeste.",
+          "Leste. km"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "31": {
+        "tema": "Ciclo da água e fenômenos físicos relacionados à evaporação",
+        "reading": "Adaptado. De acordo com o texto e considerando que existem atualmente, no Brasil, cerca de 6,5 milhões de pessoas com deficiência visual, assinale a alternativa que apresenta a melhor aproximação da razão entre o número de cães-guia em atividade e o número de pessoas com deficiência visual em nosso país, respectivamente.",
+        "enunciado": "(A) 1 para cada 29 000 (B) 1 para cada 30500 (C) 1 para cada 31400 (D) 1 para cada 31 800 (E) 1 para cada 32 700",
+        "stem": "(A) 1 para cada 29 000 (B) 1 para cada 30500 (C) 1 para cada 31400 (D) 1 para cada 31 800 (E) 1 para cada 32 700",
+        "answers": [
+          "(B)",
+          "(C)",
+          "(D)",
+          "(E) Outras raças Outras raças Outras raças Outras raças Outras raças",
+          "Outras raças Outras raças Outras raças Outras raças Outras raças"
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "32": {
+        "tema": "Nutrientes, vitaminas, minerais e saúde humana",
+        "reading": "chas vulcânicas. (D) ao vasto aumento da umidade relativa nos desertos. (E) à evaporação e à condensação provocadas pela energia solar.",
+        "enunciado": "Sobre o peixe citado no texto, assinale a alternativa correta.",
+        "stem": "Sobre o peixe citado no texto, assinale a alternativa correta.",
+        "answers": [
+          "Ao ser consumido, a presença de ferro nesses peixes, favorece a formação dos glóbulos vermelhos no sangue humano.",
+          "A pele desses peixes, ao ser utilizada em queimaduras de 2° e 3° graus, impede a cicatrização da área lesada no corpo humano.",
+          "Ao ser consumido, a vitamina D presente nesses peixes é importante para prevenir doenças em crianças, tais como o escorbuto e o sarampo.",
+          "Ao ser consumido, a quantidade baixa de proteínas nesses peixes favorece o ganho de massa magra e fortalece o tecido muscular, principalmente em praticantes de atividades físicas.",
+          "Ao ser consumido, a presença de minerais como cálcio e zinco, nesses peixes, ajuda a prevenir o aparecimento de tromboses, a febre amarela e a prisão de ventre nas pessoas idosas."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "33": {
+        "tema": "Interpretação de texto informativo",
+        "reading": "",
+        "enunciado": "Consulte a questão 33 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Interpretação de texto informativo.",
+        "stem": "Consulte a questão 33 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Interpretação de texto informativo.",
+        "answers": [
+          "(Alternativa A — ver caderno oficial)",
+          "(Alternativa B — ver caderno oficial)",
+          "(Alternativa C — ver caderno oficial)",
+          "(Alternativa D — ver caderno oficial)",
+          "(Alternativa E — ver caderno oficial)"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "34": {
+        "tema": "Identificação de informações e inferências em texto",
+        "reading": "el pelo transporte de oxigênio e é representado por: .",
+        "enunciado": "Sobre esse elemento, é correto afirmar que apresenta",
+        "stem": "Sobre esse elemento, é correto afirmar que apresenta",
+        "answers": [
+          "número de massa 56.",
+          "número atômico 30.",
+          "30 prótons.",
+          "56 elétrons.",
+          "26 nêutrons. Fe5626 Baseando-se no texto, é correto afirmar que"
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "35": {
+        "tema": "Número atômico, número de massa, prótons e nêutrons",
+        "reading": "e até da linguagem. <",
+        "enunciado": "Segundo o texto, a domesticação de animais",
+        "stem": "Segundo o texto, a domesticação de animais",
+        "answers": [
+          "ocorreu recentemente, no período medieval, e foi possível devido à invenção da linguagem e das ferramentas de pedra.",
+          "causou danos à saúde humana, que não estava preparada para o consumo de leite na vida adulta, diminuindo a expectativa média de vida do homem contemporâneo.",
+          "aumentou os níveis naturais de intolerância a lactose no homem pré-histórico devido às diferenças entre o leite materno e o leite de vaca.",
+          "contribuiu para o desenvolvimento de aspectos culturais que favoreceram a evolução humana, como a criação de ferramentas e da linguagem.",
+          "provocou saltos evolutivos que atrasaram o desenvolvimento da linguagem e da tecnologia."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "36": {
+        "tema": "Fórmula molecular e estrutura de feromônios",
+        "reading": "imento de tromboses, a febre amarela e a prisão de ventre nas pessoas idosas.",
+        "enunciado": "Com base no texto, é correto afirmar que a tilápia é",
+        "stem": "Com base no texto, é correto afirmar que a tilápia é",
+        "answers": [
+          "nativa da região Nordeste do Brasil, especificamente do Ceará.",
+          "rica em vitaminas e minerais, podendo ser utilizada na medicina.",
+          "cultivada em tanques de água salgada no interior da região Sudeste.",
+          "o principal produto de exportação do Brasil desde a década de 1990.",
+          "produzida e comercializada pelo Departamento de Obras Contra as Secas."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "37": {
+        "tema": "Uso de feromônios no controle sustentável de pragas",
+        "reading": "revenir doenças em crianças, tais como o escorbuto e o sarampo. (D) Ao ser consumido, a quantidade baixa de proteínas nesses peixes favorece o ganho de massa magra e fortalece o tecido muscular, principalmente em praticantes de atividades físicas. (E) Ao ser consumido, a presença de minerais como cálcio e zinco, nesses peixes, ajuda a prevenir o aparecimento de tromboses, a febre amarela e a prisão de ventre nas pessoas idosas.",
+        "enunciado": "Com base no texto, é correto afirmar que a tilápia é",
+        "stem": "Com base no texto, é correto afirmar que a tilápia é",
+        "answers": [
+          "nativa da região Nordeste do Brasil, especificamente do Ceará.",
+          "rica em vitaminas e minerais, podendo ser utilizada na medicina.",
+          "cultivada em tanques de água salgada no interior da região Sudeste.",
+          "o principal produto de exportação do Brasil desde a década de 1990.",
+          "produzida e comercializada pelo Departamento de Obras Contra as Secas."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "38": {
+        "tema": "Polinização, abelhas e biodiversidade",
+        "reading": "áveis por regularem o ciclo menstrual entre elas.",
+        "enunciado": "Baseando-se no texto, é correto afirmar que",
+        "stem": "Baseando-se no texto, é correto afirmar que",
+        "answers": [
+          "a pulverização de agrotóxicos e o uso de inseticidas alteram o material genético das abelhas, deixando-as lentas, sem asas, com maior capacidade de polinização e de produção de mel.",
+          "o desmatamento beneficia a formação de enxames e a construção de novos ninhos de abelhas devido ao aumento da disponibilidade de alimento, como flores silvestres.",
+          "o aumento do número de flores encurta o tempo de vida das abelhas, causando a redução da reprodução das plantas e prejudicando a biodiversidade terrestre.",
+          "a ocorrência de doenças prejudiciais à visão e à memória de navegação das abelhas aumenta a capacidade de elas retornarem às colmeias.",
+          "o uso de agrotóxicos na agricultura para o controle de pragas acarreta a diminuição da população de abelhas, interferindo na polinização natural."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "39": {
+        "tema": "Isolamento térmico e transferência de calor",
+        "reading": "o de as abelhas serem os principais seres vivos responsáveis por polinizar cerca de 75% das culturas alimentares do mundo.",
+        "enunciado": "Baseando-se no texto, é correto afirmar que",
+        "stem": "Baseando-se no texto, é correto afirmar que",
+        "answers": [
+          "a pulverização de agrotóxicos e o uso de inseticidas alteram o material genético das abelhas, deixando-as lentas, sem asas, com maior capacidade de polinização e de produção de mel.",
+          "o desmatamento beneficia a formação de enxames e a construção de novos ninhos de abelhas devido ao aumento da disponibilidade de alimento, como flores silvestres.",
+          "o aumento do número de flores encurta o tempo de vida das abelhas, causando a redução da reprodução das plantas e prejudicando a biodiversidade terrestre.",
+          "a ocorrência de doenças prejudiciais à visão e à memória de navegação das abelhas aumenta a capacidade de elas retornarem às colmeias.",
+          "o uso de agrotóxicos na agricultura para o controle de pragas acarreta a diminuição da população de abelhas, interferindo na polinização natural."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "40": {
+        "tema": "Pressão superficial e distribuição do peso",
+        "reading": "isolamento térmico por meio da observação dos animais locais.",
+        "enunciado": "Assinale a alternativa que justifica corretamente o equilíbrio térmico estabelecido.",
+        "stem": "Assinale a alternativa que justifica corretamente o equilíbrio térmico estabelecido.",
+        "answers": [
+          "A alta capacidade de absorção de moléculas de água pela pele é a responsável por evitar a sudorese.",
+          "A perda de calor da pele do corpo para o ambiente é a responsável por manter o corpo aquecido.",
+          "A pele auxilia no equilíbrio térmico devido à convecção, mantendo o corpo aquecido.",
+          "A reflexão total da radiação solar recebida pelo corpo aumenta a temperatura corporal.",
+          "A presença de proteínas vivas isolantes na pele é a responsável por facilitar a transferência térmica."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "41": {
+        "tema": "Mapas medievais e visão de mundo na Idade Média",
+        "reading": "",
+        "enunciado": "Consulte a questão 41 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Mapas medievais e visão de mundo na Idade Média.",
+        "stem": "Consulte a questão 41 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Mapas medievais e visão de mundo na Idade Média.",
+        "answers": [
+          "(Alternativa A — ver caderno oficial)",
+          "(Alternativa B — ver caderno oficial)",
+          "(Alternativa C — ver caderno oficial)",
+          "(Alternativa D — ver caderno oficial)",
+          "(Alternativa E — ver caderno oficial)"
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "42": {
+        "tema": "",
+        "reading": "",
+        "enunciado": "Com base nas informações apresentadas, determine a taxa de lotação dessa área em UA/ha.",
+        "stem": "Com base nas informações apresentadas, determine a taxa de lotação dessa área em UA/ha.",
+        "answers": [
+          "o Brasil ainda precisa importar grande parte da carne consumida pelo mercado interno, mesmo possuindo o maior rebanho bovino de corte do mundo, pois o alto valor do dólar inibe as exportações desse produto.",
+          "a expansão da fronteira agrícola para o cultivo de feijão, de trigo e de arroz, cereais utilizados como fonte de alimentação para o gado de corte, é a maior responsável pelo desmatamento verificado na Amazônia brasileira.",
+          "a criação de gado é uma das principais causas do desmatamento no Brasil, principalmente na Amazônia, contribuindo para as mudanças climáticas, pois as florestas são importantes no sequestro de carbono.",
+          "o Brasil ainda não conseguiu estancar o processo de desmatamento causado pela criação de gado de corte, principalmente na Amazônia brasileira, embora seja responsável por 50% das exportações mundiais de carne bovina.",
+          "o estado do Amazonas, dentre as unidades da Federação localizadas na Amazônia Legal, concentra pouco mais de 40% do rebanho nacional de bovinos, tornando esse estado, em termos percentuais, o campeão brasileiro em áreas florestais desmatadas."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "43": {
+        "tema": "Taxa de lotação, unidades animais e cálculo proporcional",
+        "reading": "e fenômeno é devido ao fato de que o Sol está diretamente acima do equador.",
+        "enunciado": "Assinale a alternativa que identifica corretamente o conceito científico que evidencia o erro da fake news.",
+        "stem": "Assinale a alternativa que identifica corretamente o conceito científico que evidencia o erro da fake news.",
+        "answers": [
+          "O equinócio provoca ondas de calor intenso em países localizados ao Sul da linha do Equador, sendo necessário se abrigar para evitar queimaduras solares.",
+          "O fato de o Sol estar sobre o Equador faz com que a radiação solar se concentre em todo o Brasil, justificando a previsão de 40 °C às 16 h.",
+          "O equinócio está relacionado à inclinação do eixo da Terra e se caracteriza pelo fato de o dia e a noite terem o mesmo período com duração de 12 horas, portanto, não é responsável direto por ondas de calor.",
+          "As temperaturas de 40 °C são previsíveis durante o equinócio porque ocorre aumento da atividade solar sobre o hemisfério sul nessa época.",
+          "A recomendação de ficar em casa durante o equinócio é cientificamente válida, pois a energia solar atinge níveis perigosos entre 11 h e 17 h nesses dias."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "44": {
+        "tema": "Pecuária, desmatamento na Amazônia e mudanças climáticas",
+        "reading": "ínio. Isso se deve ao fato de o Cerrado abrigar diversas aves migratórias. O beija-flor-preto é uma ave característica da Mata Atlântica, mas que migra para o interior do país, visitando as flores do Cerrado. <",
+        "enunciado": "Com base no mapa, se, por ventura, um beija-flor-preto migrar de uma área de Mata Atlântica, localizada no estado de Sergipe, para uma área de Cerrado, localizada no estado de Goiás, ele voará no sentido",
+        "stem": "Com base no mapa, se, por ventura, um beija-flor-preto migrar de uma área de Mata Atlântica, localizada no estado de Sergipe, para uma área de Cerrado, localizada no estado de Goiás, ele voará no sentido",
+        "answers": [
+          "Noroeste.",
+          "Nordeste.",
+          "Sudoeste.",
+          "Sudeste.",
+          "Leste. km"
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "45": {
+        "tema": "Imperialismo europeu, neocolonialismo e origem dos zoológicos modernos",
+        "reading": "lotação dessa área em UA/ha.",
+        "enunciado": "(A) 2,5 (B) 5,0 (C) 7,5 (D) 12,5 (E) 18,0",
+        "stem": "(A) 2,5 (B) 5,0 (C) 7,5 (D) 12,5 (E) 18,0",
+        "answers": [
+          "o Brasil ainda precisa importar grande parte da carne consumida pelo mercado interno, mesmo possuindo o maior rebanho bovino de corte do mundo, pois o alto valor do dólar inibe as exportações desse produto.",
+          "a expansão da fronteira agrícola para o cultivo de feijão, de trigo e de arroz, cereais utilizados como fonte de alimentação para o gado de corte, é a maior responsável pelo desmatamento verificado na Amazônia brasileira.",
+          "a criação de gado é uma das principais causas do desmatamento no Brasil, principalmente na Amazônia, contribuindo para as mudanças climáticas, pois as florestas são importantes no sequestro de carbono.",
+          "o Brasil ainda não conseguiu estancar o processo de desmatamento causado pela criação de gado de corte, principalmente na Amazônia brasileira, embora seja responsável por 50% das exportações mundiais de carne bovina.",
+          "o estado do Amazonas, dentre as unidades da Federação localizadas na Amazônia Legal, concentra pouco mais de 40% do rebanho nacional de bovinos, tornando esse estado, em termos percentuais, o campeão brasileiro em áreas florestais desmatadas."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "46": {
+        "tema": "Doenças parasitárias: teníase e cisticercos",
+        "reading": ", muitos zoológicos foram criados com intenções conservacionistas, especialmente no que tange à preservação de espécies nativas, ressaltando o papel que essas instituições têm desempenhado em termos de conservação e educação. <",
+        "enunciado": "O processo histórico referido no texto, que explica o contexto de surgimento dos zoológicos modernos, é caracterizado por",
+        "stem": "O processo histórico referido no texto, que explica o contexto de surgimento dos zoológicos modernos, é caracterizado por",
+        "answers": [
+          "uma revolução cultural ocorrida nos países da Europa, que levou os governos a adotar políticas educacionais rígidas e universalizantes, com o objetivo de preparar a juventude para as transformações que ocorreriam no século XX.",
+          "uma política de entretenimento, também conhecida como “política de pão e circo”, voltada ao aprimoramento do repertório cultural dos colonos, para que superassem os males que os afligiam.",
+          "uma política de expansão territorial, econômica, política e cultural de países europeus sobre outros continentes, também conhecida como neocolonialismo.",
+          "uma forma de governo absolutista, em que todo o poder se concentrava nas mãos do rei e que desconsiderava as necessidades materiais imediatas de seus súditos.",
+          "uma forma de governo democrática, que pressupunha a divisão do poder em Executivo, Legislativo e Judiciário e dava grande ênfase ao desenvolvimento científico e cultural da população europeia."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "47": {
+        "tema": "Conservação da fauna e recuperação de áreas degradadas",
+        "reading": "es no sequestro de carbono. (D) o Brasil ainda não conseguiu estancar o processo de desmatamento causado pela criação de gado de corte, principalmente na Amazônia brasileira, embora seja responsável por 50% das exportações mundiais de carne bovina. (E) o estado do Amazonas, dentre as unidades da Federação localizadas na Amazônia Legal, concentra pouco mais de 40% do rebanho nacional de bovinos, tornando esse estado, em termos percentuais, o campeão brasileiro em áreas florestais desmatadas.",
+        "enunciado": "A partir do texto, é correto afirmar que",
+        "stem": "A partir do texto, é correto afirmar que",
+        "answers": [
+          "uma revolução cultural ocorrida nos países da Europa, que levou os governos a adotar políticas educacionais rígidas e universalizantes, com o objetivo de preparar a juventude para as transformações que ocorreriam no século XX.",
+          "uma política de entretenimento, também conhecida como “política de pão e circo”, voltada ao aprimoramento do repertório cultural dos colonos, para que superassem os males que os afligiam.",
+          "uma política de expansão territorial, econômica, política e cultural de países europeus sobre outros continentes, também conhecida como neocolonialismo.",
+          "uma forma de governo absolutista, em que todo o poder se concentrava nas mãos do rei e que desconsiderava as necessidades materiais imediatas de seus súditos.",
+          "uma forma de governo democrática, que pressupunha a divisão do poder em Executivo, Legislativo e Judiciário e dava grande ênfase ao desenvolvimento científico e cultural da população europeia."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "48": {
+        "tema": "Preservação das tartarugas marinhas e participação comunitária",
+        "reading": "sil, principalmente na Amazônia, contribuindo para as mudanças climáticas, pois as florestas são importantes no sequestro de carbono. (D) o Brasil ainda não conseguiu estancar o processo de desmatamento causado pela criação de gado de corte, principalmente na Amazônia brasileira, embora seja responsável por 50% das exportações mundiais de carne bovina. (E) o estado do Amazonas, dentre as unidades da Federação localizadas na Amazônia Legal, concentra pouco mais de 40% do rebanho nacional de bovinos, tornando esse estado, em termos percentuais, o campeão brasileiro em áreas florestais desmatadas.",
+        "enunciado": "A partir do texto, é correto afirmar que",
+        "stem": "A partir do texto, é correto afirmar que",
+        "answers": [
+          "uma revolução cultural ocorrida nos países da Europa, que levou os governos a adotar políticas educacionais rígidas e universalizantes, com o objetivo de preparar a juventude para as transformações que ocorreriam no século XX.",
+          "uma política de entretenimento, também conhecida como “política de pão e circo”, voltada ao aprimoramento do repertório cultural dos colonos, para que superassem os males que os afligiam.",
+          "uma política de expansão territorial, econômica, política e cultural de países europeus sobre outros continentes, também conhecida como neocolonialismo.",
+          "uma forma de governo absolutista, em que todo o poder se concentrava nas mãos do rei e que desconsiderava as necessidades materiais imediatas de seus súditos.",
+          "uma forma de governo democrática, que pressupunha a divisão do poder em Executivo, Legislativo e Judiciário e dava grande ênfase ao desenvolvimento científico e cultural da população europeia."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "49": {
+        "tema": "Reprodução das tartarugas marinhas e impactos da iluminação artificial",
+        "reading": "população europeia.",
+        "enunciado": "Consulte a questão 49 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Reprodução das tartarugas marinhas e impactos da iluminação artificial.",
+        "stem": "Consulte a questão 49 no caderno oficial do Vestibulinho (prova 2026 1 sem). Tema da Missão ETEC: Reprodução das tartarugas marinhas e impactos da iluminação artificial.",
+        "answers": [
+          "ascaridíase lombriga",
+          "teníase solitária",
+          "mal de Chagas barbeiro",
+          "amebíase ameba",
+          "toxoplasmose salmonella Ao consumir a carne suína ou bovina contaminada com cisticercos – quando não ocorre o cozimento adequado – o ser humano pode adquirir uma doença denominada _______________ causada pelo parasita conhecido como _______________."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      },
+      "50": {
+        "tema": "Proteção dos animais e responsabilidade socioambiental",
+        "reading": "briga (B) teníase solitária (C) mal de Chagas barbeiro (D) amebíase ameba (E) toxoplasmose salmonella Ao consumir a carne suína ou bovina contaminada com cisticercos – quando não ocorre o cozimento adequado – o ser humano pode adquirir uma doença denominada _______________ causada pelo parasita conhecido como _______________.",
+        "enunciado": "I II Assinale a alternativa que preenche correta e respectivamente os espaços numerados I e II.",
+        "stem": "I II Assinale a alternativa que preenche correta e respectivamente os espaços numerados I e II.",
+        "answers": [
+          "reconectar as pessoas com a atividade circense, que não existe mais no território nacional em função de uma lei federal que impede a utilização de animais em seus espetáculos.",
+          "inspirar novas ações voltadas para incrementar o aumento do número de elefantes para suprir a ausência desses animais nos zoológicos privados brasileiros.",
+          "compreender que os elefantes são dignos de respeito, mesmo sendo responsáveis pelo desmatamento de amplos espaços naturais do Santuário.",
+          "promover a empatia e o respeito pelos elefantes, incentivando as pessoas a se preocuparem com o bem-estar desses e de outros animais.",
+          "motivar as pessoas a se engajarem em ações que permitam a utilização de elefantes em eventos públicos e privados."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-CADERNO-VESTIBULINHO-1SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20261176943/A-GABARITO-VESTIBULINHO-1SEM2026.pdf"
+      }
+    }
+  },
+  "prova 2026 2 sem": {
+    "prova": "prova 2026 2 sem",
+    "source": "vest-2sem2026.pdf",
+    "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+    "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf",
+    "questions": {
+      "1": {
+        "tema": "Egito Antigo: Rio Nilo, transporte e comércio",
+        "reading": "",
+        "enunciado": "Considerando as características geográficas da região e a importância do rio para o deslocamento de pessoas e de mercadorias, os meios de transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "stem": "Considerando as características geográficas da região e a importância do rio para o deslocamento de pessoas e de mercadorias, os meios de transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "answers": [
+          "as carroças, puxadas por cavalos, utilizadas em estradas asfaltadas nas margens de toda a extensão do rio Nilo.",
+          "os camelos, conhecidos como “navios do deserto”, usados em caravanas que cruzavam o Saara para transportar mercadorias para o Soweto, na África do Sul.",
+          "as embarcações a vela ou a remo, construídas para navegar pelo Nilo, cujas águas facilitavam o transporte de cargas de cereais e de pedras.",
+          "os trenós, arrastados por bois sobre a areia, utilizados no transporte de blocos de pedra para a construção das pirâmides.",
+          "as carruagens puxadas por éguas, ideais para o deslocamento rápido de exércitos e de mensageiros entre as cidades-Estado."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "2": {
+        "tema": "Idade Média: peregrinações, rotas e comércio",
+        "reading": "al “estrada” do Egito antigo, conectando o Alto Egito (sul) ao Baixo Egito (norte).",
+        "enunciado": "Considerando as características geográficas da região e a importância do rio para o deslocamento de pessoas e de mercadorias, os meios de transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "stem": "Considerando as características geográficas da região e a importância do rio para o deslocamento de pessoas e de mercadorias, os meios de transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "answers": [
+          "as carroças, puxadas por cavalos, utilizadas em estradas asfaltadas nas margens de toda a extensão do rio Nilo.",
+          "os camelos, conhecidos como “navios do deserto”, usados em caravanas que cruzavam o Saara para transportar mercadorias para o Soweto, na África do Sul.",
+          "as embarcações a vela ou a remo, construídas para navegar pelo Nilo, cujas águas facilitavam o transporte de cargas de cereais e de pedras.",
+          "os trenós, arrastados por bois sobre a areia, utilizados no transporte de blocos de pedra para a construção das pirâmides.",
+          "as carruagens puxadas por éguas, ideais para o deslocamento rápido de exércitos e de mensageiros entre as cidades-Estado."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "3": {
+        "tema": "Tráfico atlântico de africanos escravizados e comércio triangular",
+        "reading": "ara prosperar. Propomos aqui uma reflexão sobre a riqueza e a importância vital desse tema. As peregrinações contribuíram para o desenvolvimento das vias de comunicação medievais. As estradas, até então precárias e perigosas, tornaram-se mais movimentadas, exigindo a construção de pontes e de hospedarias, além da atuação de ordens religiosas para proteger os viajantes. Esse fluxo constante de pessoas disseminou informações e práticas culturais e dinamizou a economia local.",
+        "enunciado": "A principal motivação desse fluxo e a sua consequência eram, respectivamente,",
+        "stem": "A principal motivação desse fluxo e a sua consequência eram, respectivamente,",
+        "answers": [
+          "comercial, ligada às feiras de Champagne, cujo desenvolvimento permitiu a formação de uma rede bancária internacional.",
+          "religiosa, com a visita a locais sagrados como Santiago de Compostela e Roma, o que resultou na dinamização do comércio e na revitalização das cidades e das rotas.",
+          "política, visando à centralização do poder nas mãos dos reis, o que ocasionou o fim do sistema de suserania e vassalagem.",
+          "militar, com a participação de diferentes exércitos nas Cruzadas, o que permitiu a expansão do Império Bizantino sobre a Europa Oriental.",
+          "acadêmica, e estava relacionada às primeiras universidades, cujas fundações favoreceram a padronização do latim como língua universal. 3"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "4": {
+        "tema": "Grandes Navegações e centralização das monarquias",
+        "reading": "rede bancária internacional. (B) religiosa, com a visita a locais sagrados como Santiago de Compostela e Roma, o que resultou na dinamização do comércio e na revitalização das cidades e das rotas. (C) política, visando à centralização do poder nas mãos dos reis, o que ocasionou o fim do sistema de suserania e vassalagem. (D) militar, com a participação de diferentes exércitos nas Cruzadas, o que permitiu a expansão do Império Bizantino sobre a Europa Oriental. (E) acadêmica, e estava relacionada às primeiras universidades, cujas fundações favoreceram a padronização do latim como língua universal. 3",
+        "enunciado": "Essas relações comerciais ocorreram entre os séculos XVI e XIX e, entre os historiadores, o nome atribuído a elas é",
+        "stem": "Essas relações comerciais ocorreram entre os séculos XVI e XIX e, entre os historiadores, o nome atribuído a elas é",
+        "answers": [
+          "Rota Transpacífica.",
+          "Rota das Especiarias.",
+          "Rota da Seda.",
+          "Comércio Triangular.",
+          "Comércio Intercolonial."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "5": {
+        "tema": "Transformações tecnológicas, transporte e escolhas profissionais",
+        "reading": "nha destaca o impacto ambiental causado pelo uso de canudos plásticos e levanta uma reflexão crítica sobre atitudes individuais em relação ao meio ambiente.",
+        "enunciado": "A ironia presente no último quadrinho sugere que",
+        "stem": "A ironia presente no último quadrinho sugere que",
+        "answers": [
+          "os impactos ambientais apresentados na tirinha ocorrem de forma natural, sem ligação com atitudes humanas.",
+          "o uso de canudos plásticos representa o principal e mais grave problema de poluição ambiental da atualidade.",
+          "os problemas ambientais são causados exclusivamente por grandes indústrias, não tendo relação com hábitos individuais.",
+          "as pessoas valorizam atitudes ambientais simbólicas, mas ignoram outros hábitos que também geram impactos ambientais.",
+          "pequenas atitudes individuais, como evitar o uso de canudos, são suficientes para solucionar os problemas ambientais do planeta. <"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "6": {
+        "tema": "Governo JK, construção de Brasília e indústria automobilística",
+        "reading": "o poder do Estado. Cada época histórica criou soluções de transporte (a estrada romana, a navegação à vela, a ferrovia, o avião) que moldaram as relações entre os homens e a economia.",
+        "enunciado": "Ao analisar criticamente a evolução dos meios de transporte e sua influência na sociedade, um jovem que está refletindo sobre o seu futuro profissional conclui corretamente que",
+        "stem": "Ao analisar criticamente a evolução dos meios de transporte e sua influência na sociedade, um jovem que está refletindo sobre o seu futuro profissional conclui corretamente que",
+        "answers": [
+          "a tecnologia determina os rumos da vida profissional, sendo impossível planejar uma carreira sem dominar as ferramentas de transporte mais modernas.",
+          "inovações nos transportes geram oportunidades de trabalho restritas aos físicos e aos engenheiros.",
+          "a mobilidade espacial é fator secundário na vida moderna, pois, com a adoção do trabalho remoto, as necessidades de deslocamento cessaram.",
+          "transformações nos transportes geram profissões e oportunidades, logo, o desenvolvimento pessoal e profissional vincula-se a mudanças históricas e tecnológicas.",
+          "a escolha profissional deve ignorar o contexto histórico e tecnológico, focando nas aptidões individuais, que são imutáveis. 5"
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "7": {
+        "tema": "Brasil Imperial: escravidão e sociedade no século XIX",
+        "reading": "ca nas monarquias, que buscavam ampliar o comércio, acumular riquezas e fortalecer o poder do Estado.",
+        "enunciado": "Ao analisar criticamente a evolução dos meios de transporte e sua influência na sociedade, um jovem que está refletindo sobre o seu futuro profissional conclui corretamente que",
+        "stem": "Ao analisar criticamente a evolução dos meios de transporte e sua influência na sociedade, um jovem que está refletindo sobre o seu futuro profissional conclui corretamente que",
+        "answers": [
+          "a tecnologia determina os rumos da vida profissional, sendo impossível planejar uma carreira sem dominar as ferramentas de transporte mais modernas.",
+          "inovações nos transportes geram oportunidades de trabalho restritas aos físicos e aos engenheiros.",
+          "a mobilidade espacial é fator secundário na vida moderna, pois, com a adoção do trabalho remoto, as necessidades de deslocamento cessaram.",
+          "transformações nos transportes geram profissões e oportunidades, logo, o desenvolvimento pessoal e profissional vincula-se a mudanças históricas e tecnológicas.",
+          "a escolha profissional deve ignorar o contexto histórico e tecnológico, focando nas aptidões individuais, que são imutáveis. 5"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "8": {
+        "tema": "Óxidos metálicos e não metálicos: classificação de compostos",
+        "reading": "a República para a região do Planalto Central, na área que constituirá o futuro Distrito Federal. < .04.2026.",
+        "enunciado": "O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "stem": "O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "answers": [
+          "disseminação do trabalho livre, no qual os carregadores atuavam como prestadores de serviço com privilégios garantidos por leis imperiais.",
+          "exploração do trabalho escravizado, em que a força física de pessoas negras era apropriada para garantir o conforto e a distinção da aristocracia.",
+          "convivência pacífica entre os grupos sociais, evidenciada pela proximidade física nos espaços públicos e pelo compartilhamento dos meios de locomoção.",
+          "mecanização dos transportes urbanos, por meio da importação de equipamentos europeus e a contratação de trabalhadores com treinamento técnico especializado.",
+          "autossuficiência técnica dos grupos dominantes, que utilizavam os saberes tradicionais africanos para o desenvolvimento de meios de transporte inovadores."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "9": {
+        "tema": "Composição percentual, massa e interpretação de dados químicos",
+        "reading": "eriais. (B) exploração do trabalho escravizado, em que a força física de pessoas negras era apropriada para garantir o conforto e a distinção da aristocracia. (C) convivência pacífica entre os grupos sociais, evidenciada pela proximidade física nos espaços públicos e pelo compartilhamento dos meios de locomoção. (D) mecanização dos transportes urbanos, por meio da importação de equipamentos europeus e a contratação de trabalhadores com treinamento técnico especializado. (E) autossuficiência técnica dos grupos dominantes, que utilizavam os saberes tradicionais africanos para o desenvolvimento de meios de transporte inovadores.",
+        "enunciado": "Analisando as fórmulas dos compostos apresentados na tabela, pode-se concluir que são",
+        "stem": "Analisando as fórmulas dos compostos apresentados na tabela, pode-se concluir que são",
+        "answers": [
+          "ácidos oxigenados.",
+          "bases metálicas.",
+          "sais metálicos.",
+          "óxidos metálicos.",
+          "óxidos de não metais. O transporte de produtos químicos é controlado e cercado de muitos cuidados para evitar acidentes, como o ocorrido com uma carreta na BR –354. A carreta se chocou com um caminhão, causando vazamento de Tanalith, um fungicida e inseticida de alta toxidade. < Composição química do Tanalith: INGREDIENTE MASSA PERCENTUAL Trióxido de Cromo (CrO3) 28,70% Óxido de Cobre II (CuO) 11,17% Pentóxido de Arsênico (As2O5) 20,54% Outros ingredientes 40,00% Fonte dos dados: < Sobre a tabela, assinale a alternativa correta."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "10": {
+        "tema": "Substâncias simples e compostas: O₂ e CO₂",
+        "reading": "Portanto, ele é representado corretamente por Cr5224 Cr2452 Cr5476 Cu2452 Cu5224 HCl + NaOH → NaCl + H2O (A) . (B) . (C) . (D) . (E) . 7",
+        "enunciado": "O elemento cromo apresenta número atômico (Z) 24 e número de massa (A) 52.",
+        "stem": "O elemento cromo apresenta número atômico (Z) 24 e número de massa (A) 52.",
+        "answers": [
+          "grande quantidade de sacarose, pois sobrecarrega o fígado.",
+          "grande quantidade de sacarose, pois será usada como fonte de insulina.",
+          "grande quantidade de sacarose, pois é benéfica para o funcionamento do fígado.",
+          "pequena quantidade de sacarose, pois a glicose é metabolizada no fígado.",
+          "pequena quantidade de sacarose, pois seu excesso leva à esteatose hepática."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "11": {
+        "tema": "Reação de neutralização entre ácido e base",
+        "reading": "presença de compostos de cobre. (E) A soma das porcentagens em massa fornecidas na tabela leva a um valor inferior a 100%. 7",
+        "enunciado": "(D) O Tanalith apresenta 70%, em massa, correspondente a compostos oxigenados.",
+        "stem": "(D) O Tanalith apresenta 70%, em massa, correspondente a compostos oxigenados.",
+        "answers": [
+          "substância pura simples e mistura.",
+          "substância pura simples e substância pura composta.",
+          "substância pura composta e substância pura simples.",
+          "substância pura composta e mistura.",
+          "mistura e substância pura composta."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "12": {
+        "tema": "Número atômico, número de massa e representação dos elementos",
+        "reading": "pura composta e mistura. (E) mistura e substância pura composta.",
+        "enunciado": "Reação de neutralização: Sabendo-se que a quantidade de HCl era de apenas 5 mL, sobre o ocorrido, é correto afirmar que",
+        "stem": "Reação de neutralização: Sabendo-se que a quantidade de HCl era de apenas 5 mL, sobre o ocorrido, é correto afirmar que",
+        "answers": [
+          "o ácido foi totalmente neutralizado, mas a solução de NaOH está contaminada com pequena quantidade de NaCl.",
+          "a base foi totalmente neutralizada, mas a solução de HC l está contaminada com pequena quantidade de NaCl.",
+          "a solução transportada era apenas de NaCl devido à neutralização total do HCl pelo NaOH.",
+          "a solução transportada era uma mistura de HCl e NaOH devido à neutralização parcial do HCl.",
+          "a solução transportada, devido à reação, apresentava as três substâncias: HCl, NaOH e NaCl."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "13": {
+        "tema": "Açúcar, metabolismo e saúde do fígado",
+        "reading": "ossóis infectantes, que são partículas microscópicas capazes de permanecer suspensas no ar por algumas horas. (B) transformam os corrimãos e as catracas em verdadeiros reservatórios de anticorpos, que foram deixados pelas mãos dos passageiros. (C) estimulam as glândulas sudoríparas dos passageiros a produzirem enzimas, que atuam na multiplicação de bactérias. (D) facilitam a entrada de luz solar direta, o que acelera a reprodução dos vírus nas superfícies compartilhadas. (E) estimulam o aumento da temperatura corporal dos passageiros, que atua impedindo o aumento da sudorese.",
+        "enunciado": "Consulte a questão 13 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Açúcar, metabolismo e saúde do fígado.",
+        "stem": "Consulte a questão 13 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Açúcar, metabolismo e saúde do fígado.",
+        "answers": [
+          "um sistema circulatório aberto, no qual o fluído corporal circula somente dentro de lacunas.",
+          "a presença de hemoglobina no sangue, que se desloca em um sistema circulatório fechado.",
+          "a existência de estruturas contráteis, que garantem a circulação do fluido corporal até os tecidos.",
+          "uma conexão direta do sistema circulatório com os rins, o que permite eficiência nas trocas gasosas.",
+          "um sistema circulatório fechado, no qual o fluído corporal sai dos vasos para o interior de lacunas, onde ocorrem as trocas de substâncias."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "14": {
+        "tema": "Isomeria: glicose e frutose",
+        "reading": "(B) a base foi totalmente neutralizada, mas a solução de HC l está contaminada com pequena quantidade de NaCl. (C) a solução transportada era apenas de NaCl devido à neutralização total do HCl pelo NaOH. (D) a solução transportada era uma mistura de HCl e NaOH devido à neutralização parcial do HCl. (E) a solução transportada, devido à reação, apresentava as três substâncias: HCl, NaOH e NaCl.",
+        "enunciado": "Consulte a questão 14 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Isomeria: glicose e frutose.",
+        "stem": "Consulte a questão 14 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Isomeria: glicose e frutose.",
+        "answers": [
+          "grande quantidade de sacarose, pois sobrecarrega o fígado.",
+          "grande quantidade de sacarose, pois será usada como fonte de insulina.",
+          "grande quantidade de sacarose, pois é benéfica para o funcionamento do fígado.",
+          "pequena quantidade de sacarose, pois a glicose é metabolizada no fígado.",
+          "pequena quantidade de sacarose, pois seu excesso leva à esteatose hepática."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "15": {
+        "tema": "Rotas aéreas internacionais e localização geográfica",
+        "reading": "e no organismo humano envolve a sua quebra, no intestino delgado, em glicose e frutose.",
+        "enunciado": "A glicose e a frutose apresentam as respectivas fórmulas estruturais: C C C C C C H H H H H HO O OH OH OH OHH2 Glicose (C6H12O6) C C C C C C H H H HO O OH OH OHH2 Frutose (C6H12O6) H2 OH VESTIBULINHO 2o SEM | 2026 • VESTIBULINHO 2o SEM | 2026 • 9",
+        "stem": "A glicose e a frutose apresentam as respectivas fórmulas estruturais: C C C C C C H H H H H HO O OH OH OH OHH2 Glicose (C6H12O6) C C C C C C H H H HO O OH OH OHH2 Frutose (C6H12O6) H2 OH VESTIBULINHO 2o SEM | 2026 • VESTIBULINHO 2o SEM | 2026 • 9",
+        "answers": [
+          "evitar as tempestades tropicais que ocorrem nas regiões polares.",
+          "economizar tempo, combustível e garantir segurança operacional.",
+          "fugir do tráfego aéreo intenso de satélites que ocorre na linha do Equador.",
+          "aproveitar a ausência de gravidade nos polos para economizar combustível.",
+          "garantir que o avião esteja sempre em contato visual com o solo congelado para facilitar a navegação."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "16": {
+        "tema": "Estreito de Ormuz e rotas marítimas do petróleo",
+        "reading": "O 2o SEM | 2026 • 9",
+        "enunciado": "Essas rotas aéreas são escolhidas para",
+        "stem": "Essas rotas aéreas são escolhidas para",
+        "answers": [
+          "evitar as tempestades tropicais que ocorrem nas regiões polares.",
+          "economizar tempo, combustível e garantir segurança operacional.",
+          "fugir do tráfego aéreo intenso de satélites que ocorre na linha do Equador.",
+          "aproveitar a ausência de gravidade nos polos para economizar combustível.",
+          "garantir que o avião esteja sempre em contato visual com o solo congelado para facilitar a navegação."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "17": {
+        "tema": "Ferrovia Qinghai-Tibete, altitude e condições climáticas",
+        "reading": "uais e estruturais diferentes. (B) glicose e frutose são isômeros, pois apresentam fórmulas moleculares e estruturais diferentes. (C) glicose e frutose são isômeros, pois apresentam fórmulas moleculares e estruturais iguais. (D) glicose e frutose não podem ser isômeros, pois apresentam fórmulas moleculares e estruturais diferentes. (E) glicose e frutose não podem ser isômeros, pois apresentam fórmulas moleculares diferentes e estruturais iguais.",
+        "enunciado": "A glicose e a frutose apresentam as respectivas fórmulas estruturais: C C C C C C H H H H H HO O OH OH OH OHH2 Glicose (C6H12O6) C C C C C C H H H HO O OH OH OHH2 Frutose (C6H12O6) H2 OH VESTIBULINHO 2o SEM | 2026 • VESTIBULINHO 2o SEM | 2026 • 9",
+        "stem": "A glicose e a frutose apresentam as respectivas fórmulas estruturais: C C C C C C H H H H H HO O OH OH OH OHH2 Glicose (C6H12O6) C C C C C C H H H HO O OH OH OHH2 Frutose (C6H12O6) H2 OH VESTIBULINHO 2o SEM | 2026 • VESTIBULINHO 2o SEM | 2026 • 9",
+        "answers": [
+          "evitar as tempestades tropicais que ocorrem nas regiões polares.",
+          "economizar tempo, combustível e garantir segurança operacional.",
+          "fugir do tráfego aéreo intenso de satélites que ocorre na linha do Equador.",
+          "aproveitar a ausência de gravidade nos polos para economizar combustível.",
+          "garantir que o avião esteja sempre em contato visual com o solo congelado para facilitar a navegação."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "18": {
+        "tema": "Rodoanel e circulação de veículos na região metropolitana",
+        "reading": "6.04.2026. Adaptado.",
+        "enunciado": "Consulte a questão 18 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Rodoanel e circulação de veículos na região metropolitana.",
+        "stem": "Consulte a questão 18 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Rodoanel e circulação de veículos na região metropolitana.",
+        "answers": [
+          "Mar Morto ao Mar Cáspio, na Ásia.",
+          "Golfo Pérsico ao Golfo de Omã, na Ásia.",
+          "Mar Vermelho ao Mar Mediterrâneo, na África.",
+          "Mar Cáspio ao Golfo da Califórnia, na América.",
+          "Golfo do México ao Mar do Caribe, na América."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "19": {
+        "tema": "Rodovia Presidente Dutra e industrialização do Vale do Paraíba",
+        "reading": "o Mar Cáspio, na Ásia. (B) Golfo Pérsico ao Golfo de Omã, na Ásia. (C) Mar Vermelho ao Mar Mediterrâneo, na África. (D) Mar Cáspio ao Golfo da Califórnia, na América. (E) Golfo do México ao Mar do Caribe, na América.",
+        "enunciado": "De acordo com o texto, é correto afirmar que essa ferrovia",
+        "stem": "De acordo com o texto, é correto afirmar que essa ferrovia",
+        "answers": [
+          "liga duas regiões chinesas e, durante seu trajeto, é possível encontrar situações climáticas bastante rigorosas aos seres humanos, principalmente no condado de Amdo.",
+          "liga a China ao Tibete, país este que tornou-se independente da Índia em 2006, com o apoio da China, que construiu a ferrovia para auxiliar o país recém-independente.",
+          "termina na estação de Amdo, que foi concluída uma década após a China se tornar um país socialista, pelas mãos de Mao Tsé-Tung, e serviu como forma de propaganda da superioridade do socialismo chinês.",
+          "foi inaugurada no século XIX e, por ser a mais alta do mundo, transita por áreas de dobramentos modernos, ligando-os às planícies de Qinghai, no continente europeu.",
+          "foi planejada para atravessar a Cordilheira dos Andes, a fim de atender a cidade de Passo Tanggula, considerada a mais alta do mundo."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "20": {
+        "tema": "Ferrovia transcontinental, exportações e comércio internacional",
+        "reading": "de cargas de cereais e de pedras. (D) os trenós, arrastados por bois sobre a areia, utilizados no transporte de blocos de pedra para a construção das pirâmides. (E) as carruagens puxadas por éguas, ideais para o deslocamento rápido de exércitos e de mensageiros entre as cidades-Estado.",
+        "enunciado": "A principal motivação desse fluxo e a sua consequência eram, respectivamente,",
+        "stem": "A principal motivação desse fluxo e a sua consequência eram, respectivamente,",
+        "answers": [
+          "comercial, ligada às feiras de Champagne, cujo desenvolvimento permitiu a formação de uma rede bancária internacional.",
+          "religiosa, com a visita a locais sagrados como Santiago de Compostela e Roma, o que resultou na dinamização do comércio e na revitalização das cidades e das rotas.",
+          "política, visando à centralização do poder nas mãos dos reis, o que ocasionou o fim do sistema de suserania e vassalagem.",
+          "militar, com a participação de diferentes exércitos nas Cruzadas, o que permitiu a expansão do Império Bizantino sobre a Europa Oriental.",
+          "acadêmica, e estava relacionada às primeiras universidades, cujas fundações favoreceram a padronização do latim como língua universal. 3"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "21": {
+        "tema": "Competências socioemocionais e adaptação às mudanças — questão interdisciplinar",
+        "reading": "Estima-se que o trecho 1 deve ter 6,3 km e gerar uma economia de 34 minutos no tempo de viagem do trajeto entre suas estações terminais.",
+        "enunciado": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país.",
+        "stem": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país.",
+        "answers": [
+          "impedir que o indivíduo sinta saudades de seu local de origem.",
+          "dificultar o aprendizado de novos conhecimentos em uma nova fase.",
+          "lidar com os novos ritmos, fluxos e dinâmicas espaciais do local de destino.",
+          "limitar a criação de novas necessidades ou de trajetórias frente a um obstáculo.",
+          "inviabilizar o amadurecimento individual decorrente de processos de mudança."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "22": {
+        "tema": "Velocidade média e conversão de unidades",
+        "reading": "sendo construído em torno do centro da Grande São Paulo. < .04.2026.",
+        "enunciado": "Essa rodovia foi o principal indutor",
+        "stem": "Essa rodovia foi o principal indutor",
+        "answers": [
+          "da industrialização do Vale do Paraíba, baseada na extração de madeira nativa da Serra da Mantiqueira.",
+          "da construção de portos secos destinados ao comércio de matérias-primas com países do Mercosul.",
+          "do surgimento de um microclima árido causado pela circulação intensa de caminhões de carga.",
+          "da transformação do Vale do Paraíba na principal área agrícola e pastoril do Brasil.",
+          "da consolidação do Vale do Paraíba como um importante eixo industrial e tecnológico."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "23": {
+        "tema": "Distância, tempo e velocidade média",
+        "reading": "mo estratégia de implantação, a Linha 17–Ouro do Monotrilho foi dividida em 3 trechos de implementação.",
+        "enunciado": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país.",
+        "stem": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país.",
+        "answers": [
+          "impedir que o indivíduo sinta saudades de seu local de origem.",
+          "dificultar o aprendizado de novos conhecimentos em uma nova fase.",
+          "lidar com os novos ritmos, fluxos e dinâmicas espaciais do local de destino.",
+          "limitar a criação de novas necessidades ou de trajetórias frente a um obstáculo.",
+          "inviabilizar o amadurecimento individual decorrente de processos de mudança."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "24": {
+        "tema": "Porcentagens, razão e proporção aplicadas a dados estatísticos",
+        "reading": "o em: 15.04.2026. Original colorido. 5",
+        "enunciado": "Analisando as fórmulas dos compostos apresentados na tabela, pode-se concluir que são",
+        "stem": "Analisando as fórmulas dos compostos apresentados na tabela, pode-se concluir que são",
+        "answers": [
+          "ácidos oxigenados.",
+          "bases metálicas.",
+          "sais metálicos.",
+          "óxidos metálicos.",
+          "óxidos de não metais. O transporte de produtos químicos é controlado e cercado de muitos cuidados para evitar acidentes, como o ocorrido com uma carreta na BR –354. A carreta se chocou com um caminhão, causando vazamento de Tanalith, um fungicida e inseticida de alta toxidade. < Composição química do Tanalith: INGREDIENTE MASSA PERCENTUAL Trióxido de Cromo (CrO3) 28,70% Óxido de Cobre II (CuO) 11,17% Pentóxido de Arsênico (As2O5) 20,54% Outros ingredientes 40,00% Fonte dos dados: < Sobre a tabela, assinale a alternativa correta."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "25": {
+        "tema": "Volume do cilindro: fórmula e aplicação prática",
+        "reading": "da capital da República para a região do Planalto Central, na área que constituirá o futuro Distrito Federal. < .04.2026.",
+        "enunciado": "O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "stem": "O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "answers": [
+          "disseminação do trabalho livre, no qual os carregadores atuavam como prestadores de serviço com privilégios garantidos por leis imperiais.",
+          "exploração do trabalho escravizado, em que a força física de pessoas negras era apropriada para garantir o conforto e a distinção da aristocracia.",
+          "convivência pacífica entre os grupos sociais, evidenciada pela proximidade física nos espaços públicos e pelo compartilhamento dos meios de locomoção.",
+          "mecanização dos transportes urbanos, por meio da importação de equipamentos europeus e a contratação de trabalhadores com treinamento técnico especializado.",
+          "autossuficiência técnica dos grupos dominantes, que utilizavam os saberes tradicionais africanos para o desenvolvimento de meios de transporte inovadores."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "26": {
+        "tema": "EPO, sangue e produção de glóbulos vermelhos",
+        "reading": "ara o funcionamento do fígado. (D) pequena quantidade de sacarose, pois a glicose é metabolizada no fígado. (E) pequena quantidade de sacarose, pois seu excesso leva à esteatose hepática.",
+        "enunciado": "Sabendo que isômeros são compostos que apresentam a mesma fórmula molecular e diferentes fórmulas estruturais, pode-se afirmar, corretamente, que",
+        "stem": "Sabendo que isômeros são compostos que apresentam a mesma fórmula molecular e diferentes fórmulas estruturais, pode-se afirmar, corretamente, que",
+        "answers": [
+          "glicose e frutose são isômeros, pois apresentam fórmulas moleculares iguais e estruturais diferentes.",
+          "glicose e frutose são isômeros, pois apresentam fórmulas moleculares e estruturais diferentes.",
+          "glicose e frutose são isômeros, pois apresentam fórmulas moleculares e estruturais iguais.",
+          "glicose e frutose não podem ser isômeros, pois apresentam fórmulas moleculares e estruturais diferentes.",
+          "glicose e frutose não podem ser isômeros, pois apresentam fórmulas moleculares diferentes e estruturais iguais."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "27": {
+        "tema": "Média aritmética de valores apresentados em um gráfico",
+        "reading": "a para a região do Planalto Central, na área que constituirá o futuro Distrito Federal. < .04.2026.",
+        "enunciado": "O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "stem": "O funcionamento do meio de locomoção representado revela uma estrutura social caracterizada pela",
+        "answers": [
+          "disseminação do trabalho livre, no qual os carregadores atuavam como prestadores de serviço com privilégios garantidos por leis imperiais.",
+          "exploração do trabalho escravizado, em que a força física de pessoas negras era apropriada para garantir o conforto e a distinção da aristocracia.",
+          "convivência pacífica entre os grupos sociais, evidenciada pela proximidade física nos espaços públicos e pelo compartilhamento dos meios de locomoção.",
+          "mecanização dos transportes urbanos, por meio da importação de equipamentos europeus e a contratação de trabalhadores com treinamento técnico especializado.",
+          "autossuficiência técnica dos grupos dominantes, que utilizavam os saberes tradicionais africanos para o desenvolvimento de meios de transporte inovadores."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "28": {
+        "tema": "Humanitarismo, solidariedade e atuação em benefício da sociedade",
+        "reading": "",
+        "enunciado": "transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "stem": "transporte mais utilizados pelos egípcios para integrar seu território e realizar comércio eram",
+        "answers": [
+          "as carroças, puxadas por cavalos, utilizadas em estradas asfaltadas nas margens de toda a extensão do rio Nilo.",
+          "os camelos, conhecidos como “navios do deserto”, usados em caravanas que cruzavam o Saara para transportar mercadorias para o Soweto, na África do Sul.",
+          "as embarcações a vela ou a remo, construídas para navegar pelo Nilo, cujas águas facilitavam o transporte de cargas de cereais e de pedras.",
+          "os trenós, arrastados por bois sobre a areia, utilizados no transporte de blocos de pedra para a construção das pirâmides.",
+          "as carruagens puxadas por éguas, ideais para o deslocamento rápido de exércitos e de mensageiros entre as cidades-Estado."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "29": {
+        "tema": "Argumentação e opinião em texto sobre sustentabilidade",
+        "reading": "culares poluírem muito transportando poucas pessoas. (E) a comparação entre a quantidade de poluentes emitidos por bicicletas e ônibus.",
+        "enunciado": "Os termos “apenasapenas” e “ee”, no texto, podem ser substituídos por",
+        "stem": "Os termos “apenasapenas” e “ee”, no texto, podem ser substituídos por",
+        "answers": [
+          "“mal” e “além disso”.",
+          "“somente” e “porém”.",
+          "“logo que” e “portanto”.",
+          "“dificilmente” e “embora”.",
+          "“principalmente” e “porque”. <"
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "30": {
+        "tema": "Sentido das palavras e conectivos no contexto",
+        "reading": "a, o que resultou na dinamização do comércio e na revitalização das cidades e das rotas. (C) política, visando à centralização do poder nas mãos dos reis, o que ocasionou o fim do sistema de suserania e vassalagem. (D) militar, com a participação de diferentes exércitos nas Cruzadas, o que permitiu a expansão do Império Bizantino sobre a Europa Oriental. (E) acadêmica, e estava relacionada às primeiras universidades, cujas fundações favoreceram a padronização do latim como língua universal. 3",
+        "enunciado": "Essas relações comerciais ocorreram entre os séculos XVI e XIX e, entre os historiadores, o nome atribuído a elas é",
+        "stem": "Essas relações comerciais ocorreram entre os séculos XVI e XIX e, entre os historiadores, o nome atribuído a elas é",
+        "answers": [
+          "Rota Transpacífica.",
+          "Rota das Especiarias.",
+          "Rota da Seda.",
+          "Comércio Triangular.",
+          "Comércio Intercolonial."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "31": {
+        "tema": "Identificação da ideia principal e do objetivo do texto",
+        "reading": "2026. Adaptado. Algumas rotas aéreas que conectam a Ásia à América do Norte sobrevoam áreas próximas ao Polo Norte.",
+        "enunciado": "Essas rotas aéreas são escolhidas para",
+        "stem": "Essas rotas aéreas são escolhidas para",
+        "answers": [
+          "evitar as tempestades tropicais que ocorrem nas regiões polares.",
+          "economizar tempo, combustível e garantir segurança operacional.",
+          "fugir do tráfego aéreo intenso de satélites que ocorre na linha do Equador.",
+          "aproveitar a ausência de gravidade nos polos para economizar combustível.",
+          "garantir que o avião esteja sempre em contato visual com o solo congelado para facilitar a navegação."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "32": {
+        "tema": "Interpretação de texto de Santos Dumont e sua visão sobre o futuro",
+        "reading": "cia. (E) os meios de comunicação, apesar de incapazes de romper barreiras físicas, serão responsáveis por conectar os países das Américas.",
+        "enunciado": "O texto tem por objetivo",
+        "stem": "O texto tem por objetivo",
+        "answers": [
+          "apresentar dados sobre a poluição nos grandes centros urbanos de forma imparcial.",
+          "comover o leitor por meio da exposição emotiva da opinião do autor sobre um fato recente.",
+          "informar regras de conduta para espaços compartilhados e as consequências de uma infração.",
+          "posicionar-se diante de um tema relevante, representando a opinião de uma empresa jornalística.",
+          "mobilizar o leitor a realizar determinadas ações em prol de um tema relevante para a sociedade."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "33": {
+        "tema": "Sentido e interpretação de frases em texto literário",
+        "reading": "Leia um excerto do texto O que eu vi, o que veremos, escrito por Santos Dumont em 1918, para responder às questões 32 e 33.",
+        "enunciado": "Sobre a canção, é correto afirmar que",
+        "stem": "Sobre a canção, é correto afirmar que",
+        "answers": [
+          "a imagem do luar “correndo entre as estrelas” evidencia a nostalgia do menino que sente falta de sua casa.",
+          "predomina a linguagem denotativa devido ao uso literal dos termos, como em “lá vai a vida a rodar”.",
+          "“pro dia novo encontrar” auxilia a construção de uma hipérbole que louva os meios de transporte.",
+          "os termos “rodar”, “ciranda” e “girar” reforçam a imagem do movimento do trem e da vida.",
+          "as informações estão organizadas em três parágrafos com quatro versos, e sem rimas."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "34": {
+        "tema": "Linguagem figurada e interpretação da canção O Trenzinho do Caipira",
+        "reading": "e da dificuldade do seu desenvolvimento, da facilidade de transporte e comunicações e do incremento das relações amistosas.",
+        "enunciado": "Sobre a canção, é correto afirmar que",
+        "stem": "Sobre a canção, é correto afirmar que",
+        "answers": [
+          "a imagem do luar “correndo entre as estrelas” evidencia a nostalgia do menino que sente falta de sua casa.",
+          "predomina a linguagem denotativa devido ao uso literal dos termos, como em “lá vai a vida a rodar”.",
+          "“pro dia novo encontrar” auxilia a construção de uma hipérbole que louva os meios de transporte.",
+          "os termos “rodar”, “ciranda” e “girar” reforçam a imagem do movimento do trem e da vida.",
+          "as informações estão organizadas em três parágrafos com quatro versos, e sem rimas."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "35": {
+        "tema": "Imagens poéticas e efeitos de sentido em uma canção",
+        "reading": "de fauna, existem outras medidas que visam à redução de colisões veiculares com a fauna silvestre, como, por exemplo, as cercas.",
+        "enunciado": "Assinale a alternativa que apresenta o resumo marcado por ações diretamente voltadas ao cuidado, à assistência ou à melhoria das condições de vida de outras pessoas e que transcenda as fronteiras entre nações.",
+        "stem": "Assinale a alternativa que apresenta o resumo marcado por ações diretamente voltadas ao cuidado, à assistência ou à melhoria das condições de vida de outras pessoas e que transcenda as fronteiras entre nações.",
+        "answers": [
+          "Henry Dunant, empresário e humanitário suíço, co-fundador da Cruz Vermelha e idealizador das Convenções de Genebra, dedicou-se à assistência de feridos em conflitos e à promoção de ações humanitárias.",
+          "William Shakespeare, dramaturgo e poeta inglês, autor de obras que exploram a complexidade das emoções humanas e das relações sociais, e que influenciaram profundamente a literatura, o teatro e a cultura ocidental.",
+          "Drauzio Varella, médico e escritor brasileiro, tornou-se conhecido por sua atuação na comunicação sobre temas de saúde por meio de livros, programas de televisão e campanhas educativas em nosso país.",
+          "Alberto Santos Dumont, aeronauta e inventor brasileiro, destacou-se por desenvolver o avião 14-Bis, contribuindo para o avanço dos transportes e possibilitando maior integração entre diferentes regiões do mundo.",
+          "Neymar Jr., jogador de futebol brasileiro, ganhou notoriedade devido a sua habilidade e desempenho em clubes e na seleção nacional, conquistando títulos importantes e reconhecimento internacional no esporte."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "36": {
+        "tema": "Transporte sustentável, bicicletas e impactos ambientais — interdisciplinar",
+        "reading": "",
+        "enunciado": "exto tem por objetivo",
+        "stem": "exto tem por objetivo",
+        "answers": [
+          "apresentar dados sobre a poluição nos grandes centros urbanos de forma imparcial.",
+          "comover o leitor por meio da exposição emotiva da opinião do autor sobre um fato recente.",
+          "informar regras de conduta para espaços compartilhados e as consequências de uma infração.",
+          "posicionar-se diante de um tema relevante, representando a opinião de uma empresa jornalística.",
+          "mobilizar o leitor a realizar determinadas ações em prol de um tema relevante para a sociedade."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "37": {
+        "tema": "Velocidade relativa de embarcações e correnteza",
+        "reading": "Trenzinho do Caipira, composta por Ferreira Gullar para a música de Heitor Villa-Lobos, e responda às questões 34 e 35.",
+        "enunciado": "Sobre a canção, é correto afirmar que",
+        "stem": "Sobre a canção, é correto afirmar que",
+        "answers": [
+          "a imagem do luar “correndo entre as estrelas” evidencia a nostalgia do menino que sente falta de sua casa.",
+          "predomina a linguagem denotativa devido ao uso literal dos termos, como em “lá vai a vida a rodar”.",
+          "“pro dia novo encontrar” auxilia a construção de uma hipérbole que louva os meios de transporte.",
+          "os termos “rodar”, “ciranda” e “girar” reforçam a imagem do movimento do trem e da vida.",
+          "as informações estão organizadas em três parágrafos com quatro versos, e sem rimas."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "38": {
+        "tema": "Transformações de energia: mecânica, elétrica e luminosa",
+        "reading": "avessias locais e atividades de pesca, especialmente na região próxima à sua foz.",
+        "enunciado": "Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas",
+        "stem": "Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas",
+        "answers": [
+          "permanecem acesas com o mesmo brilho.",
+          "permanecem acesas, mas com brilho menor.",
+          "apagam, pois a corrente elétrica deixa de circular.",
+          "ficam mais brilhantes, pois a corrente se concentra nelas.",
+          "apagam-se, exceto a lâmpada mais próxima da fonte."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "39": {
+        "tema": "Circuitos elétricos em série e funcionamento de lâmpadas",
+        "reading": "o sentido da correnteza, e aumenta quando se desloca em sentido contrário. (E) aumenta quando a embarcação se desloca no mesmo sentido da correnteza, e diminui quando se desloca em sentido contrário.",
+        "enunciado": "Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas",
+        "stem": "Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas",
+        "answers": [
+          "permanecem acesas com o mesmo brilho.",
+          "permanecem acesas, mas com brilho menor.",
+          "apagam, pois a corrente elétrica deixa de circular.",
+          "ficam mais brilhantes, pois a corrente se concentra nelas.",
+          "apagam-se, exceto a lâmpada mais próxima da fonte."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "40": {
+        "tema": "Interferência sonora e poluição sonora nos oceanos",
+        "reading": "nosa (D) energia elétrica → energia luminosa → energia mecânica (E) energia mecânica → energia elétrica → energia luminosa 19",
+        "enunciado": "Assim como ocorre na linguagem humana, esses sons apresentam organização e padrões, sendo aprendidos e transmitidos entre os indivíduos.",
+        "stem": "Assim como ocorre na linguagem humana, esses sons apresentam organização e padrões, sendo aprendidos e transmitidos entre os indivíduos.",
+        "answers": [
+          "evaporação.",
+          "absorção.",
+          "timbre.",
+          "difração.",
+          "interferência. A comunicação sonora é amplamente utilizada por animais marinhos e também por tecnologias desenvolvidas pelo ser humano, pois as ondas sonoras"
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "41": {
+        "tema": "Ondas sonoras, propagação e meios materiais",
+        "reading": "",
+        "enunciado": "Assim como ocorre na linguagem humana, esses sons apresentam organização e padrões, sendo aprendidos e transmitidos entre os indivíduos.",
+        "stem": "Assim como ocorre na linguagem humana, esses sons apresentam organização e padrões, sendo aprendidos e transmitidos entre os indivíduos.",
+        "answers": [
+          "evaporação.",
+          "absorção.",
+          "timbre.",
+          "difração.",
+          "interferência. A comunicação sonora é amplamente utilizada por animais marinhos e também por tecnologias desenvolvidas pelo ser humano, pois as ondas sonoras"
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "42": {
+        "tema": "Cálculo de tempo, distância e velocidade de uma embarcação",
+        "reading": "mo estratégia de implantação, a Linha 17–Ouro do Monotrilho foi dividida em 3 trechos de implementação.",
+        "enunciado": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país.",
+        "stem": "Muitas vezes, a realização de um projeto pessoal de vida exige deslocamento espacial, ou seja, mudança de município, de estado ou mesmo de país.",
+        "answers": [
+          "impedir que o indivíduo sinta saudades de seu local de origem.",
+          "dificultar o aprendizado de novos conhecimentos em uma nova fase.",
+          "lidar com os novos ritmos, fluxos e dinâmicas espaciais do local de destino.",
+          "limitar a criação de novas necessidades ou de trajetórias frente a um obstáculo.",
+          "inviabilizar o amadurecimento individual decorrente de processos de mudança."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "43": {
+        "tema": "Impactos ambientais, consumo de plástico e responsabilidade individual",
+        "reading": ". (B) absorção. (C) timbre. (D) difração. (E) interferência.",
+        "enunciado": "A comunicação sonora é amplamente utilizada por animais marinhos e também por tecnologias desenvolvidas pelo ser humano, pois as ondas sonoras",
+        "stem": "A comunicação sonora é amplamente utilizada por animais marinhos e também por tecnologias desenvolvidas pelo ser humano, pois as ondas sonoras",
+        "answers": [
+          "sofrem refração, alterando apenas sua direção de vibração, mas mantendo sua velocidade de propagação.",
+          "necessitam de um meio material e se propagam com maior velocidade na água do que no ar.",
+          "aumentam sua amplitude à medida que se propagam na água, facilitando sua detecção.",
+          "independem da presença de um meio material, podendo se propagar no vácuo sem limitações.",
+          "mantêm sua intensidade constante independentemente da distância percorrida no meio aquático."
+        ],
+        "correct": 2,
+        "gabarito": "C",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "44": {
+        "tema": "Doenças respiratórias, aerossóis e transmissão de microrganismos",
+        "reading": "damente 12 km até a ilha, mantendo velocidade média de 5 m/s. (B) 30 minutos. (C) 40 minutos. (D) 50 minutos. (E) 60 minutos.",
+        "enunciado": "O tempo necessário para essa embarcação realizar o trajeto é de (A) 20 minutos.",
+        "stem": "O tempo necessário para essa embarcação realizar o trajeto é de (A) 20 minutos.",
+        "answers": [
+          "os impactos ambientais apresentados na tirinha ocorrem de forma natural, sem ligação com atitudes humanas.",
+          "o uso de canudos plásticos representa o principal e mais grave problema de poluição ambiental da atualidade.",
+          "os problemas ambientais são causados exclusivamente por grandes indústrias, não tendo relação com hábitos individuais.",
+          "as pessoas valorizam atitudes ambientais simbólicas, mas ignoram outros hábitos que também geram impactos ambientais.",
+          "pequenas atitudes individuais, como evitar o uso de canudos, são suficientes para solucionar os problemas ambientais do planeta. <"
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "45": {
+        "tema": "Sistemas circulatórios e transporte de substâncias nos animais",
+        "reading": "se desloca no mesmo sentido da correnteza, e aumenta quando se desloca em sentido contrário. (E) aumenta quando a embarcação se desloca no mesmo sentido da correnteza, e diminui quando se desloca em sentido contrário.",
+        "enunciado": "Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas",
+        "stem": "Nesse modelo, se uma das lâmpadas queimar, as demais lâmpadas",
+        "answers": [
+          "permanecem acesas com o mesmo brilho.",
+          "permanecem acesas, mas com brilho menor.",
+          "apagam, pois a corrente elétrica deixa de circular.",
+          "ficam mais brilhantes, pois a corrente se concentra nelas.",
+          "apagam-se, exceto a lâmpada mais próxima da fonte."
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "46": {
+        "tema": "Hematose e trocas gasosas nos alvéolos pulmonares",
+        "reading": "tuam na multiplicação de bactérias. (D) facilitam a entrada de luz solar direta, o que acelera a reprodução dos vírus nas superfícies compartilhadas. (E) estimulam o aumento da temperatura corporal dos passageiros, que atua impedindo o aumento da sudorese.",
+        "enunciado": "Consulte a questão 46 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Hematose e trocas gasosas nos alvéolos pulmonares.",
+        "stem": "Consulte a questão 46 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Hematose e trocas gasosas nos alvéolos pulmonares.",
+        "answers": [
+          "um sistema circulatório aberto, no qual o fluído corporal circula somente dentro de lacunas.",
+          "a presença de hemoglobina no sangue, que se desloca em um sistema circulatório fechado.",
+          "a existência de estruturas contráteis, que garantem a circulação do fluido corporal até os tecidos.",
+          "uma conexão direta do sistema circulatório com os rins, o que permite eficiência nas trocas gasosas.",
+          "um sistema circulatório fechado, no qual o fluído corporal sai dos vasos para o interior de lacunas, onde ocorrem as trocas de substâncias."
+        ],
+        "correct": 3,
+        "gabarito": "D",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "47": {
+        "tema": "Hemoglobina, difusão e liberação de oxigênio nos tecidos",
+        "reading": "rido.",
+        "enunciado": "Esses fatores favorecem a disseminação de doenças respiratórias nos transportes públicos porque",
+        "stem": "Esses fatores favorecem a disseminação de doenças respiratórias nos transportes públicos porque",
+        "answers": [
+          "acarretam o acúmulo de aerossóis infectantes, que são partículas microscópicas capazes de permanecer suspensas no ar por algumas horas.",
+          "transformam os corrimãos e as catracas em verdadeiros reservatórios de anticorpos, que foram deixados pelas mãos dos passageiros.",
+          "estimulam as glândulas sudoríparas dos passageiros a produzirem enzimas, que atuam na multiplicação de bactérias.",
+          "facilitam a entrada de luz solar direta, o que acelera a reprodução dos vírus nas superfícies compartilhadas.",
+          "estimulam o aumento da temperatura corporal dos passageiros, que atua impedindo o aumento da sudorese."
+        ],
+        "correct": 4,
+        "gabarito": "E",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "48": {
+        "tema": "Exercício físico, oxigenação e qualidade de vida",
+        "reading": "parágrafos com quatro versos, e sem rimas.",
+        "enunciado": "O uso dos termos destacados na canção",
+        "stem": "O uso dos termos destacados na canção",
+        "answers": [
+          "representa o percurso planejado do trem, refletindo o destino certo do personagem.",
+          "reforça o tédio dos passageiros ao ver a mesma paisagem em lugares diferentes.",
+          "sugere os diversos cenários percorridos pelo trem em sua trajetória sem destino certo.",
+          "expressa a mudança de personagens durante a trajetória percorrida pelo trem.",
+          "indica a alta velocidade do trem ao percorrer lugares diferentes em um único dia."
+        ],
+        "correct": 1,
+        "gabarito": "B",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "49": {
+        "tema": "Osmose, membrana plasmática e conservação de alimentos",
+        "reading": "",
+        "enunciado": "Consulte a questão 49 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Osmose, membrana plasmática e conservação de alimentos.",
+        "stem": "Consulte a questão 49 no caderno oficial do Vestibulinho (prova 2026 2 sem). Tema da Missão ETEC: Osmose, membrana plasmática e conservação de alimentos.",
+        "answers": [
+          "(Alternativa A — ver caderno oficial)",
+          "(Alternativa B — ver caderno oficial)",
+          "(Alternativa C — ver caderno oficial)",
+          "(Alternativa D — ver caderno oficial)",
+          "(Alternativa E — ver caderno oficial)"
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      },
+      "50": {
+        "tema": "Organelas celulares: retículo endoplasmático rugoso e complexo golgiense",
+        "reading": "39 L1 L2 L3",
+        "enunciado": "Tendo em mente o sistema descrito, identifique as transformações de energia, na sequência em que ocorrem, desde o movimento da roda até o funcionamento do sistema de iluminação.",
+        "stem": "Tendo em mente o sistema descrito, identifique as transformações de energia, na sequência em que ocorrem, desde o movimento da roda até o funcionamento do sistema de iluminação.",
+        "answers": [
+          "energia mecânica → energia luminosa → energia elétrica",
+          "energia elétrica → energia mecânica → energia luminosa",
+          "energia térmica → energia mecânica → energia luminosa",
+          "energia elétrica → energia luminosa → energia mecânica",
+          "energia mecânica → energia elétrica → energia luminosa"
+        ],
+        "correct": 0,
+        "gabarito": "A",
+        "cadernoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-CADERNO-VESTIBULINHO-2SEM2026.pdf",
+        "gabaritoUrl": "https://fatweb.s3.amazonaws.com/vestibulinhoetec/gabarito/20262210689/A-GABARITO-VESTIBULINHO-2SEM2026.pdf"
+      }
+    }
+  }
+}
